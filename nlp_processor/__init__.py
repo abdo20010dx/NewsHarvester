@@ -1,0 +1,1 @@
+# NLP Processor app for NewsHarvester 
