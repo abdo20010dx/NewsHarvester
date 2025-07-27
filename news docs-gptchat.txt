@@ -1,0 +1,401 @@
+Project: NewsHarvester — MSN.com Edition
+Business Goal
+
+Harvest, enrich, and index all news data (past & present) from MSN.com — across every available country, category, and section — with a robust crawler + NLP pipeline.
+The output is clean, deduplicated, enriched news articles ready for search and downstream APIs — same spirit as NewsAPI.ai, but for MSN.com only.
+
+🚀 1️⃣ Crawlers — Two Parts
+✅ User Story (BA style)
+As a news data engineer,
+I want to continuously harvest fresh & historical news from MSN.com
+so that my system holds all current headlines plus a complete historical archive.
+
+✅ Crawler Tech & Tools
+Language: Python
+
+Frameworks:
+
+Scrapy → robust spider framework
+
+requests → fallback HTTP client
+
+BeautifulSoup → parse complex HTML
+
+✅ Crawler Design
+You will write two coordinated spiders:
+
+1️⃣ Live News Spider
+
+Purpose: Fetch latest news & events from MSN.com.
+
+Frequency: Every 15 minutes.
+
+Scope: All countries & categories (e.g., World, Tech, Politics, Sports).
+
+Steps:
+
+Crawl landing pages, RSS feeds, or sitemap if MSN exposes them.
+
+Follow country/category listings.
+
+Extract:
+
+Headline, full body
+
+Authors
+
+Published date
+
+Source details
+
+Country & category (parse URL structure or HTML tags)
+
+Save raw articles as JSON or directly to DB.
+
+Special: Dedup by URL hash or content hash.
+
+2️⃣ Historical Archive Spider
+
+Purpose: Crawl all past news on MSN.com.
+
+Scope: Same — all countries & categories.
+
+Steps:
+
+Use pagination: follow ?page= or infinite scroll structure.
+
+Keep track of the last page crawled in a DB or state file.
+
+Resume later from that exact point.
+
+Example: If stopped at page=1200 → next run starts at page=1201.
+
+Special: This spider runs in parallel to live crawler.
+
+E.g., cron once a day or continuously in batches.
+
+✅ Common Scraper Details
+
+Use middlewares.py:
+
+Rotating user-agents
+
+Proxies if needed
+
+Respect robots.txt if you wish
+
+Save to:
+
+Raw JSON file per batch, or
+
+Directly to DB table news_article.
+
+Track duplicate URLs to avoid redundant work.
+
+🚀 2️⃣ NLP Pipeline — Entity Extraction + Sentiment + Embeddings
+User Story (BA style)
+
+As a pipeline operator,
+I want to enrich every article with NLP: entities, sentiment, topics, embeddings,
+so that I can build advanced search & clustering later.
+
+✅ Tech Stack
+Language: Python
+
+Libraries:
+
+spaCy → detect language, run NER (people, places, orgs)
+
+transformers → sentiment classifier, topic classifier if needed
+
+sentence-transformers → generate dense vector embeddings
+
+✅ NLP Steps
+Load each raw article → run:
+
+spaCy pipeline → language, named entities
+
+transformers → sentiment label, score
+
+sentence-transformers → embedding vector
+
+Store:
+
+Entities → entities JSON field
+
+Sentiment → sentiment & sentiment_score
+
+Embedding → embedding array (or push to Elasticsearch vector store)
+
+🚀 3️⃣ Orchestration — Pipeline Control
+User Story (BA style)
+
+As a pipeline engineer,
+I want my crawlers + NLP to run on schedule, handle failures, and push to storage automatically.
+
+✅ Orchestration Plan
+Start simple: Python main.py that:
+
+Triggers Live Spider every 15 mins.
+
+Runs Historical Spider in batches.
+
+Runs NLP processor on any new raw data.
+
+Pushes final docs to Postgres & Elasticsearch.
+
+Scale later: Switch to Apache Airflow DAG for full scheduling + monitoring.
+
+Logs: Write success/failure to logs/.
+
+🚀 4️⃣ Save to Search Index — Elasticsearch
+User Story (BA style)
+
+As an API user,
+I want all enriched MSN news articles to be easily searchable by keyword, entities, sentiment, or vector similarity.
+
+✅ How
+Use elasticsearch-py client.
+
+After NLP, push:
+
+json
+Copy
+Edit
+{
+  "title": "...",
+  "content": "...",
+  "country": ["US"],
+  "category": ["Tech"],
+  "pub_date": "...",
+  "entities": [...],
+  "sentiment": "positive",
+  "embedding": [0.123, -0.456, ...]
+}
+Save under articles index in Elasticsearch/OpenSearch.
+
+✅ 📂 Final Folder Structure
+plaintext
+Copy
+Edit
+NewsHarvester/
+ ├── crawlers/
+ │   ├── spiders/
+ │   │   ├── msn_live_spider.py
+ │   │   ├── msn_historical_spider.py
+ │   ├── items.py
+ │   ├── pipelines.py
+ │   ├── middlewares.py
+ ├── nlp/
+ │   ├── processor.py
+ │   ├── models/  # any custom models
+ │   ├── tests/
+ ├── pipeline/
+ │   ├── pipeline.py
+ │   ├── airflow_dags/  # optional
+ │   ├── logs/
+ ├── indexer/
+ │   ├── es_client.py
+ │   ├── config.yaml
+ ├── requirements.txt
+ ├── README.md
+✅ 📌 Django ORM Reminder
+You already have the Django ORM entity:
+
+Supports:
+
+Country, category, topics, keywords → ArrayField
+
+NLP fields → entities, sentiment, embedding
+
+Dedup → content_hash
+
+Processing flag → processing_status
+
+Add your PostgreSQL settings:
+
+python
+Copy
+Edit
+INSTALLED_APPS = [
+  'django.contrib.postgres',
+  ...
+]
+✅ Summary Flow — MSN.com
+1️⃣ Live Spider: Latest every 15 mins
+2️⃣ Historical Spider: Crawl all past pages, resumes at last stop
+3️⃣ NLP: Language, NER, Sentiment, Embeddings
+4️⃣ Save: DB + Elasticsearch
+5️⃣ Ready for API
+
+⚙️ Next
+If you want:
+✅ I’ll generate:
+
+requirements.txt
+
+Sample msn_live_spider.py
+
+Sample msn_historical_spider.py with checkpoint logic
+
+processor.py starter
+
+es_client.py starter
+
+Just say:
+
+“Yes — build the MSN starter pack!”
+
+And I’ll draft it in Python right now! 🚀
+
+
+
+
+
+
+
+
+You said:
+rewrite the entity , we gonna use postgres , with username postgres , password is passaword  , schema twitto , db is postgres .
+
+
+ChatGPT said:
+✅ Got it — here’s your rewritten Django ORM model for NewsHarvester tailored for:
+
+PostgreSQL
+
+Database: postgres
+
+Schema: twitto
+
+User: postgres
+
+Password: passaword
+
+I’ll show:
+1️⃣ models.py — with schema specified using db_table and db_schema
+2️⃣ settings.py — PostgreSQL connection config
+3️⃣ ✅ Note about pgvector for embeddings
+
+✅ 📌 models.py
+python
+Copy
+Edit
+from django.db import models
+import uuid
+from django.contrib.postgres.fields import ArrayField, JSONField
+
+class NewsArticle(models.Model):
+    id = models.BigAutoField(primary_key=True)
+    article_id = models.UUIDField(default=uuid.uuid4, editable=False, unique=True)
+
+    # Core fields
+    title = models.CharField(max_length=255, blank=True, null=True)
+    link = models.TextField(unique=True, blank=True, null=True)
+    description = models.TextField(blank=True, null=True)
+    content = models.TextField(blank=True, null=True)
+
+    pub_date = models.DateTimeField(blank=True, null=True)
+    image_url = models.TextField(blank=True, null=True)
+    video_url = models.CharField(max_length=255, blank=True, null=True)
+
+    source_id = models.CharField(max_length=255, blank=True, null=True)
+    source_name = models.CharField(max_length=255, blank=True, null=True)
+    source_priority = models.BigIntegerField(blank=True, null=True)
+
+    keywords = ArrayField(models.TextField(), blank=True, default=list)
+    creator = ArrayField(models.TextField(), blank=True, default=list)
+    country = ArrayField(models.TextField(), blank=True, default=list)
+    category = ArrayField(models.TextField(), blank=True, default=list)
+    topics = ArrayField(models.TextField(), blank=True, default=list)
+
+    language = models.CharField(max_length=20, blank=True, null=True)
+
+    # NLP fields
+    entities = JSONField(blank=True, null=True, default=list)
+    sentiment = models.CharField(max_length=50, blank=True, null=True)
+    sentiment_score = models.FloatField(blank=True, null=True)
+
+    # Vector embedding — requires pgvector
+    embedding = ArrayField(models.FloatField(), blank=True, null=True)
+
+    # Deduplication
+    content_hash = models.CharField(max_length=64, unique=True, blank=True, null=True)
+
+    processing_status = models.CharField(
+        max_length=50,
+        choices=[
+            ('raw', 'Raw'),
+            ('processed', 'Processed'),
+            ('error', 'Error')
+        ],
+        default='raw'
+    )
+
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+    deleted_at = models.DateTimeField(blank=True, null=True)
+
+    class Meta:
+        db_table = 'news_article'
+        # This sets the Postgres schema
+        # Note: Django does not have native `db_schema` — instead, use a custom migration or set `search_path`
+        # So here we document intent:
+        managed = True
+
+    def __str__(self):
+        return f"{self.title or 'Untitled'} | {self.link}"
+✅ 📌 PostgreSQL connection — settings.py
+python
+Copy
+Edit
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'postgres',
+        'USER': 'postgres',
+        'PASSWORD': 'passaword',
+        'HOST': 'localhost',
+        'PORT': '5432',
+        'OPTIONS': {
+            'options': '-c search_path=twitto,public'
+        }
+    }
+}
+Key point:
+👉 search_path=twitto,public makes Django operate in the twitto schema by default.
+
+✅ 📌 pgvector support for embeddings
+If you want embeddings as real vectors:
+
+1️⃣ Install pgvector:
+
+bash
+Copy
+Edit
+psql -U postgres -d postgres -c "CREATE EXTENSION IF NOT EXISTS vector;"
+2️⃣ You’ll need a custom Django field or use a third-party package like django-pgvector.
+Example:
+
+python
+Copy
+Edit
+from pgvector.django import VectorField
+
+embedding = VectorField(dimensions=384, blank=True, null=True)
+✅ 📌 Final checklist for twitto schema
+✔️ search_path ensures all tables go under twitto.
+✔️ Or, manage with raw migrations if you want multiple schemas in the same DB.
+✔️ Use ArrayField + JSONField → PostgreSQL only!
+✔️ pgvector → install the Postgres extension & use VectorField.
+
+✅ Ready to run
+You can now:
+
+bash
+Copy
+Edit
+python manage.py makemigrations
+python manage.py migrate
+…and your MSN-focused NewsHarvester is wired for PostgreSQL with schema twitto.
+

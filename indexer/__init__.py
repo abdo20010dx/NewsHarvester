@@ -1,0 +1,1 @@
+# PostgreSQL Indexer Package for MSN.com NewsHarvester 
