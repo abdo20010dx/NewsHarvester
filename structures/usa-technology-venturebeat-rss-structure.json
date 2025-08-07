@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "technology",
+  "feedName": "venturebeat",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-07T13:09:25.789Z",
+  "sampleArticles": [
+    {
+      "title": "New &#8216;persona vectors&#8217; from Anthropic let you decode and direct an LLM&#8217;s personality",
+      "link": "https://venturebeat.com/ai/new-persona-vectors-from-anthropic-let-you-decode-and-direct-an-llms-personality/",
+      "description": "",
+      "pubDate": "Wed, 06 Aug 2025 22:11:20 +0000"
+    },
+    {
+      "title": "The initial reactions to OpenAI’s landmark open source gpt-oss models are highly varied and mixed",
+      "link": "https://venturebeat.com/ai/the-initial-reactions-to-openais-landmark-open-source-gpt-oss-models-are-highly-varied-and-mixed/",
+      "description": "",
+      "pubDate": "Wed, 06 Aug 2025 20:24:07 +0000"
+    },
+    {
+      "title": "How a ‘vibe working’ approach at Genspark tripled ARR growth and supported a barrage of new products and features in just weeks",
+      "link": "https://venturebeat.com/ai/how-a-vibe-working-approach-at-genspark-tripled-arr-growth-and-supported-a-barrage-of-new-products-and-features-in-just-weeks/",
+      "description": "",
+      "pubDate": "Wed, 06 Aug 2025 19:41:34 +0000"
+    }
+  ]
+}

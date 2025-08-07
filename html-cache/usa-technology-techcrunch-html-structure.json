@@ -1,0 +1,13 @@
+{
+  "country": "usa",
+  "category": "technology",
+  "feedName": "techcrunch",
+  "structure": {
+    "contentSelectors": [
+      "main"
+    ],
+    "titleSelector": "h1"
+  },
+  "lastUpdated": "2025-08-07T13:10:56.749Z",
+  "sampleContent": "The Browser Company has launched a Pro subscription plan for Dia, its new web browser that heavily integrates AI features. The plan costs $20 per month and provides unlimited access to Dia’s AI-powered chat and skills features. The introduction of a paid tier means free users will now face usage limits on AI features. While The Browser Company hasn’t specified exact limits, CEO Josh Miller told The New York Times in July that the browser will remain free for those who use AI features “a few times a week.” Image Credits: Screenshot by TechCrunch Miller also indicated that the startup plans to offer multiple subscription tiers, ranging from $5 per month to hundreds of dollars monthly. The current $20 plan appears to be one of several options based on different feature sets. Earlier this week, users on Reddit and Threads noticed that The Browser Company had quietly made the Pro plan available online. However, the company quickly removed the page. Now the subscription option has been resto"
+}

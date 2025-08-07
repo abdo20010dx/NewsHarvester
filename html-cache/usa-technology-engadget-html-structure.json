@@ -1,0 +1,13 @@
+{
+  "country": "usa",
+  "category": "technology",
+  "feedName": "engadget",
+  "structure": {
+    "contentSelectors": [
+      "main"
+    ],
+    "titleSelector": "title"
+  },
+  "lastUpdated": "2025-08-07T13:08:28.750Z",
+  "sampleContent": "AdvertisementAdvertisementAdvertisementVideo Games Weekly: Censorship and stolen puritanical valorThe gaming news you need, July 28 to August 5.Jessica Conditt08.05.2025Dell Premium 14 review: New name, same great laptopSam Rutherford08.06.2025Disney+ will unhinge its jaw and swallow Hulu in 2026Kris Holta day agoSections on habeas corpus and nobility titles were temporarily removed from Congress' US Constitution websiteWill Shanklin19 hours agoPick up Apple's AirPods Pro 2 while they're on sale for $169Matt Tatean hour agoLatest storiesUber received 400,000 reports of sexual misconduct from 2017 to 2022Between 2017 and 2022, 400,181 Uber trips resulted in reports of sexual assault or sexual misconduct in the US, or around one every eight minutes.Anker's 10K Qi2 magnetic power bank drops to $60A portable power bank from Anker that supports Qi2 and MagSafe charging has dropped to its lowest price of 2025 thus far.Sonos is raising prices this year to make up for tariff expensesSonos plan"
+}

@@ -1,0 +1,37 @@
+{
+  "country": "usa",
+  "category": "technology",
+  "feedName": "wired",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate",
+    "categoryTag": "category"
+  },
+  "lastUpdated": "2025-08-07T13:08:57.639Z",
+  "sampleArticles": [
+    {
+      "title": "Best Tested Walking Pads (2025): Urevo, WalkingPad, Sperax",
+      "link": "https://www.wired.com/story/best-walking-pads/",
+      "description": "These compact walking pads fit under your desk and make staying active so much easier.",
+      "pubDate": "Thu, 07 Aug 2025 12:30:00 +0000",
+      "category": "Gear"
+    },
+    {
+      "title": "10 Best Meal Delivery Services, Tested By an Ex-Restaurant Critic",
+      "link": "https://www.wired.com/gallery/best-meal-kit-services-1/",
+      "description": "Here are the best meal kits in 2025, from Martha Stewart’s meal kit to the best meal delivery on a budget.",
+      "pubDate": "Thu, 07 Aug 2025 12:03:00 +0000",
+      "category": "Gear"
+    },
+    {
+      "title": "Ceretone Core One Pro Hearing Aids Review: A Blunt Instrument",
+      "link": "https://www.wired.com/review/ceretone-core-one-pro-hearing-aids/",
+      "description": "The budget hearing aid company revamps its product with a new look but few new features.",
+      "pubDate": "Thu, 07 Aug 2025 11:30:00 +0000",
+      "category": "Gear"
+    }
+  ]
+}

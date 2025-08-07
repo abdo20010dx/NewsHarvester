@@ -1,0 +1,16 @@
+{
+  "country": "usa",
+  "category": "technology",
+  "feedName": "ars-technica",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "h1",
+    "dateSelector": "time",
+    "videoSelector": "[class*=\"video\"]",
+    "categorySelector": "[class*=\"category\"]"
+  },
+  "lastUpdated": "2025-08-07T13:08:57.539Z",
+  "sampleContent": "Text settings Story text Size Small Standard Large Width * Standard Wide Links Standard Orange * Subscribers only Learn more Minimize to nav The head of NASA has decided to move one of the agency's retired space shuttles to Houston, but which one seems to still be up in the air. Senator John Cornyn (R-Texas), who earlier this year introduced and championed an effort to relocate the space shuttle Discovery from the Smithsonian to Space Center Houston, issued a statement on Tuesday evening (August 5) applauding the decision by acting NASA Administrator Sean Duffy. \"There is no better place for one of NASA's space shuttles to be displayed than Space City,\" said Cornyn in the statement. \"Since the inception of our nation's human space exploration program, Houston has been at the center of our most historic achievements, from training the best and brightest to voyage into the great unknown to putting the first man on the moon.\" Keeping the shuttle a secret, for some reason The senator did n"
+}

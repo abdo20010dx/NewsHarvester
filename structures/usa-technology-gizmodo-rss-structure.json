@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "technology",
+  "feedName": "gizmodo",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-07T13:09:24.257Z",
+  "sampleArticles": [
+    {
+      "title": "Nothing Phone 3 Review: A Rule-Breaking Phone for Rebels",
+      "link": "https://gizmodo.com/nothing-phone-3-review-a-rule-breaking-phone-for-rebels-2000639802",
+      "description": "",
+      "pubDate": "Thu, 07 Aug 2025 12:59:10 +0000"
+    },
+    {
+      "title": "Our Brains Contain Lithium—and Its Loss Might Help Drive Alzheimer&#8217;s, Study Finds",
+      "link": "https://gizmodo.com/our-brains-contain-lithium-and-its-loss-might-help-drive-alzheimers-study-finds-2000639558",
+      "description": "",
+      "pubDate": "Thu, 07 Aug 2025 10:00:00 +0000"
+    },
+    {
+      "title": "Bob Iger Insists Disney&#8217;s Focus Is on Original Movies—but Is It?",
+      "link": "https://gizmodo.com/bob-iger-disney-originals-vs-sequels-2000639781",
+      "description": "",
+      "pubDate": "Wed, 06 Aug 2025 22:30:45 +0000"
+    }
+  ]
+}

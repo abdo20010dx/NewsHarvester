@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "technology",
+  "feedName": "ars-technica",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-07T13:08:56.079Z",
+  "sampleArticles": [
+    {
+      "title": "RFK Jr. defends $500M cut for mRNA vaccines with pseudoscience gobbledygook",
+      "link": "https://arstechnica.com/health/2025/08/rfk-jr-defends-500m-cut-for-mrna-vaccines-with-pseudoscience-gobbledygook/",
+      "description": "",
+      "pubDate": "Thu, 07 Aug 2025 11:15:38 +0000"
+    },
+    {
+      "title": "Here’s how deepfake vishing attacks work, and why they can be hard to detect",
+      "link": "https://arstechnica.com/security/2025/08/heres-how-deepfake-vishing-attacks-work-and-why-they-can-be-hard-to-detect/",
+      "description": "",
+      "pubDate": "Thu, 07 Aug 2025 11:00:02 +0000"
+    },
+    {
+      "title": "Tornado Cash sold crypto “privacy”; the US saw “money laundering.”",
+      "link": "https://arstechnica.com/tech-policy/2025/08/tornado-cash-sold-crypto-privacy-the-us-saw-money-laundering-a-jury-isnt-sure-what-to-think/",
+      "description": "",
+      "pubDate": "Wed, 06 Aug 2025 21:29:20 +0000"
+    }
+  ]
+}

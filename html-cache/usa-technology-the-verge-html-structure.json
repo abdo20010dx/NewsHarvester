@@ -1,0 +1,14 @@
+{
+  "country": "usa",
+  "category": "technology",
+  "feedName": "the-verge",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "title",
+    "dateSelector": "time"
+  },
+  "lastUpdated": "2025-08-07T13:08:12.950Z",
+  "sampleContent": "Posted Jan 17, 2024 at 9:13 AM UTCTTikTokThomas RickerLet’s put a drone on it.The latest in this hey-look-at-me car trend comes from BYD, the company that just overtook Tesla in global EV sales. It recently demonstrated a DJI Mavic 3 Pro “Auto Docker” that lives atop a U8 SUV from luxury sub-brand YangWang. It safely stores the drone and contains a battery-swapping robot, all of which can be monitored and controlled from the infotainment system. Great if you’re an #SUVLIFE influencer, I guess.Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates.Thomas RickerCarsDronesElectric CarsNewsTechTransportationMost PopularMost PopularApple made a 24k gold and glass statue for Donald TrumpGrok’s ‘spicy’ video setting instantly made me Taylor Swift nude deepfakesInstagram adds a reposts feed and rips off Snap MapsOpenAI teases GPT-5 launch event this ThursdayOpenAI’s new GPT-5 models announced early by GitHubThe Verge Dail"
+}

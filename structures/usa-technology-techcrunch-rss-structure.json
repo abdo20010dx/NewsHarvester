@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "technology",
+  "feedName": "techcrunch",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-07T13:08:49.684Z",
+  "sampleArticles": [
+    {
+      "title": "Trump says Intel CEO Lip-Bu Tan must &#8216;resign immediately&#8217;",
+      "link": "https://techcrunch.com/2025/08/07/trump-says-intel-ceo-lip-bu-tan-must-resign-immediately/",
+      "description": "",
+      "pubDate": "Thu, 07 Aug 2025 13:03:02 +0000"
+    },
+    {
+      "title": "Library of Congress explains how parts of US Constitution vanished from its website",
+      "link": "https://techcrunch.com/2025/08/07/library-of-congress-explains-how-parts-of-us-constitution-vanished-from-its-website/",
+      "description": "",
+      "pubDate": "Thu, 07 Aug 2025 12:55:35 +0000"
+    },
+    {
+      "title": "Hubble Network plans massive satellite upgrade to create global Bluetooth layer",
+      "link": "https://techcrunch.com/2025/08/07/hubble-taps-muons-new-xl-satellites-to-build-a-bluetooth-layer-around-earth/",
+      "description": "",
+      "pubDate": "Thu, 07 Aug 2025 11:00:00 +0000"
+    }
+  ]
+}

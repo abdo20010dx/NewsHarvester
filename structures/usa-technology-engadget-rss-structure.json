@@ -1,0 +1,14 @@
+{
+  "country": "usa",
+  "category": "technology",
+  "feedName": "engadget",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-07T13:09:18.697Z",
+  "sampleArticles": []
+}

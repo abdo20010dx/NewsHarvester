@@ -1,0 +1,13 @@
+{
+  "country": "usa",
+  "category": "technology",
+  "feedName": "mashable",
+  "structure": {
+    "contentSelectors": [
+      "div:nth-child(87)"
+    ],
+    "dateSelector": "time"
+  },
+  "lastUpdated": "2025-08-07T13:08:38.639Z",
+  "sampleContent": "More on Mashable Review: Eminem's 'Stans' documentary is truly one for the fans Now in AMC Theatres for a limited time. 3 hours ago By Shannon Connellan Hurdle hints and answers for August 7, 2025 Everything you need to win. 8 hours ago By Mashable Team 'Wednesday' Season 2, Part 1: Who is Ophelia? And have we already met her? 13 hours ago By Belen Edwards A key YouTube feature broke for Android users Whoops! 19 hours ago By Alex Perry Tim Cook and Donald Trump will announce $100 billion investment at the White House Apple is pledging a higher commitment to U.S. manufacturing. 20 hours ago By Meera Navlakha Fans held a funeral for Anthropic's Claude 3 Sonnet AI There were several mannequins involved. 20 hours ago By Cecily Mauran 'South Park' has a brutal, NSFW response to Homeland Security's ICE post Trey Parker and Matt Stone continue to go for the Trump administration's jugular. 20 hours ago By Belen Edwards iOS 26 changes iPhone’s low-battery animation It's a little red radar alert"
+}
