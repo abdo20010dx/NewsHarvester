@@ -1,0 +1,1596 @@
+{
+  "timestamp": "2025-08-09T00:13:55.355Z",
+  "summary": {
+    "total": 86,
+    "successful": 81,
+    "failed": 0,
+    "invalid": 5,
+    "successRate": "94.2"
+  },
+  "feedResults": {
+    "abc-news": [
+      {
+        "feed": "abc-news",
+        "category": "news",
+        "url": "https://feeds.abcnews.com/abcnews/usheadlines",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 44038,
+        "isXml": true
+      },
+      {
+        "feed": "abc-news",
+        "category": "world",
+        "url": "https://feeds.abcnews.com/abcnews/internationalheadlines",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 48271,
+        "isXml": true
+      },
+      {
+        "feed": "abc-news",
+        "category": "business",
+        "url": "https://feeds.abcnews.com/abcnews/moneyheadlines",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 45207,
+        "isXml": true
+      },
+      {
+        "feed": "abc-news",
+        "category": "technology",
+        "url": "https://feeds.abcnews.com/abcnews/technologyheadlines",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 46164,
+        "isXml": true
+      }
+    ],
+    "ars-technica": [
+      {
+        "feed": "ars-technica",
+        "category": "technology",
+        "url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 75828,
+        "isXml": true
+      },
+      {
+        "feed": "ars-technica",
+        "category": "science",
+        "url": "https://feeds.arstechnica.com/arstechnica/science",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 78775,
+        "isXml": true
+      },
+      {
+        "feed": "ars-technica",
+        "category": "business",
+        "url": "https://feeds.arstechnica.com/arstechnica/business",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 105021,
+        "isXml": true
+      }
+    ],
+    "baltimore-sun": [
+      {
+        "feed": "baltimore-sun",
+        "category": "news",
+        "url": "https://www.baltimoresun.com/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 97862,
+        "isXml": true
+      },
+      {
+        "feed": "baltimore-sun",
+        "category": "business",
+        "url": "https://www.baltimoresun.com/business/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 86268,
+        "isXml": true
+      },
+      {
+        "feed": "baltimore-sun",
+        "category": "sports",
+        "url": "https://www.baltimoresun.com/sports/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 127331,
+        "isXml": true
+      }
+    ],
+    "bloomberg": [
+      {
+        "feed": "bloomberg",
+        "category": "business",
+        "url": "https://feeds.bloomberg.com/markets/news.rss",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=utf-8",
+        "contentLength": 35125,
+        "isXml": true
+      },
+      {
+        "feed": "bloomberg",
+        "category": "technology",
+        "url": "https://feeds.bloomberg.com/technology/news.rss",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=utf-8",
+        "contentLength": 36274,
+        "isXml": true
+      },
+      {
+        "feed": "bloomberg",
+        "category": "politics",
+        "url": "https://feeds.bloomberg.com/politics/news.rss",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=utf-8",
+        "contentLength": 37185,
+        "isXml": true
+      }
+    ],
+    "business-insider": [
+      {
+        "feed": "business-insider",
+        "category": "business",
+        "url": "https://www.businessinsider.com/rss",
+        "status": "success",
+        "contentType": "application/atom+xml",
+        "contentLength": 283287,
+        "isXml": true
+      }
+    ],
+    "chicago-tribune": [
+      {
+        "feed": "chicago-tribune",
+        "category": "news",
+        "url": "https://www.chicagotribune.com/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 80433,
+        "isXml": true
+      },
+      {
+        "feed": "chicago-tribune",
+        "category": "business",
+        "url": "https://www.chicagotribune.com/business/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 103853,
+        "isXml": true
+      },
+      {
+        "feed": "chicago-tribune",
+        "category": "sports",
+        "url": "https://www.chicagotribune.com/sports/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 203135,
+        "isXml": true
+      }
+    ],
+    "cnn": [
+      {
+        "feed": "cnn",
+        "category": "news",
+        "url": "http://rss.cnn.com/rss/edition.rss",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 130143,
+        "isXml": true
+      },
+      {
+        "feed": "cnn",
+        "category": "world",
+        "url": "http://rss.cnn.com/rss/edition_world.rss",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 67284,
+        "isXml": true
+      },
+      {
+        "feed": "cnn",
+        "category": "business",
+        "url": "http://rss.cnn.com/rss/money_latest.rss",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 1630,
+        "isXml": true
+      },
+      {
+        "feed": "cnn",
+        "category": "technology",
+        "url": "http://rss.cnn.com/rss/edition_technology.rss",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 10391,
+        "isXml": true
+      }
+    ],
+    "denver-post": [
+      {
+        "feed": "denver-post",
+        "category": "news",
+        "url": "https://www.denverpost.com/news/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 97878,
+        "isXml": true
+      },
+      {
+        "feed": "denver-post",
+        "category": "business",
+        "url": "https://www.denverpost.com/business/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 88349,
+        "isXml": true
+      },
+      {
+        "feed": "denver-post",
+        "category": "sports",
+        "url": "https://www.denverpost.com/sports/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 75532,
+        "isXml": true
+      }
+    ],
+    "engadget": [
+      {
+        "feed": "engadget",
+        "category": "technology",
+        "url": "https://www.engadget.com/rss.xml",
+        "status": "success",
+        "contentType": "text/xml",
+        "contentLength": 749017,
+        "isXml": true
+      }
+    ],
+    "fortune": [
+      {
+        "feed": "fortune",
+        "category": "business",
+        "url": "https://fortune.com/feed/",
+        "status": "success",
+        "contentType": "application/xml; charset=UTF-8",
+        "contentLength": 77785,
+        "isXml": true
+      }
+    ],
+    "fox-news": [
+      {
+        "feed": "fox-news",
+        "category": "news",
+        "url": "https://feeds.foxnews.com/foxnews/latest",
+        "status": "success",
+        "contentType": "text/xml;charset=utf-8",
+        "contentLength": 181696,
+        "isXml": true
+      },
+      {
+        "feed": "fox-news",
+        "category": "world",
+        "url": "https://feeds.foxnews.com/foxnews/world",
+        "status": "success",
+        "contentType": "text/xml;charset=utf-8",
+        "contentLength": 205813,
+        "isXml": true
+      },
+      {
+        "feed": "fox-news",
+        "category": "business",
+        "url": "https://feeds.foxnews.com/foxnews/business",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 59444,
+        "isXml": true
+      },
+      {
+        "feed": "fox-news",
+        "category": "technology",
+        "url": "https://feeds.foxnews.com/foxnews/tech",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 230922,
+        "isXml": true
+      }
+    ],
+    "gizmodo": [
+      {
+        "feed": "gizmodo",
+        "category": "technology",
+        "url": "https://gizmodo.com/rss",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 62110,
+        "isXml": true
+      },
+      {
+        "feed": "gizmodo",
+        "category": "science",
+        "url": "https://gizmodo.com/science/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 63263,
+        "isXml": true
+      }
+    ],
+    "los-angeles-times": [
+      {
+        "feed": "los-angeles-times",
+        "category": "news",
+        "url": "https://www.latimes.com/local/rss2.0.xml",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 135745,
+        "isXml": true
+      },
+      {
+        "feed": "los-angeles-times",
+        "category": "world",
+        "url": "https://www.latimes.com/world/rss2.0.xml",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 110667,
+        "isXml": true
+      },
+      {
+        "feed": "los-angeles-times",
+        "category": "politics",
+        "url": "https://www.latimes.com/politics/rss2.0.xml",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 115870,
+        "isXml": true
+      },
+      {
+        "feed": "los-angeles-times",
+        "category": "business",
+        "url": "https://www.latimes.com/business/rss2.0.xml",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 113995,
+        "isXml": true
+      },
+      {
+        "feed": "los-angeles-times",
+        "category": "technology",
+        "url": "https://www.latimes.com/business/technology/rss2.0.xml",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 64111,
+        "isXml": true
+      },
+      {
+        "feed": "los-angeles-times",
+        "category": "sports",
+        "url": "https://www.latimes.com/sports/rss2.0.xml",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 113858,
+        "isXml": true
+      },
+      {
+        "feed": "los-angeles-times",
+        "category": "opinion",
+        "url": "https://www.latimes.com/opinion/rss2.0.xml",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 119510,
+        "isXml": true
+      }
+    ],
+    "mashable": [
+      {
+        "feed": "mashable",
+        "category": "technology",
+        "url": "https://mashable.com/feed",
+        "status": "success",
+        "contentType": "application/xml;charset=UTF-8",
+        "contentLength": 1138246,
+        "isXml": true
+      }
+    ],
+    "nbc-news": [
+      {
+        "feed": "nbc-news",
+        "category": "news",
+        "url": "https://feeds.nbcnews.com/nbcnews/public/news",
+        "status": "success",
+        "contentType": "text/xml; charset=UTF-8",
+        "contentLength": 45066,
+        "isXml": true
+      },
+      {
+        "feed": "nbc-news",
+        "category": "world",
+        "url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status": "success",
+        "contentType": "text/xml; charset=UTF-8",
+        "contentLength": 57014,
+        "isXml": true
+      },
+      {
+        "feed": "nbc-news",
+        "category": "business",
+        "url": "https://feeds.nbcnews.com/nbcnews/public/business",
+        "status": "success",
+        "contentType": "text/xml; charset=UTF-8",
+        "contentLength": 48413,
+        "isXml": true
+      }
+    ],
+    "new-york-times": [
+      {
+        "feed": "new-york-times",
+        "category": "news",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+        "status": "success",
+        "contentType": "application/xml",
+        "contentLength": 51034,
+        "isXml": true
+      },
+      {
+        "feed": "new-york-times",
+        "category": "world",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "status": "success",
+        "contentType": "application/xml",
+        "contentLength": 128781,
+        "isXml": true
+      },
+      {
+        "feed": "new-york-times",
+        "category": "politics",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+        "status": "success",
+        "contentType": "application/xml",
+        "contentLength": 59024,
+        "isXml": true
+      },
+      {
+        "feed": "new-york-times",
+        "category": "business",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+        "status": "success",
+        "contentType": "application/xml",
+        "contentLength": 101743,
+        "isXml": true
+      },
+      {
+        "feed": "new-york-times",
+        "category": "technology",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status": "success",
+        "contentType": "application/xml",
+        "contentLength": 45942,
+        "isXml": true
+      },
+      {
+        "feed": "new-york-times",
+        "category": "science",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+        "status": "success",
+        "contentType": "application/xml",
+        "contentLength": 60522,
+        "isXml": true
+      },
+      {
+        "feed": "new-york-times",
+        "category": "health",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+        "status": "success",
+        "contentType": "application/xml",
+        "contentLength": 42523,
+        "isXml": true
+      },
+      {
+        "feed": "new-york-times",
+        "category": "sports",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
+        "status": "invalid",
+        "error": "No valid RSS structure found"
+      },
+      {
+        "feed": "new-york-times",
+        "category": "arts",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
+        "status": "success",
+        "contentType": "application/xml",
+        "contentLength": 107801,
+        "isXml": true
+      },
+      {
+        "feed": "new-york-times",
+        "category": "opinion",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/Opinion.xml",
+        "status": "success",
+        "contentType": "application/xml",
+        "contentLength": 87291,
+        "isXml": true
+      }
+    ],
+    "npr": [
+      {
+        "feed": "npr",
+        "category": "news",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 16119,
+        "isXml": true
+      },
+      {
+        "feed": "npr",
+        "category": "world",
+        "url": "https://feeds.npr.org/1004/rss.xml",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 14131,
+        "isXml": true
+      },
+      {
+        "feed": "npr",
+        "category": "business",
+        "url": "https://feeds.npr.org/1006/rss.xml",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 20448,
+        "isXml": true
+      },
+      {
+        "feed": "npr",
+        "category": "technology",
+        "url": "https://feeds.npr.org/1019/rss.xml",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 17702,
+        "isXml": true
+      }
+    ],
+    "techcrunch": [
+      {
+        "feed": "techcrunch",
+        "category": "technology",
+        "url": "https://techcrunch.com/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 18411,
+        "isXml": true
+      },
+      {
+        "feed": "techcrunch",
+        "category": "startups",
+        "url": "https://techcrunch.com/tag/startups/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 20880,
+        "isXml": true
+      },
+      {
+        "feed": "techcrunch",
+        "category": "ai",
+        "url": "https://techcrunch.com/tag/artificial-intelligence/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 21505,
+        "isXml": true
+      }
+    ],
+    "the-atlantic": [
+      {
+        "feed": "the-atlantic",
+        "category": "news",
+        "url": "https://www.theatlantic.com/feed/all/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=utf-8",
+        "contentLength": 413010,
+        "isXml": true
+      },
+      {
+        "feed": "the-atlantic",
+        "category": "technology",
+        "url": "https://www.theatlantic.com/feed/technology/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=utf-8",
+        "contentLength": 362187,
+        "isXml": true
+      },
+      {
+        "feed": "the-atlantic",
+        "category": "business",
+        "url": "https://www.theatlantic.com/feed/business/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=utf-8",
+        "contentLength": 344050,
+        "isXml": true
+      }
+    ],
+    "the-hill": [
+      {
+        "feed": "the-hill",
+        "category": "politics",
+        "url": "https://thehill.com/rss/syndicator/19110",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 302138,
+        "isXml": true
+      },
+      {
+        "feed": "the-hill",
+        "category": "news",
+        "url": "https://thehill.com/rss/syndicator/19109",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 302138,
+        "isXml": true
+      }
+    ],
+    "the-verge": [
+      {
+        "feed": "the-verge",
+        "category": "technology",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "status": "success",
+        "contentType": "application/xml; charset=UTF-8",
+        "contentLength": 119023,
+        "isXml": true
+      }
+    ],
+    "time": [
+      {
+        "feed": "time",
+        "category": "news",
+        "url": "https://feeds.feedburner.com/time/topstories",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 136300,
+        "isXml": true
+      },
+      {
+        "feed": "time",
+        "category": "world",
+        "url": "https://feeds.feedburner.com/time/world",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 156951,
+        "isXml": true
+      },
+      {
+        "feed": "time",
+        "category": "business",
+        "url": "https://feeds.feedburner.com/time/business",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 79191,
+        "isXml": true
+      }
+    ],
+    "usa-today": [
+      {
+        "feed": "usa-today",
+        "category": "news",
+        "url": "https://rssfeeds.usatoday.com/usatoday-NewsTopStories",
+        "status": "invalid",
+        "error": "No valid RSS structure found"
+      },
+      {
+        "feed": "usa-today",
+        "category": "world",
+        "url": "https://rssfeeds.usatoday.com/usatoday-WorldTopStories",
+        "status": "invalid",
+        "error": "No valid RSS structure found"
+      },
+      {
+        "feed": "usa-today",
+        "category": "business",
+        "url": "https://rssfeeds.usatoday.com/usatoday-MoneyTopStories",
+        "status": "invalid",
+        "error": "No valid RSS structure found"
+      },
+      {
+        "feed": "usa-today",
+        "category": "technology",
+        "url": "https://rssfeeds.usatoday.com/usatoday-TechTopStories",
+        "status": "invalid",
+        "error": "No valid RSS structure found"
+      }
+    ],
+    "venturebeat": [
+      {
+        "feed": "venturebeat",
+        "category": "technology",
+        "url": "https://venturebeat.com/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 59220,
+        "isXml": true
+      },
+      {
+        "feed": "venturebeat",
+        "category": "ai",
+        "url": "https://venturebeat.com/category/ai/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 103639,
+        "isXml": true
+      },
+      {
+        "feed": "venturebeat",
+        "category": "gaming",
+        "url": "https://venturebeat.com/category/games/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 56404,
+        "isXml": true
+      }
+    ],
+    "vox": [
+      {
+        "feed": "vox",
+        "category": "news",
+        "url": "https://www.vox.com/rss/index.xml",
+        "status": "success",
+        "contentType": "application/xml; charset=UTF-8",
+        "contentLength": 153887,
+        "isXml": true
+      }
+    ],
+    "washington-post": [
+      {
+        "feed": "washington-post",
+        "category": "news",
+        "url": "https://feeds.washingtonpost.com/rss/national",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 8471,
+        "isXml": true
+      },
+      {
+        "feed": "washington-post",
+        "category": "world",
+        "url": "https://feeds.washingtonpost.com/rss/world",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 14514,
+        "isXml": true
+      },
+      {
+        "feed": "washington-post",
+        "category": "politics",
+        "url": "https://feeds.washingtonpost.com/rss/politics",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 39926,
+        "isXml": true
+      },
+      {
+        "feed": "washington-post",
+        "category": "business",
+        "url": "https://feeds.washingtonpost.com/rss/business",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 10560,
+        "isXml": true
+      },
+      {
+        "feed": "washington-post",
+        "category": "sports",
+        "url": "https://feeds.washingtonpost.com/rss/sports",
+        "status": "success",
+        "contentType": "application/xml",
+        "contentLength": 46858,
+        "isXml": true
+      },
+      {
+        "feed": "washington-post",
+        "category": "opinion",
+        "url": "https://feeds.washingtonpost.com/rss/opinions",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 13009,
+        "isXml": true
+      }
+    ],
+    "wired": [
+      {
+        "feed": "wired",
+        "category": "technology",
+        "url": "https://www.wired.com/feed/rss",
+        "status": "success",
+        "contentType": "application/xml",
+        "contentLength": 47783,
+        "isXml": true
+      },
+      {
+        "feed": "wired",
+        "category": "science",
+        "url": "https://www.wired.com/feed/category/science/latest/rss",
+        "status": "success",
+        "contentType": "application/xml",
+        "contentLength": 18457,
+        "isXml": true
+      },
+      {
+        "feed": "wired",
+        "category": "business",
+        "url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status": "success",
+        "contentType": "application/xml",
+        "contentLength": 19780,
+        "isXml": true
+      }
+    ]
+  },
+  "allResults": [
+    {
+      "feed": "abc-news",
+      "category": "news",
+      "url": "https://feeds.abcnews.com/abcnews/usheadlines",
+      "status": "success",
+      "contentType": "text/xml;charset=UTF-8",
+      "contentLength": 44038,
+      "isXml": true
+    },
+    {
+      "feed": "abc-news",
+      "category": "world",
+      "url": "https://feeds.abcnews.com/abcnews/internationalheadlines",
+      "status": "success",
+      "contentType": "text/xml;charset=UTF-8",
+      "contentLength": 48271,
+      "isXml": true
+    },
+    {
+      "feed": "abc-news",
+      "category": "business",
+      "url": "https://feeds.abcnews.com/abcnews/moneyheadlines",
+      "status": "success",
+      "contentType": "text/xml;charset=UTF-8",
+      "contentLength": 45207,
+      "isXml": true
+    },
+    {
+      "feed": "abc-news",
+      "category": "technology",
+      "url": "https://feeds.abcnews.com/abcnews/technologyheadlines",
+      "status": "success",
+      "contentType": "text/xml;charset=UTF-8",
+      "contentLength": 46164,
+      "isXml": true
+    },
+    {
+      "feed": "ars-technica",
+      "category": "technology",
+      "url": "https://feeds.arstechnica.com/arstechnica/index",
+      "status": "success",
+      "contentType": "text/xml; charset=utf-8",
+      "contentLength": 75828,
+      "isXml": true
+    },
+    {
+      "feed": "ars-technica",
+      "category": "science",
+      "url": "https://feeds.arstechnica.com/arstechnica/science",
+      "status": "success",
+      "contentType": "text/xml; charset=utf-8",
+      "contentLength": 78775,
+      "isXml": true
+    },
+    {
+      "feed": "ars-technica",
+      "category": "business",
+      "url": "https://feeds.arstechnica.com/arstechnica/business",
+      "status": "success",
+      "contentType": "text/xml; charset=utf-8",
+      "contentLength": 105021,
+      "isXml": true
+    },
+    {
+      "feed": "baltimore-sun",
+      "category": "news",
+      "url": "https://www.baltimoresun.com/feed/",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "contentLength": 97862,
+      "isXml": true
+    },
+    {
+      "feed": "baltimore-sun",
+      "category": "business",
+      "url": "https://www.baltimoresun.com/business/feed/",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "contentLength": 86268,
+      "isXml": true
+    },
+    {
+      "feed": "baltimore-sun",
+      "category": "sports",
+      "url": "https://www.baltimoresun.com/sports/feed/",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "contentLength": 127331,
+      "isXml": true
+    },
+    {
+      "feed": "bloomberg",
+      "category": "business",
+      "url": "https://feeds.bloomberg.com/markets/news.rss",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=utf-8",
+      "contentLength": 35125,
+      "isXml": true
+    },
+    {
+      "feed": "bloomberg",
+      "category": "technology",
+      "url": "https://feeds.bloomberg.com/technology/news.rss",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=utf-8",
+      "contentLength": 36274,
+      "isXml": true
+    },
+    {
+      "feed": "bloomberg",
+      "category": "politics",
+      "url": "https://feeds.bloomberg.com/politics/news.rss",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=utf-8",
+      "contentLength": 37185,
+      "isXml": true
+    },
+    {
+      "feed": "business-insider",
+      "category": "business",
+      "url": "https://www.businessinsider.com/rss",
+      "status": "success",
+      "contentType": "application/atom+xml",
+      "contentLength": 283287,
+      "isXml": true
+    },
+    {
+      "feed": "chicago-tribune",
+      "category": "news",
+      "url": "https://www.chicagotribune.com/feed/",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "contentLength": 80433,
+      "isXml": true
+    },
+    {
+      "feed": "chicago-tribune",
+      "category": "business",
+      "url": "https://www.chicagotribune.com/business/feed/",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "contentLength": 103853,
+      "isXml": true
+    },
+    {
+      "feed": "chicago-tribune",
+      "category": "sports",
+      "url": "https://www.chicagotribune.com/sports/feed/",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "contentLength": 203135,
+      "isXml": true
+    },
+    {
+      "feed": "cnn",
+      "category": "news",
+      "url": "http://rss.cnn.com/rss/edition.rss",
+      "status": "success",
+      "contentType": "text/xml; charset=utf-8",
+      "contentLength": 130143,
+      "isXml": true
+    },
+    {
+      "feed": "cnn",
+      "category": "world",
+      "url": "http://rss.cnn.com/rss/edition_world.rss",
+      "status": "success",
+      "contentType": "text/xml; charset=utf-8",
+      "contentLength": 67284,
+      "isXml": true
+    },
+    {
+      "feed": "cnn",
+      "category": "business",
+      "url": "http://rss.cnn.com/rss/money_latest.rss",
+      "status": "success",
+      "contentType": "text/xml; charset=utf-8",
+      "contentLength": 1630,
+      "isXml": true
+    },
+    {
+      "feed": "cnn",
+      "category": "technology",
+      "url": "http://rss.cnn.com/rss/edition_technology.rss",
+      "status": "success",
+      "contentType": "text/xml; charset=utf-8",
+      "contentLength": 10391,
+      "isXml": true
+    },
+    {
+      "feed": "denver-post",
+      "category": "news",
+      "url": "https://www.denverpost.com/news/feed/",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "contentLength": 97878,
+      "isXml": true
+    },
+    {
+      "feed": "denver-post",
+      "category": "business",
+      "url": "https://www.denverpost.com/business/feed/",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "contentLength": 88349,
+      "isXml": true
+    },
+    {
+      "feed": "denver-post",
+      "category": "sports",
+      "url": "https://www.denverpost.com/sports/feed/",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "contentLength": 75532,
+      "isXml": true
+    },
+    {
+      "feed": "engadget",
+      "category": "technology",
+      "url": "https://www.engadget.com/rss.xml",
+      "status": "success",
+      "contentType": "text/xml",
+      "contentLength": 749017,
+      "isXml": true
+    },
+    {
+      "feed": "fortune",
+      "category": "business",
+      "url": "https://fortune.com/feed/",
+      "status": "success",
+      "contentType": "application/xml; charset=UTF-8",
+      "contentLength": 77785,
+      "isXml": true
+    },
+    {
+      "feed": "fox-news",
+      "category": "news",
+      "url": "https://feeds.foxnews.com/foxnews/latest",
+      "status": "success",
+      "contentType": "text/xml;charset=utf-8",
+      "contentLength": 181696,
+      "isXml": true
+    },
+    {
+      "feed": "fox-news",
+      "category": "world",
+      "url": "https://feeds.foxnews.com/foxnews/world",
+      "status": "success",
+      "contentType": "text/xml;charset=utf-8",
+      "contentLength": 205813,
+      "isXml": true
+    },
+    {
+      "feed": "fox-news",
+      "category": "business",
+      "url": "https://feeds.foxnews.com/foxnews/business",
+      "status": "success",
+      "contentType": "text/xml; charset=utf-8",
+      "contentLength": 59444,
+      "isXml": true
+    },
+    {
+      "feed": "fox-news",
+      "category": "technology",
+      "url": "https://feeds.foxnews.com/foxnews/tech",
+      "status": "success",
+      "contentType": "text/xml; charset=utf-8",
+      "contentLength": 230922,
+      "isXml": true
+    },
+    {
+      "feed": "gizmodo",
+      "category": "technology",
+      "url": "https://gizmodo.com/rss",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "contentLength": 62110,
+      "isXml": true
+    },
+    {
+      "feed": "gizmodo",
+      "category": "science",
+      "url": "https://gizmodo.com/science/feed/",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "contentLength": 63263,
+      "isXml": true
+    },
+    {
+      "feed": "los-angeles-times",
+      "category": "news",
+      "url": "https://www.latimes.com/local/rss2.0.xml",
+      "status": "success",
+      "contentType": "text/xml;charset=UTF-8",
+      "contentLength": 135745,
+      "isXml": true
+    },
+    {
+      "feed": "los-angeles-times",
+      "category": "world",
+      "url": "https://www.latimes.com/world/rss2.0.xml",
+      "status": "success",
+      "contentType": "text/xml;charset=UTF-8",
+      "contentLength": 110667,
+      "isXml": true
+    },
+    {
+      "feed": "los-angeles-times",
+      "category": "politics",
+      "url": "https://www.latimes.com/politics/rss2.0.xml",
+      "status": "success",
+      "contentType": "text/xml;charset=UTF-8",
+      "contentLength": 115870,
+      "isXml": true
+    },
+    {
+      "feed": "los-angeles-times",
+      "category": "business",
+      "url": "https://www.latimes.com/business/rss2.0.xml",
+      "status": "success",
+      "contentType": "text/xml;charset=UTF-8",
+      "contentLength": 113995,
+      "isXml": true
+    },
+    {
+      "feed": "los-angeles-times",
+      "category": "technology",
+      "url": "https://www.latimes.com/business/technology/rss2.0.xml",
+      "status": "success",
+      "contentType": "text/xml;charset=UTF-8",
+      "contentLength": 64111,
+      "isXml": true
+    },
+    {
+      "feed": "los-angeles-times",
+      "category": "sports",
+      "url": "https://www.latimes.com/sports/rss2.0.xml",
+      "status": "success",
+      "contentType": "text/xml;charset=UTF-8",
+      "contentLength": 113858,
+      "isXml": true
+    },
+    {
+      "feed": "los-angeles-times",
+      "category": "opinion",
+      "url": "https://www.latimes.com/opinion/rss2.0.xml",
+      "status": "success",
+      "contentType": "text/xml;charset=UTF-8",
+      "contentLength": 119510,
+      "isXml": true
+    },
+    {
+      "feed": "mashable",
+      "category": "technology",
+      "url": "https://mashable.com/feed",
+      "status": "success",
+      "contentType": "application/xml;charset=UTF-8",
+      "contentLength": 1138246,
+      "isXml": true
+    },
+    {
+      "feed": "nbc-news",
+      "category": "news",
+      "url": "https://feeds.nbcnews.com/nbcnews/public/news",
+      "status": "success",
+      "contentType": "text/xml; charset=UTF-8",
+      "contentLength": 45066,
+      "isXml": true
+    },
+    {
+      "feed": "nbc-news",
+      "category": "world",
+      "url": "https://feeds.nbcnews.com/nbcnews/public/world",
+      "status": "success",
+      "contentType": "text/xml; charset=UTF-8",
+      "contentLength": 57014,
+      "isXml": true
+    },
+    {
+      "feed": "nbc-news",
+      "category": "business",
+      "url": "https://feeds.nbcnews.com/nbcnews/public/business",
+      "status": "success",
+      "contentType": "text/xml; charset=UTF-8",
+      "contentLength": 48413,
+      "isXml": true
+    },
+    {
+      "feed": "new-york-times",
+      "category": "news",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+      "status": "success",
+      "contentType": "application/xml",
+      "contentLength": 51034,
+      "isXml": true
+    },
+    {
+      "feed": "new-york-times",
+      "category": "world",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "status": "success",
+      "contentType": "application/xml",
+      "contentLength": 128781,
+      "isXml": true
+    },
+    {
+      "feed": "new-york-times",
+      "category": "politics",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "status": "success",
+      "contentType": "application/xml",
+      "contentLength": 59024,
+      "isXml": true
+    },
+    {
+      "feed": "new-york-times",
+      "category": "business",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+      "status": "success",
+      "contentType": "application/xml",
+      "contentLength": 101743,
+      "isXml": true
+    },
+    {
+      "feed": "new-york-times",
+      "category": "technology",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+      "status": "success",
+      "contentType": "application/xml",
+      "contentLength": 45942,
+      "isXml": true
+    },
+    {
+      "feed": "new-york-times",
+      "category": "science",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "status": "success",
+      "contentType": "application/xml",
+      "contentLength": 60522,
+      "isXml": true
+    },
+    {
+      "feed": "new-york-times",
+      "category": "health",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+      "status": "success",
+      "contentType": "application/xml",
+      "contentLength": 42523,
+      "isXml": true
+    },
+    {
+      "feed": "new-york-times",
+      "category": "sports",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
+      "status": "invalid",
+      "error": "No valid RSS structure found"
+    },
+    {
+      "feed": "new-york-times",
+      "category": "arts",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
+      "status": "success",
+      "contentType": "application/xml",
+      "contentLength": 107801,
+      "isXml": true
+    },
+    {
+      "feed": "new-york-times",
+      "category": "opinion",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Opinion.xml",
+      "status": "success",
+      "contentType": "application/xml",
+      "contentLength": 87291,
+      "isXml": true
+    },
+    {
+      "feed": "npr",
+      "category": "news",
+      "url": "https://feeds.npr.org/1001/rss.xml",
+      "status": "success",
+      "contentType": "text/xml;charset=UTF-8",
+      "contentLength": 16119,
+      "isXml": true
+    },
+    {
+      "feed": "npr",
+      "category": "world",
+      "url": "https://feeds.npr.org/1004/rss.xml",
+      "status": "success",
+      "contentType": "text/xml;charset=UTF-8",
+      "contentLength": 14131,
+      "isXml": true
+    },
+    {
+      "feed": "npr",
+      "category": "business",
+      "url": "https://feeds.npr.org/1006/rss.xml",
+      "status": "success",
+      "contentType": "text/xml;charset=UTF-8",
+      "contentLength": 20448,
+      "isXml": true
+    },
+    {
+      "feed": "npr",
+      "category": "technology",
+      "url": "https://feeds.npr.org/1019/rss.xml",
+      "status": "success",
+      "contentType": "text/xml;charset=UTF-8",
+      "contentLength": 17702,
+      "isXml": true
+    },
+    {
+      "feed": "techcrunch",
+      "category": "technology",
+      "url": "https://techcrunch.com/feed/",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "contentLength": 18411,
+      "isXml": true
+    },
+    {
+      "feed": "techcrunch",
+      "category": "startups",
+      "url": "https://techcrunch.com/tag/startups/feed/",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "contentLength": 20880,
+      "isXml": true
+    },
+    {
+      "feed": "techcrunch",
+      "category": "ai",
+      "url": "https://techcrunch.com/tag/artificial-intelligence/feed/",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "contentLength": 21505,
+      "isXml": true
+    },
+    {
+      "feed": "the-atlantic",
+      "category": "news",
+      "url": "https://www.theatlantic.com/feed/all/",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=utf-8",
+      "contentLength": 413010,
+      "isXml": true
+    },
+    {
+      "feed": "the-atlantic",
+      "category": "technology",
+      "url": "https://www.theatlantic.com/feed/technology/",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=utf-8",
+      "contentLength": 362187,
+      "isXml": true
+    },
+    {
+      "feed": "the-atlantic",
+      "category": "business",
+      "url": "https://www.theatlantic.com/feed/business/",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=utf-8",
+      "contentLength": 344050,
+      "isXml": true
+    },
+    {
+      "feed": "the-hill",
+      "category": "politics",
+      "url": "https://thehill.com/rss/syndicator/19110",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "contentLength": 302138,
+      "isXml": true
+    },
+    {
+      "feed": "the-hill",
+      "category": "news",
+      "url": "https://thehill.com/rss/syndicator/19109",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "contentLength": 302138,
+      "isXml": true
+    },
+    {
+      "feed": "the-verge",
+      "category": "technology",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "status": "success",
+      "contentType": "application/xml; charset=UTF-8",
+      "contentLength": 119023,
+      "isXml": true
+    },
+    {
+      "feed": "time",
+      "category": "news",
+      "url": "https://feeds.feedburner.com/time/topstories",
+      "status": "success",
+      "contentType": "text/xml; charset=utf-8",
+      "contentLength": 136300,
+      "isXml": true
+    },
+    {
+      "feed": "time",
+      "category": "world",
+      "url": "https://feeds.feedburner.com/time/world",
+      "status": "success",
+      "contentType": "text/xml; charset=utf-8",
+      "contentLength": 156951,
+      "isXml": true
+    },
+    {
+      "feed": "time",
+      "category": "business",
+      "url": "https://feeds.feedburner.com/time/business",
+      "status": "success",
+      "contentType": "text/xml; charset=utf-8",
+      "contentLength": 79191,
+      "isXml": true
+    },
+    {
+      "feed": "usa-today",
+      "category": "news",
+      "url": "https://rssfeeds.usatoday.com/usatoday-NewsTopStories",
+      "status": "invalid",
+      "error": "No valid RSS structure found"
+    },
+    {
+      "feed": "usa-today",
+      "category": "world",
+      "url": "https://rssfeeds.usatoday.com/usatoday-WorldTopStories",
+      "status": "invalid",
+      "error": "No valid RSS structure found"
+    },
+    {
+      "feed": "usa-today",
+      "category": "business",
+      "url": "https://rssfeeds.usatoday.com/usatoday-MoneyTopStories",
+      "status": "invalid",
+      "error": "No valid RSS structure found"
+    },
+    {
+      "feed": "usa-today",
+      "category": "technology",
+      "url": "https://rssfeeds.usatoday.com/usatoday-TechTopStories",
+      "status": "invalid",
+      "error": "No valid RSS structure found"
+    },
+    {
+      "feed": "venturebeat",
+      "category": "technology",
+      "url": "https://venturebeat.com/feed/",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "contentLength": 59220,
+      "isXml": true
+    },
+    {
+      "feed": "venturebeat",
+      "category": "ai",
+      "url": "https://venturebeat.com/category/ai/feed/",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "contentLength": 103639,
+      "isXml": true
+    },
+    {
+      "feed": "venturebeat",
+      "category": "gaming",
+      "url": "https://venturebeat.com/category/games/feed/",
+      "status": "success",
+      "contentType": "application/rss+xml; charset=UTF-8",
+      "contentLength": 56404,
+      "isXml": true
+    },
+    {
+      "feed": "vox",
+      "category": "news",
+      "url": "https://www.vox.com/rss/index.xml",
+      "status": "success",
+      "contentType": "application/xml; charset=UTF-8",
+      "contentLength": 153887,
+      "isXml": true
+    },
+    {
+      "feed": "washington-post",
+      "category": "news",
+      "url": "https://feeds.washingtonpost.com/rss/national",
+      "status": "success",
+      "contentType": "text/xml; charset=utf-8",
+      "contentLength": 8471,
+      "isXml": true
+    },
+    {
+      "feed": "washington-post",
+      "category": "world",
+      "url": "https://feeds.washingtonpost.com/rss/world",
+      "status": "success",
+      "contentType": "text/xml; charset=utf-8",
+      "contentLength": 14514,
+      "isXml": true
+    },
+    {
+      "feed": "washington-post",
+      "category": "politics",
+      "url": "https://feeds.washingtonpost.com/rss/politics",
+      "status": "success",
+      "contentType": "text/xml; charset=utf-8",
+      "contentLength": 39926,
+      "isXml": true
+    },
+    {
+      "feed": "washington-post",
+      "category": "business",
+      "url": "https://feeds.washingtonpost.com/rss/business",
+      "status": "success",
+      "contentType": "text/xml; charset=utf-8",
+      "contentLength": 10560,
+      "isXml": true
+    },
+    {
+      "feed": "washington-post",
+      "category": "sports",
+      "url": "https://feeds.washingtonpost.com/rss/sports",
+      "status": "success",
+      "contentType": "application/xml",
+      "contentLength": 46858,
+      "isXml": true
+    },
+    {
+      "feed": "washington-post",
+      "category": "opinion",
+      "url": "https://feeds.washingtonpost.com/rss/opinions",
+      "status": "success",
+      "contentType": "text/xml; charset=utf-8",
+      "contentLength": 13009,
+      "isXml": true
+    },
+    {
+      "feed": "wired",
+      "category": "technology",
+      "url": "https://www.wired.com/feed/rss",
+      "status": "success",
+      "contentType": "application/xml",
+      "contentLength": 47783,
+      "isXml": true
+    },
+    {
+      "feed": "wired",
+      "category": "science",
+      "url": "https://www.wired.com/feed/category/science/latest/rss",
+      "status": "success",
+      "contentType": "application/xml",
+      "contentLength": 18457,
+      "isXml": true
+    },
+    {
+      "feed": "wired",
+      "category": "business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss",
+      "status": "success",
+      "contentType": "application/xml",
+      "contentLength": 19780,
+      "isXml": true
+    }
+  ]
+}

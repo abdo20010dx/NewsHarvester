@@ -1,0 +1,15 @@
+{
+  "country": "usa",
+  "category": "business",
+  "feedName": "nbc-news",
+  "structure": {
+    "contentSelectors": [
+      "div:nth-child(2)"
+    ],
+    "titleSelector": "h1",
+    "videoSelector": ".video",
+    "socialShareSelector": "[class*=\"share\"]"
+  },
+  "lastUpdated": "2025-08-09T09:55:46.216Z",
+  "sampleContent": "IE 11 is not supported. For an optimal experience visit our site on another browser.Skip to ContentNia Coffey #12 of the Atlanta Dream handles the ball during the game against the Chicago Sky on Thursday at the Wintrust Arena in Chicago.Melissa Tamez / NBAE via Getty ImagesAug. 8, 2025, 8:19 PM EDT / Updated Aug. 8, 2025, 9:34 PM EDTBy Rob Wile and David K. LiA group of crypto investors is claiming responsibility for a series of incidents where green sex toys were tossed onto WNBA courts, adding a strange wrinkle to an already-charged furor that casts a shadow over the league.WNBA games in Atlanta, Brooklyn, Chicago, Los Angeles, and Phoenix have seen bright green, phallic-shaped objects hurled toward the hardwood during play. The incidents have spurred at least two arrests and uproar from WNBA participants and fans.In fact, the incidents were designed to promote a so-called “meme” coin. These digital cryptocurrencies see their value increase as more buyers pile into the assets. The cr"
+}

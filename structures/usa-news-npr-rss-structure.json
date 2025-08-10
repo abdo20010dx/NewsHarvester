@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "news",
+  "feedName": "npr",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T10:12:40.145Z",
+  "sampleArticles": [
+    {
+      "title": "An ancient archaeological site meets conspiracy theories — and Joe Rogan",
+      "link": "https://www.npr.org/2025/08/09/nx-s1-5492477/gobleki-tepe-archaeology",
+      "description": "In the hills of southeastern Turkey lies a site so ancient, it&apos;s turning our understanding of civilization on its head and leading to conspiracy theories.",
+      "pubDate": "Sat, 09 Aug 2025 06:00:00 -0400"
+    },
+    {
+      "title": "&apos;At least I&apos;m safe&apos;: A Kenyan immigrant opts to leave the U.S. on his own terms, leaving children and wife behind",
+      "link": "https://www.npr.org/2025/08/09/nx-s1-5438412/kenyan-immigrant-opts-leave-us-his-own-terms-self-deport",
+      "description": "The Trump administration has given an ultimatum to immigrants without legal status: Leave voluntarily, or you&apos;ll be detained and deported. This has forced some immigrant families in the U.S. to grapple with very hard choices.",
+      "pubDate": "Sat, 09 Aug 2025 05:06:00 -0400"
+    },
+    {
+      "title": "Italy is reviving plans for a bridge connecting Sicily to the mainland. Will it work?",
+      "link": "https://www.npr.org/2025/08/09/nx-s1-5495666/messina-bridge-sicily-italy",
+      "description": "Plans for the bridge were first approved in the 1970s, but have stopped and started over the decades.",
+      "pubDate": "Sat, 09 Aug 2025 05:00:00 -0400"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "feedName": "gizmodo",
+  "displayName": "Gizmodo",
+  "urls": [
+    {
+      "category": "technology",
+      "url": "https://gizmodo.com/rss"
+    },
+    {
+      "category": "science",
+      "url": "https://gizmodo.com/science/feed/"
+    }
+  ]
+}

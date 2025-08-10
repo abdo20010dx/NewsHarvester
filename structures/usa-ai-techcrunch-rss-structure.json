@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "ai",
+  "feedName": "techcrunch",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T10:23:09.794Z",
+  "sampleArticles": [
+    {
+      "title": "Perplexity accused of scraping websites that explicitly blocked AI scraping",
+      "link": "https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/",
+      "description": "",
+      "pubDate": "Mon, 04 Aug 2025 15:41:39 +0000"
+    },
+    {
+      "title": "Obvio’s stop sign cameras use AI to root out unsafe drivers",
+      "link": "https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/",
+      "description": "",
+      "pubDate": "Wed, 04 Jun 2025 14:00:00 +0000"
+    },
+    {
+      "title": "Breakneck data center growth challenges Microsoft’s sustainability goals",
+      "link": "https://techcrunch.com/2025/06/02/breakneck-data-center-growth-challenges-microsofts-sustainability-goals/",
+      "description": "",
+      "pubDate": "Mon, 02 Jun 2025 18:07:05 +0000"
+    }
+  ]
+}

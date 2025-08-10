@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "politics",
+  "feedName": "washington-post",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T10:50:48.783Z",
+  "sampleArticles": [
+    {
+      "title": "Inside Democrats’ risky gambit to ‘fight fire with fire’ over election maps",
+      "link": "https://www.washingtonpost.com/politics/2025/08/09/texas-democrats-redistricting-election-maps/",
+      "description": "In Texas and beyond, the party has adopted a newly combative posture following months of internal conversations. Now, they face an uphill climb.",
+      "pubDate": "Sat, 09 Aug 2025 10:00:00 +0000"
+    },
+    {
+      "title": "Trump, Putin meeting set for next week in Alaska",
+      "link": "https://www.washingtonpost.com/politics/2025/08/08/trump-putin-ukraine-meeting/",
+      "description": "Trump made no mention of whether Ukrainian President Volodymyr Zelensky would be attending.",
+      "pubDate": "Sat, 09 Aug 2025 06:46:53 +0000"
+    },
+    {
+      "title": "Texas attorney general sues to remove 13 absent Democrats from office",
+      "link": "https://www.washingtonpost.com/politics/2025/08/08/texas-democrats-redistricting-deadline-abbott/",
+      "description": "During a brief session Friday, state House Speaker Dustin Burrows (R) announced the chamber did not have enough members present to conduct business.",
+      "pubDate": "Sat, 09 Aug 2025 01:19:20 +0000"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "business",
+  "feedName": "baltimore-sun",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T08:53:06.324Z",
+  "sampleArticles": [
+    {
+      "title": "Redevelopment of parks, promenade at Harborplace to kick off by fall 2026",
+      "link": "https://www.baltimoresun.com/2025/08/08/redevelopment-of-parks-promenade-at-harborplace-to-kick-off-by-fall-2026/",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 17:17:37 +0000"
+    },
+    {
+      "title": "Wall Street clocks another winning week",
+      "link": "https://www.baltimoresun.com/2025/08/08/stock-market-steady-after-tariffs/",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 14:30:23 +0000"
+    },
+    {
+      "title": "Four frequent money worries – and what to do about them",
+      "link": "https://www.baltimoresun.com/2025/08/08/what-to-do-money-worries/",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 14:00:50 +0000"
+    }
+  ]
+}

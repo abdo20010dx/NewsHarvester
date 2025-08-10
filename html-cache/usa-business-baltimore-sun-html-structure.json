@@ -1,0 +1,17 @@
+{
+  "country": "usa",
+  "category": "business",
+  "feedName": "baltimore-sun",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "title",
+    "authorSelector": ".byline",
+    "dateSelector": "time",
+    "categorySelector": "[class*=\"category\"]",
+    "socialShareSelector": "[class*=\"share\"]"
+  },
+  "lastUpdated": "2025-08-09T08:55:39.738Z",
+  "sampleContent": "President Donald Trump holds charts as he speaks about the economy in the Oval Office of the White House, Thursday, Aug. 7, 2025, in Washington. (AP Photo/Mark Schiefelbein) By Associated PressUPDATED: August 7, 2025 at 6:04 PM EDTBy JOSH BOAK WASHINGTON (AP) — President Donald Trump unexpectedly summoned reporters to the Oval Office on Thursday to present them with charts that he says show the U.S. economy is solid following a jobs report last week that raised red flags and led to the Republican firing the head of the Bureau of Labor Statistics. Joining Trump to talk about the economy was Stephen Moore, a senior visiting fellow in economics at the Heritage Foundation, a conservative think tank, and the co-author of the 2018 book “ Trumponomics.” Flipping through a series of charts on an easel, Moore sought to elevate Trump’s performance as president and diminish the economic track record of former President Joe Biden. Trump stood next to Moore and interjected with approvals. The momen"
+}

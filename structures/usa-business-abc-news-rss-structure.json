@@ -1,0 +1,15 @@
+{
+  "country": "usa",
+  "category": "business",
+  "feedName": "abc-news",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate",
+    "categoryTag": "category"
+  },
+  "lastUpdated": "2025-08-09T08:45:38.147Z",
+  "sampleArticles": []
+}

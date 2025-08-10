@@ -1,0 +1,14 @@
+{
+  "country": "usa",
+  "category": "news",
+  "feedName": "the-atlantic",
+  "structure": {
+    "itemTag": "entry",
+    "titleTag": "name",
+    "linkTag": "link",
+    "descriptionTag": "content",
+    "pubDateTag": "published"
+  },
+  "lastUpdated": "2025-08-09T10:25:17.219Z",
+  "sampleArticles": []
+}

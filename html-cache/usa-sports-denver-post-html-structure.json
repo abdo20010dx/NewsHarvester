@@ -1,0 +1,17 @@
+{
+  "country": "usa",
+  "category": "sports",
+  "feedName": "denver-post",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "title",
+    "authorSelector": ".byline",
+    "dateSelector": "time",
+    "categorySelector": "[class*=\"category\"]",
+    "socialShareSelector": "[class*=\"share\"]"
+  },
+  "lastUpdated": "2025-08-09T09:10:17.756Z",
+  "sampleContent": "Cleveland Browns quarterback Shedeur Sanders celebrates after a touchdown pass against the Carolina Panthers during the first half of a preseason NFL football game on Friday, Aug. 8, 2025, in Charlotte, N.C. (AP Photo/Rusty Jones) Cleveland Browns quarterback Shedeur Sanders passes against the Carolina Panthers during the first half of a preseason NFL football game on Friday, Aug. 8, 2025, in Charlotte, N.C. (AP Photo/Rusty Jones) Carolina Panthers quarterback Bryce Young breaks away from Cleveland Browns defensive end Sam Kamara during the first half of a preseason NFL football game on Friday, Aug. 8, 2025, in Charlotte, N.C. (AP Photo/Jacob Kupferman) Cleveland Browns quarterback Shedeur Sanders runs against the Carolina Panthers during the first half of a preseason NFL football game on Friday, Aug. 8, 2025, in Charlotte, N.C. (AP Photo/Jacob Kupferman) Cleveland Browns quarterback Shedeur Sanders is pursued by Carolina Panthers linebacker D.J. Wonnum during the first half of a prese"
+}

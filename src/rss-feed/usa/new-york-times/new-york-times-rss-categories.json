@@ -1,0 +1,46 @@
+{
+  "feedName": "new-york-times",
+  "displayName": "New York Times",
+  "urls": [
+    {
+      "category": "news",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+    },
+    {
+      "category": "world",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+    },
+    {
+      "category": "politics",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    },
+    {
+      "category": "business",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"
+    },
+    {
+      "category": "technology",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+    },
+    {
+      "category": "science",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml"
+    },
+    {
+      "category": "health",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml"
+    },
+    {
+      "category": "sports",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml"
+    },
+    {
+      "category": "arts",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml"
+    },
+    {
+      "category": "opinion",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Opinion.xml"
+    }
+  ]
+}

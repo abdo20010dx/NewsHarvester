@@ -1,0 +1,17 @@
+{
+  "country": "usa",
+  "category": "startups",
+  "feedName": "techcrunch",
+  "structure": {
+    "contentSelectors": [
+      "main"
+    ],
+    "titleSelector": "h1",
+    "authorSelector": "[class*=\"author\"]",
+    "dateSelector": "time",
+    "categorySelector": "[class*=\"category\"]",
+    "socialShareSelector": "[class*=\"share\"]"
+  },
+  "lastUpdated": "2025-08-09T10:23:01.684Z",
+  "sampleContent": "The global assistive technology market was valued at more than $22 billion in 2023 and is projected to grow substantially by 2030. Despite the potential market size, many founders building tech to help people with disabilities struggle to secure the kind of early funding needed to get their companies off the ground in the first place. Adaptation Ventures is a new angel group hoping to fill that funding gap by providing capital to early-stage startups building accessibility tech. It will back startups building tech specifically for persons with disabilities as well as companies with products designed for a broader market that also helps those populations. The firm was co-founded by married couple Brittany Palmer and Rich Palmer (pictured above), both of whom are former startup founders, angel investors, and persons with disabilities. Brittany told TechCrunch she experienced this funding gap problem firsthand when she tried to raise capital for her company Beeyonder, a startup that offer"
+}

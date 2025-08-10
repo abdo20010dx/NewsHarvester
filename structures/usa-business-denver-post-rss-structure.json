@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "business",
+  "feedName": "denver-post",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T09:06:51.895Z",
+  "sampleArticles": [
+    {
+      "title": "Real estate investor used &#8216;creative&#8217; financing in purchase of Denver offices",
+      "link": "https://www.denverpost.com/2025/08/08/real-estate-investor-denver-offices/",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 21:44:13 +0000"
+    },
+    {
+      "title": "Judge rules Castle Pines can block McDonald&#8217;s restaurant development",
+      "link": "https://www.denverpost.com/2025/08/08/castle-pines-mcdonalds-development-ruling/",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 21:00:47 +0000"
+    },
+    {
+      "title": "Evergreen mansion sells for $10M, topping home sales in the Denver area for July",
+      "link": "https://www.denverpost.com/2025/08/08/colorado-mansion-sells-10m-real-estate/",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 21:00:00 +0000"
+    }
+  ]
+}

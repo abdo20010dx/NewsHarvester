@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "sports",
+  "feedName": "baltimore-sun",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T08:55:45.377Z",
+  "sampleArticles": [
+    {
+      "title": "Patriots offense shines in 48-18 preseason win over Commanders",
+      "link": "https://www.baltimoresun.com/2025/08/08/commanders-patriots-nfl-preseason/",
+      "description": "",
+      "pubDate": "Sat, 09 Aug 2025 03:21:03 +0000"
+    },
+    {
+      "title": "New England Patriots unveil statue of Tom Brady, QB who led them to 6 titles, before preseason opener",
+      "link": "https://www.baltimoresun.com/2025/08/08/tom-brady-new-england-patriots-statue/",
+      "description": "",
+      "pubDate": "Sat, 09 Aug 2025 02:59:06 +0000"
+    },
+    {
+      "title": "Browns QB Shedeur Sanders impressive in NFL preseason debut",
+      "link": "https://www.baltimoresun.com/2025/08/08/shedeur-sanders-browns-nfl-preseason-debut/",
+      "description": "",
+      "pubDate": "Sat, 09 Aug 2025 02:38:44 +0000"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "science",
+  "feedName": "gizmodo",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T09:27:56.871Z",
+  "sampleArticles": [
+    {
+      "title": "First-Ever Look at Exploding Molecules Reveals Their Quantum Secrets",
+      "link": "https://gizmodo.com/first-ever-look-at-exploding-molecules-reveals-their-quantum-secrets-2000640946",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 21:05:43 +0000"
+    },
+    {
+      "title": "Man Follows Diet Advice From ChatGPT, Ends Up With Psychosis",
+      "link": "https://gizmodo.com/man-follows-diet-advice-from-chatgpt-ends-up-with-psychosis-2000640705",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 20:35:48 +0000"
+    },
+    {
+      "title": "New Gel Could Heal Stubborn Diabetic Wounds in Under 2 Weeks",
+      "link": "https://gizmodo.com/new-gel-could-heal-stubborn-diabetic-wounds-in-under-2-weeks-2000640860",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 19:55:22 +0000"
+    }
+  ]
+}

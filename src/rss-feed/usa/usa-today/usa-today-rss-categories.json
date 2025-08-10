@@ -1,0 +1,22 @@
+{
+  "feedName": "usa-today",
+  "displayName": "USA Today",
+  "urls": [
+    {
+      "category": "news",
+      "url": "https://rssfeeds.usatoday.com/usatoday-NewsTopStories"
+    },
+    {
+      "category": "world",
+      "url": "https://rssfeeds.usatoday.com/usatoday-WorldTopStories"
+    },
+    {
+      "category": "business",
+      "url": "https://rssfeeds.usatoday.com/usatoday-MoneyTopStories"
+    },
+    {
+      "category": "technology",
+      "url": "https://rssfeeds.usatoday.com/usatoday-TechTopStories"
+    }
+  ]
+}

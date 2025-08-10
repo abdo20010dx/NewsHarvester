@@ -1,0 +1,22 @@
+{
+  "feedName": "abc-news",
+  "displayName": "ABC News",
+  "urls": [
+    {
+      "category": "news",
+      "url": "https://feeds.abcnews.com/abcnews/usheadlines"
+    },
+    {
+      "category": "world",
+      "url": "https://feeds.abcnews.com/abcnews/internationalheadlines"
+    },
+    {
+      "category": "business",
+      "url": "https://feeds.abcnews.com/abcnews/moneyheadlines"
+    },
+    {
+      "category": "technology",
+      "url": "https://feeds.abcnews.com/abcnews/technologyheadlines"
+    }
+  ]
+}

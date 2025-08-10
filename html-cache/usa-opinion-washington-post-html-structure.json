@@ -1,0 +1,14 @@
+{
+  "country": "usa",
+  "category": "opinion",
+  "feedName": "washington-post",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "title",
+    "authorSelector": "[rel=\"author\"]"
+  },
+  "lastUpdated": "2025-08-09T11:08:21.252Z",
+  "sampleContent": "By Scott WalkerScott Walker, a Republican, was governor of Wisconsin from 2011 to 2019.If Texas Republicans want to win their fight with runaway Democrats, there is a playbook. We wrote it in Wisconsin in 2011.That February, 14 Democrats in the Wisconsin Senate crossed over the state line to avoid a vote on major, long-overdue reforms that Republican lawmakers and I were determined to enact. I proposed transferring power from Big Government union bosses back into the hands of hardworking taxpayers and those they elect to run their state and local governments.AdvertisementAdvertisementAdvertisementAdvertisementAs the Democrats left, protesters poured into the state. Eventually, as many as 100,000 took over our Capitol and square for nearly a month. The Occupy movement did not begin on Wall Street. It started on my street in Madison.AdvertisementMore than a decade later, Texas Democrats are attempting the same kind of stonewalling tactic. After Republican Gov. Greg Abbott called a specia"
+}

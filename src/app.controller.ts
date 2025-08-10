@@ -4,7 +4,7 @@ import type { RSSFeedConfig, Article, ExtractedPostData } from './util/global-me
 
 @Controller()
 export class AppController {
-  constructor(private readonly appService: AppService) {}
+  constructor(private readonly appService: AppService) { }
 
   @Get()
   getHello(): string {
@@ -33,13 +33,13 @@ export class AppController {
   @Post('rss/process-multiple')
   async processMultipleFeeds(@Body() configs: RSSFeedConfig[]): Promise<any> {
     const results = await this.appService.processMultipleFeeds(configs);
-    
+
     // Convert Map to object for JSON response
     const response: { [key: string]: Article[] } = {};
     results.forEach((articles, key) => {
       response[key] = articles;
     });
-    
+
     return response;
   }
 
@@ -49,13 +49,13 @@ export class AppController {
   @Post('rss/batch')
   async batchProcessFeeds(@Body() body: { feeds: RSSFeedConfig[] }): Promise<any> {
     const results = await this.appService.processMultipleFeeds(body.feeds);
-    
+
     // Convert Map to object for JSON response
     const response: { [key: string]: Article[] } = {};
     results.forEach((articles, key) => {
       response[key] = articles;
     });
-    
+
     return response;
   }
 
@@ -71,7 +71,7 @@ export class AppController {
       if (!url) {
         throw new Error('URL parameter is required');
       }
-      
+
       const content = await this.appService.extractContentFromURL(config, url);
       return content;
     } catch (error) {
@@ -92,7 +92,7 @@ export class AppController {
       if (!url) {
         throw new Error('URL parameter is required');
       }
-      
+
       const postData = await this.appService.extractPostDataFromURL(config, url);
       return postData;
     } catch (error) {
@@ -115,13 +115,13 @@ export class AppController {
   @Get('feeds/process-all')
   async processAllSampleFeeds(): Promise<any> {
     const results = await this.appService.processAllSampleFeeds();
-    
+
     // Convert Map to object for JSON response
     const response: { [key: string]: Article[] } = {};
     results.forEach((articles, key) => {
       response[key] = articles;
     });
-    
+
     return response;
   }
 
@@ -133,10 +133,10 @@ export class AppController {
     const config: RSSFeedConfig = {
       country: 'usa',
       category: 'technology',
-      feedName: 'techcrunch',
-      url: 'https://techcrunch.com/feed/'
+      feedName: 'new-york-times',
+      url: 'https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml'
     };
-    
+
     return await this.appService.processRSSFeed(config);
   }
 

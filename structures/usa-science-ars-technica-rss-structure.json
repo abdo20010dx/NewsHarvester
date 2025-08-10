@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "science",
+  "feedName": "ars-technica",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T08:46:59.181Z",
+  "sampleArticles": [
+    {
+      "title": "For giant carnivorous dinosaurs, big size didn’t mean a big bite",
+      "link": "https://arstechnica.com/science/2025/08/for-giant-carnivorous-dinosaurs-big-size-didnt-mean-a-big-bite/",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 22:06:25 +0000"
+    },
+    {
+      "title": "Texas prepares for war as invasion of flesh-eating flies appears imminent",
+      "link": "https://arstechnica.com/health/2025/08/texas-prepares-for-war-as-invasion-of-flesh-eating-flies-appears-imminent/",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 21:46:32 +0000"
+    },
+    {
+      "title": "National Academies to fast-track a new climate assessment",
+      "link": "https://arstechnica.com/science/2025/08/national-academies-to-fast-track-a-new-climate-assessment/",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 13:55:43 +0000"
+    }
+  ]
+}

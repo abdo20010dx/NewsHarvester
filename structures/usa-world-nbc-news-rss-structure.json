@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "world",
+  "feedName": "nbc-news",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T09:51:05.381Z",
+  "sampleArticles": [
+    {
+      "title": "Zelenskyy rejects Trump&#39;s proposal that Ukraine could swap territories with Russia",
+      "link": "https://www.nbcnews.com/world/ukraine/zelenskyy-rejects-trumps-proposal-ukraine-swap-territories-russia-rcna224022",
+      "description": "Ukrainian President Volodymyr Zelenskyy said that his countrymen “will not give their land” afte Trump suggested it could swap territories with Russia.",
+      "pubDate": "Sat, 09 Aug 2025 07:24:36 GMT"
+    },
+    {
+      "title": "Questions swirl around &#39;Arab forces&#39; named in Netanyahu&#39;s Gaza plan",
+      "link": "https://www.nbcnews.com/world/middle-east/israel-plan-reinvade-gaza-criticism-rcna223834",
+      "description": "Israel’s plan to take control of Gaza City and hand control of the enclave to “Arab forces” has drawn condemnation by Western governments and former officials.",
+      "pubDate": "Fri, 08 Aug 2025 23:26:27 GMT"
+    },
+    {
+      "title": "Israel appears to cast wider net in military plans as Netanyahu aims to control Gaza City",
+      "link": "https://www.nbcnews.com/world/middle-east/israel-says-will-retake-gaza-city-escalating-war-hamas-rcna223797",
+      "description": "Israel says it will take over Gaza City, escalating its war with Hamas even as it faces growing domestic and international outrage over the 22-month conflict",
+      "pubDate": "Fri, 08 Aug 2025 02:37:07 GMT"
+    }
+  ]
+}

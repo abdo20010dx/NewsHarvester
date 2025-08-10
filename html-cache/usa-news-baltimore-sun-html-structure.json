@@ -1,0 +1,17 @@
+{
+  "country": "usa",
+  "category": "news",
+  "feedName": "baltimore-sun",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "title",
+    "authorSelector": ".byline",
+    "dateSelector": "time",
+    "categorySelector": "[class*=\"category\"]",
+    "socialShareSelector": "[class*=\"share\"]"
+  },
+  "lastUpdated": "2025-08-09T08:52:58.360Z",
+  "sampleContent": "Yankees’ Devin Williams blew yet another game on Friday against the Astros. By Gary Phillips | gphillips@nydailynews.com | New York Daily NewsUPDATED: August 9, 2025 at 12:12 AM EDTWith boos and profanities raining from the stands, Jose Altuve stepped up to the plate, blocked out the noise, and bashed the first pitch he saw from Cam Schlittler 389 feet over Yankee Stadium’s left field wall. The first-inning, two-run bomb proved pivotal on Friday night, as the Astros beat the Yankees, 5-3, after 10 innings in the season’s first showdown between the longtime rivals. Altuve, despised in the Bronx due to his involvement in the 2017 Astros’ trash can cheating scheme, couldn’t help but admire his 20th home run of the season before circling the bases. But Altuve did not receive the loudest jeers of the night, as Devin Williams heard an earful from his home crowd after entering the game in the 10th inning. The reliever immediately fired a wild pitch, allowing the ghost runner to advance to thi"
+}

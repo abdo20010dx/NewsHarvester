@@ -1,0 +1,14 @@
+{
+  "country": "usa",
+  "category": "technology",
+  "feedName": "fox-news",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": ".title",
+    "videoSelector": "[class*=\"video\"]"
+  },
+  "lastUpdated": "2025-08-09T09:26:31.210Z",
+  "sampleContent": "close Video Ice Dancer Date Rape Drug Case Dismissed Accused in date rape drug case speaks NEWYou can now listen to Fox News articles! Checking your drink for drugs no longer needs to feel like a science experiment. Scientists in South Korea have created a new solution, a temporary tattoo sticker that instantly detects tampering. This simple sticker works fast, stays discreet, and offers surprisingly powerful protection. At first glance, it looks like ordinary skin art. In reality, it functions as a chemical sensor. The sticker detects GHB (gamma hydroxybutyrate), a drug commonly used to spike drinks. When even a tiny amount of GHB touches the sticker, the design changes from yellow to red within one second. This breakthrough gives partygoers, college students, and anyone in social settings a quick and subtle way to stay safe. Best of all, it's easier to use than any traditional strip, swab, or test card. Sign up for my FREE CyberGuy ReportGet my best tech tips, urgent security alerts,"
+}

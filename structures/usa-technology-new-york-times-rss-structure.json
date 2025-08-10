@@ -1,0 +1,37 @@
+{
+  "country": "usa",
+  "category": "technology",
+  "feedName": "new-york-times",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate",
+    "categoryTag": "category"
+  },
+  "lastUpdated": "2025-08-09T10:04:00.781Z",
+  "sampleArticles": [
+    {
+      "title": "Chatbots Can Go Into a Delusional Spiral. Here’s How It Happens.",
+      "link": "https://www.nytimes.com/2025/08/08/technology/ai-chatbots-delusions-chatgpt.html",
+      "description": "Over 21 days of talking with ChatGPT, an otherwise perfectly sane man became convinced that he was a real-life superhero. We analyzed the conversation.",
+      "pubDate": "Fri, 08 Aug 2025 22:17:34 +0000",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "title": "GPT-5 Arrives, and We Try the New Alexa+",
+      "link": "https://www.nytimes.com/2025/08/08/podcasts/hardfork-gpt5-alexa.html",
+      "description": "“Sam Altman in his remarks said that this is a major upgrade,” but he also said that “we’re not at A.G.I. yet.”",
+      "pubDate": "Fri, 08 Aug 2025 12:19:59 +0000",
+      "category": "Amazon.com Inc"
+    },
+    {
+      "title": "OpenAI Unveils GPT-5, New AI Model, to ChatGPT Users",
+      "link": "https://www.nytimes.com/2025/08/07/technology/openai-chatgpt-gpt-5.html",
+      "description": "The A.I. start-up said its new flagship technology was faster, more accurate and less likely to make stuff up.",
+      "pubDate": "Thu, 07 Aug 2025 17:00:06 +0000",
+      "category": "Artificial Intelligence"
+    }
+  ]
+}

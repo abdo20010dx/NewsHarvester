@@ -1,0 +1,17 @@
+{
+  "country": "usa",
+  "category": "news",
+  "feedName": "denver-post",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "title",
+    "authorSelector": ".byline",
+    "dateSelector": "time",
+    "categorySelector": "[class*=\"category\"]",
+    "socialShareSelector": "[class*=\"share\"]"
+  },
+  "lastUpdated": "2025-08-09T09:06:48.800Z",
+  "sampleContent": "Pedestrians comfort each other after a shooting near the campuses of the U.S. Centers for Disease Control and Prevention and Emory University, Friday, Aug. 8, 2025, in Atlanta. (Jenni Girtman/Atlanta Journal-Constitution via AP) By The Associated PressUPDATED: August 8, 2025 at 7:42 PM MDTBy JEFF AMY, Associated Press ATLANTA (AP) — A suspected gunman and a police officer are dead after law enforcement responded to reports of an active shooter near the adjoining campuses of the U.S. Centers for Disease Control and Prevention and Emory University on Friday, authorities said. No civilians are believed to have been injured, but several rounds hit buildings on the CDC’s sprawling campus, said Atlanta Police Chief Darin Schierbaum. The officer who died “received gunfire” during the shooting, DeKalb County Police Chief Gregory Padrick said. Officials earlier said that the officer was critically injured at the scene and taken to the hospital. CDC employees circulated photos from inside the bu"
+}

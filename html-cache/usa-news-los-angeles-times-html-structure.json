@@ -1,0 +1,19 @@
+{
+  "country": "usa",
+  "category": "news",
+  "feedName": "los-angeles-times",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "h1",
+    "authorSelector": ".byline",
+    "dateSelector": "time",
+    "videoSelector": "video",
+    "categorySelector": "[class*=\"category\"]",
+    "tagsSelector": ".tags",
+    "socialShareSelector": "[class*=\"social\"]"
+  },
+  "lastUpdated": "2025-08-09T09:32:11.074Z",
+  "sampleContent": "The front entrance to LAPD Headquarters on 1st St. in downtown Los Angeles. (Mel Melcon/Los Angeles Times) By Libor Jany and Richard Winton Aug. 8, 2025 Updated 5:42 PM PT 5 Share via Close extra sharing options Email Facebook X LinkedIn Threads Reddit WhatsApp Copy Link URL Copied! Print Eric Halem, a former LAPD officer, was charged with insurance fraud prior to his recent arrest. He has pleaded not guilty in that case.Halem transferred to the department’s reserve officer program in 2022, where he remained until this March. A former Los Angeles police officer has been arrested on suspicion of kidnapping for ransom and is being investigated in connection with other alleged crimes in San Fernando Valley neighborhoods that he used to patrol, according to department sources and jail records.Eric Halem, 37, was arrested Thursday afternoon by members of the LAPD’s Robbery-Homicide Division and is being held without bail, according to online jail records and the LAPD. If the L.A. district a"
+}

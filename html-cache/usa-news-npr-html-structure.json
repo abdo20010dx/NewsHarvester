@@ -1,0 +1,18 @@
+{
+  "country": "usa",
+  "category": "news",
+  "feedName": "npr",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "h1",
+    "authorSelector": ".byline",
+    "dateSelector": ".date",
+    "videoSelector": "iframe[src*=\"youtube\"]",
+    "tagsSelector": ".tags",
+    "socialShareSelector": "[class*=\"share\"]"
+  },
+  "lastUpdated": "2025-08-09T10:15:48.014Z",
+  "sampleContent": "Europe Italy is reviving plans for a bridge connecting Sicily to the mainland. Will it work? August 9, 20255:00 AM ET By Ayana Archie An artistic rendering of the proposed 2-mile-long Strait of Messina Bridge between Sicily and the rest of Italy. Stretto di Messina hide caption toggle caption Stretto di Messina The Italian government this week gave the green light for construction to start on what it says would be the world's longest single-span suspension bridge. The Strait of Messina Bridge would connect Sicily to the rest of Italy over a 2-mile stretch. It's expected to cost 13.5 billion euros ($15.7 billion), which Italy's Presidency of the Council of Ministers says will be completely funded by the public and has already been accounted for in the 2024 and 2025 budget. The government first approved the project in 1971. It has been canceled many times over the years over concerns about money and practicality, but was revised in 2022. Construction is planned to begin in May 2026 and e"
+}

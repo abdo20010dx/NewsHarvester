@@ -1,0 +1,18 @@
+{
+  "feedName": "wired",
+  "displayName": "Wired",
+  "urls": [
+    {
+      "category": "technology",
+      "url": "https://www.wired.com/feed/rss"
+    },
+    {
+      "category": "science",
+      "url": "https://www.wired.com/feed/category/science/latest/rss"
+    },
+    {
+      "category": "business",
+      "url": "https://www.wired.com/feed/category/business/latest/rss"
+    }
+  ]
+}

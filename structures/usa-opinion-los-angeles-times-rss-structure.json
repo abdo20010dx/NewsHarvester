@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "opinion",
+  "feedName": "los-angeles-times",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T09:45:59.951Z",
+  "sampleArticles": [
+    {
+      "title": "Letters to the Editor: Science isn&#x27;t the problem; it&#x27;s the way that humans manipulate it",
+      "link": "https://www.latimes.com/opinion/letters-to-the-editor/story/2025-08-08/science-isnt-the-problem-its-the-way-that-humans-manipulate-it",
+      "description": "",
+      "pubDate": "Fri, 8 Aug 2025 15:00:00 GMT"
+    },
+    {
+      "title": "Letters to the Editor: Shooting a bear that has already been tranquilized is &#x27;an act of cruelty&#x27;",
+      "link": "https://www.latimes.com/opinion/letters-to-the-editor/story/2025-08-08/shooting-a-bear-that-has-already-been-tranquilized-is-an-act-of-cruelty",
+      "description": "",
+      "pubDate": "Fri, 8 Aug 2025 14:00:00 GMT"
+    },
+    {
+      "title": "Letters to the Editor: Why aren&#x27;t the police stepping in on ICE raids that seemingly defy court orders?",
+      "link": "https://www.latimes.com/opinion/letters-to-the-editor/story/2025-08-08/why-arent-the-police-stepping-in-on-ice-raids-that-seemingly-defy-court-orders",
+      "description": "",
+      "pubDate": "Fri, 8 Aug 2025 13:00:00 GMT"
+    }
+  ]
+}

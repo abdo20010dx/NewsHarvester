@@ -1,0 +1,1021 @@
+{
+  "timestamp": "2025-08-09T00:06:55.954Z",
+  "workingAlternatives": {
+    "baltimore-sun": [
+      {
+        "url": "https://www.baltimoresun.com/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 94112,
+        "isXml": true
+      },
+      {
+        "url": "https://www.baltimoresun.com/news/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 89928,
+        "isXml": true
+      },
+      {
+        "url": "https://www.baltimoresun.com/business/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 86268,
+        "isXml": true
+      },
+      {
+        "url": "https://www.baltimoresun.com/sports/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 127331,
+        "isXml": true
+      }
+    ],
+    "chicago-tribune": [
+      {
+        "url": "https://www.chicagotribune.com/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 80433,
+        "isXml": true
+      },
+      {
+        "url": "https://www.chicagotribune.com/news/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 76102,
+        "isXml": true
+      },
+      {
+        "url": "https://www.chicagotribune.com/business/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 103853,
+        "isXml": true
+      },
+      {
+        "url": "https://www.chicagotribune.com/sports/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 203135,
+        "isXml": true
+      },
+      {
+        "url": "https://chicago.suntimes.com/feed/",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 897591,
+        "isXml": true
+      }
+    ],
+    "engadget": [
+      {
+        "url": "https://www.engadget.com/rss.xml",
+        "status": "success",
+        "contentType": "text/xml",
+        "contentLength": 749017,
+        "isXml": true
+      }
+    ],
+    "gizmodo": [
+      {
+        "url": "https://gizmodo.com/rss",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 62110,
+        "isXml": true
+      },
+      {
+        "url": "https://gizmodo.com/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 62110,
+        "isXml": true
+      },
+      {
+        "url": "https://gizmodo.com/science/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 63263,
+        "isXml": true
+      }
+    ],
+    "mashable": [
+      {
+        "url": "https://mashable.com/feed",
+        "status": "success",
+        "contentType": "application/xml;charset=UTF-8",
+        "contentLength": 1138246,
+        "isXml": true
+      }
+    ],
+    "nbc-news": [
+      {
+        "url": "https://feeds.nbcnews.com/nbcnews/public/news",
+        "status": "success",
+        "contentType": "text/xml; charset=UTF-8",
+        "contentLength": 45796,
+        "isXml": true
+      },
+      {
+        "url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status": "success",
+        "contentType": "text/xml; charset=UTF-8",
+        "contentLength": 57014,
+        "isXml": true
+      },
+      {
+        "url": "https://feeds.nbcnews.com/nbcnews/public/business",
+        "status": "success",
+        "contentType": "text/xml; charset=UTF-8",
+        "contentLength": 48413,
+        "isXml": true
+      },
+      {
+        "url": "https://www.nbcnews.com/feed",
+        "status": "success",
+        "contentType": "text/xml; charset=UTF-8",
+        "contentLength": 45796,
+        "isXml": true
+      }
+    ],
+    "the-verge": [
+      {
+        "url": "https://www.theverge.com/rss/index.xml",
+        "status": "success",
+        "contentType": "application/xml; charset=UTF-8",
+        "contentLength": 119371,
+        "isXml": true
+      }
+    ],
+    "washington-post": [
+      {
+        "url": "https://feeds.washingtonpost.com/rss/national",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 8471,
+        "isXml": true
+      },
+      {
+        "url": "https://feeds.washingtonpost.com/rss/world",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 14514,
+        "isXml": true
+      },
+      {
+        "url": "https://feeds.washingtonpost.com/rss/politics",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 39926,
+        "isXml": true
+      },
+      {
+        "url": "https://feeds.washingtonpost.com/rss/business",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 10560,
+        "isXml": true
+      },
+      {
+        "url": "https://feeds.washingtonpost.com/rss/sports",
+        "status": "success",
+        "contentType": "application/xml",
+        "contentLength": 46858,
+        "isXml": true
+      },
+      {
+        "url": "https://feeds.washingtonpost.com/rss/opinions",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 13009,
+        "isXml": true
+      }
+    ]
+  },
+  "workingPopular": {
+    "fox-news": [
+      {
+        "url": "https://feeds.foxnews.com/foxnews/latest",
+        "status": "success",
+        "contentType": "text/xml;charset=utf-8",
+        "contentLength": 181696,
+        "isXml": true,
+        "category": "news"
+      },
+      {
+        "url": "https://feeds.foxnews.com/foxnews/world",
+        "status": "success",
+        "contentType": "text/xml;charset=utf-8",
+        "contentLength": 205813,
+        "isXml": true,
+        "category": "world"
+      },
+      {
+        "url": "https://feeds.foxnews.com/foxnews/business",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 59444,
+        "isXml": true,
+        "category": "business"
+      },
+      {
+        "url": "https://feeds.foxnews.com/foxnews/tech",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 230922,
+        "isXml": true,
+        "category": "technology"
+      }
+    ],
+    "npr": [
+      {
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 16119,
+        "isXml": true,
+        "category": "news"
+      },
+      {
+        "url": "https://feeds.npr.org/1004/rss.xml",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 14131,
+        "isXml": true,
+        "category": "world"
+      },
+      {
+        "url": "https://feeds.npr.org/1006/rss.xml",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 20448,
+        "isXml": true,
+        "category": "business"
+      },
+      {
+        "url": "https://feeds.npr.org/1019/rss.xml",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 17702,
+        "isXml": true,
+        "category": "technology"
+      }
+    ],
+    "time": [
+      {
+        "url": "https://feeds.feedburner.com/time/topstories",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 136300,
+        "isXml": true,
+        "category": "news"
+      },
+      {
+        "url": "https://feeds.feedburner.com/time/world",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 156951,
+        "isXml": true,
+        "category": "world"
+      },
+      {
+        "url": "https://feeds.feedburner.com/time/business",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 79191,
+        "isXml": true,
+        "category": "business"
+      }
+    ],
+    "fortune": [
+      {
+        "url": "https://fortune.com/feed/",
+        "status": "success",
+        "contentType": "application/xml; charset=UTF-8",
+        "contentLength": 77785,
+        "isXml": true,
+        "category": "business"
+      }
+    ],
+    "business-insider": [
+      {
+        "url": "https://www.businessinsider.com/rss",
+        "status": "success",
+        "contentType": "application/atom+xml",
+        "contentLength": 283316,
+        "isXml": true,
+        "category": "business"
+      }
+    ],
+    "the-hill": [
+      {
+        "url": "https://thehill.com/rss/syndicator/19110",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 302138,
+        "isXml": true,
+        "category": "politics"
+      },
+      {
+        "url": "https://thehill.com/rss/syndicator/19109",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 302138,
+        "isXml": true,
+        "category": "news"
+      }
+    ],
+    "the-atlantic": [
+      {
+        "url": "https://www.theatlantic.com/feed/all/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=utf-8",
+        "contentLength": 413010,
+        "isXml": true,
+        "category": "news"
+      },
+      {
+        "url": "https://www.theatlantic.com/feed/technology/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=utf-8",
+        "contentLength": 362187,
+        "isXml": true,
+        "category": "technology"
+      },
+      {
+        "url": "https://www.theatlantic.com/feed/business/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=utf-8",
+        "contentLength": 344050,
+        "isXml": true,
+        "category": "business"
+      }
+    ],
+    "vox": [
+      {
+        "url": "https://www.vox.com/rss/index.xml",
+        "status": "success",
+        "contentType": "application/xml; charset=UTF-8",
+        "contentLength": 153887,
+        "isXml": true,
+        "category": "news"
+      }
+    ]
+  },
+  "allResults": {
+    "baltimore-sun": [
+      {
+        "url": "https://www.baltimoresun.com/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 94112,
+        "isXml": true
+      },
+      {
+        "url": "https://www.baltimoresun.com/news/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 89928,
+        "isXml": true
+      },
+      {
+        "url": "https://www.baltimoresun.com/business/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 86268,
+        "isXml": true
+      },
+      {
+        "url": "https://www.baltimoresun.com/sports/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 127331,
+        "isXml": true
+      },
+      {
+        "url": "https://www.thebaltimorebanner.com/feed/",
+        "status": "failed",
+        "error": "timeout of 10000ms exceeded",
+        "errorCode": "ECONNABORTED"
+      },
+      {
+        "url": "https://www.bizjournals.com/baltimore/news/feed",
+        "status": "invalid",
+        "error": "No valid RSS structure found"
+      }
+    ],
+    "chicago-tribune": [
+      {
+        "url": "https://www.chicagotribune.com/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 80433,
+        "isXml": true
+      },
+      {
+        "url": "https://www.chicagotribune.com/news/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 76102,
+        "isXml": true
+      },
+      {
+        "url": "https://www.chicagotribune.com/business/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 103853,
+        "isXml": true
+      },
+      {
+        "url": "https://www.chicagotribune.com/sports/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 203135,
+        "isXml": true
+      },
+      {
+        "url": "https://chicago.suntimes.com/feed/",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 897591,
+        "isXml": true
+      },
+      {
+        "url": "https://www.chicagobusiness.com/feed/",
+        "status": "failed",
+        "error": "Request failed with status code 403",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 403
+      }
+    ],
+    "reuters": [
+      {
+        "url": "https://www.reuters.com/arc/outboundfeeds/rss/",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404
+      },
+      {
+        "url": "https://www.reuters.com/arc/outboundfeeds/business/rss/",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404
+      },
+      {
+        "url": "https://www.reuters.com/arc/outboundfeeds/technology/rss/",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404
+      },
+      {
+        "url": "https://www.reuters.com/arc/outboundfeeds/world/rss/",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404
+      },
+      {
+        "url": "https://feeds.reuters.com/reuters/topNews",
+        "status": "failed",
+        "error": "getaddrinfo ENOTFOUND feeds.reuters.com",
+        "errorCode": "ENOTFOUND"
+      },
+      {
+        "url": "https://feeds.reuters.com/reuters/businessNews",
+        "status": "failed",
+        "error": "getaddrinfo ENOTFOUND feeds.reuters.com",
+        "errorCode": "ENOTFOUND"
+      }
+    ],
+    "engadget": [
+      {
+        "url": "https://www.engadget.com/rss.xml",
+        "status": "success",
+        "contentType": "text/xml",
+        "contentLength": 749017,
+        "isXml": true
+      },
+      {
+        "url": "https://www.engadget.com/feed/",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404
+      },
+      {
+        "url": "https://www.engadget.com/technology/feed/",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404
+      },
+      {
+        "url": "https://www.engadget.com/gaming/feed/",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404
+      },
+      {
+        "url": "https://www.engadget.com/automotive/feed/",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404
+      }
+    ],
+    "gizmodo": [
+      {
+        "url": "https://gizmodo.com/rss",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 62110,
+        "isXml": true
+      },
+      {
+        "url": "https://gizmodo.com/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 62110,
+        "isXml": true
+      },
+      {
+        "url": "https://gizmodo.com/technology/feed/",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404
+      },
+      {
+        "url": "https://gizmodo.com/science/feed/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 63263,
+        "isXml": true
+      },
+      {
+        "url": "https://gizmodo.com/gaming/feed/",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404
+      }
+    ],
+    "mashable": [
+      {
+        "url": "https://mashable.com/feed",
+        "status": "success",
+        "contentType": "application/xml;charset=UTF-8",
+        "contentLength": 1138246,
+        "isXml": true
+      },
+      {
+        "url": "https://mashable.com/technology/feed/",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404
+      },
+      {
+        "url": "https://mashable.com/entertainment/feed/",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404
+      },
+      {
+        "url": "https://mashable.com/science/feed/",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404
+      }
+    ],
+    "nbc-news": [
+      {
+        "url": "https://feeds.nbcnews.com/nbcnews/public/news",
+        "status": "success",
+        "contentType": "text/xml; charset=UTF-8",
+        "contentLength": 45796,
+        "isXml": true
+      },
+      {
+        "url": "https://feeds.nbcnews.com/nbcnews/public/world",
+        "status": "success",
+        "contentType": "text/xml; charset=UTF-8",
+        "contentLength": 57014,
+        "isXml": true
+      },
+      {
+        "url": "https://feeds.nbcnews.com/nbcnews/public/business",
+        "status": "success",
+        "contentType": "text/xml; charset=UTF-8",
+        "contentLength": 48413,
+        "isXml": true
+      },
+      {
+        "url": "https://feeds.nbcnews.com/nbcnews/public/technology",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404
+      },
+      {
+        "url": "https://www.nbcnews.com/feed",
+        "status": "success",
+        "contentType": "text/xml; charset=UTF-8",
+        "contentLength": 45796,
+        "isXml": true
+      }
+    ],
+    "the-verge": [
+      {
+        "url": "https://www.theverge.com/rss/index.xml",
+        "status": "success",
+        "contentType": "application/xml; charset=UTF-8",
+        "contentLength": 119371,
+        "isXml": true
+      },
+      {
+        "url": "https://www.theverge.com/feed/",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404
+      },
+      {
+        "url": "https://www.theverge.com/technology/feed/",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404
+      },
+      {
+        "url": "https://www.theverge.com/science/feed/",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404
+      },
+      {
+        "url": "https://www.theverge.com/culture/feed/",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404
+      }
+    ],
+    "washington-post": [
+      {
+        "url": "https://feeds.washingtonpost.com/rss/national",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 8471,
+        "isXml": true
+      },
+      {
+        "url": "https://feeds.washingtonpost.com/rss/world",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 14514,
+        "isXml": true
+      },
+      {
+        "url": "https://feeds.washingtonpost.com/rss/politics",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 39926,
+        "isXml": true
+      },
+      {
+        "url": "https://feeds.washingtonpost.com/rss/business",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 10560,
+        "isXml": true
+      },
+      {
+        "url": "https://feeds.washingtonpost.com/rss/technology",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404
+      },
+      {
+        "url": "https://feeds.washingtonpost.com/rss/sports",
+        "status": "success",
+        "contentType": "application/xml",
+        "contentLength": 46858,
+        "isXml": true
+      },
+      {
+        "url": "https://feeds.washingtonpost.com/rss/opinions",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 13009,
+        "isXml": true
+      },
+      {
+        "url": "https://www.washingtonpost.com/feed/",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404
+      }
+    ],
+    "fox-news": [
+      {
+        "url": "https://feeds.foxnews.com/foxnews/latest",
+        "status": "success",
+        "contentType": "text/xml;charset=utf-8",
+        "contentLength": 181696,
+        "isXml": true,
+        "category": "news"
+      },
+      {
+        "url": "https://feeds.foxnews.com/foxnews/world",
+        "status": "success",
+        "contentType": "text/xml;charset=utf-8",
+        "contentLength": 205813,
+        "isXml": true,
+        "category": "world"
+      },
+      {
+        "url": "https://feeds.foxnews.com/foxnews/business",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 59444,
+        "isXml": true,
+        "category": "business"
+      },
+      {
+        "url": "https://feeds.foxnews.com/foxnews/tech",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 230922,
+        "isXml": true,
+        "category": "technology"
+      }
+    ],
+    "npr": [
+      {
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 16119,
+        "isXml": true,
+        "category": "news"
+      },
+      {
+        "url": "https://feeds.npr.org/1004/rss.xml",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 14131,
+        "isXml": true,
+        "category": "world"
+      },
+      {
+        "url": "https://feeds.npr.org/1006/rss.xml",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 20448,
+        "isXml": true,
+        "category": "business"
+      },
+      {
+        "url": "https://feeds.npr.org/1019/rss.xml",
+        "status": "success",
+        "contentType": "text/xml;charset=UTF-8",
+        "contentLength": 17702,
+        "isXml": true,
+        "category": "technology"
+      }
+    ],
+    "pbs": [
+      {
+        "url": "https://www.pbs.org/newshour/feed/pbs-newshour-full-episodes",
+        "status": "invalid",
+        "error": "No valid RSS structure found",
+        "category": "news"
+      },
+      {
+        "url": "https://www.pbs.org/newshour/feed/pbs-newshour-world",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404,
+        "category": "world"
+      },
+      {
+        "url": "https://www.pbs.org/newshour/feed/pbs-newshour-business",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404,
+        "category": "business"
+      },
+      {
+        "url": "https://www.pbs.org/newshour/feed/pbs-newshour-science",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404,
+        "category": "technology"
+      }
+    ],
+    "time": [
+      {
+        "url": "https://feeds.feedburner.com/time/topstories",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 136300,
+        "isXml": true,
+        "category": "news"
+      },
+      {
+        "url": "https://feeds.feedburner.com/time/world",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 156951,
+        "isXml": true,
+        "category": "world"
+      },
+      {
+        "url": "https://feeds.feedburner.com/time/business",
+        "status": "success",
+        "contentType": "text/xml; charset=utf-8",
+        "contentLength": 79191,
+        "isXml": true,
+        "category": "business"
+      },
+      {
+        "url": "https://feeds.feedburner.com/time/technology",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404,
+        "category": "technology"
+      }
+    ],
+    "fortune": [
+      {
+        "url": "https://fortune.com/feed/",
+        "status": "success",
+        "contentType": "application/xml; charset=UTF-8",
+        "contentLength": 77785,
+        "isXml": true,
+        "category": "business"
+      },
+      {
+        "url": "https://fortune.com/feed/technology/",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404,
+        "category": "technology"
+      },
+      {
+        "url": "https://fortune.com/feed/news/",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404,
+        "category": "news"
+      }
+    ],
+    "business-insider": [
+      {
+        "url": "https://www.businessinsider.com/rss",
+        "status": "success",
+        "contentType": "application/atom+xml",
+        "contentLength": 283316,
+        "isXml": true,
+        "category": "business"
+      },
+      {
+        "url": "https://www.businessinsider.com/tech/rss",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404,
+        "category": "technology"
+      },
+      {
+        "url": "https://www.businessinsider.com/news/rss",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404,
+        "category": "news"
+      }
+    ],
+    "the-hill": [
+      {
+        "url": "https://thehill.com/rss/syndicator/19110",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 302138,
+        "isXml": true,
+        "category": "politics"
+      },
+      {
+        "url": "https://thehill.com/rss/syndicator/19109",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=UTF-8",
+        "contentLength": 302138,
+        "isXml": true,
+        "category": "news"
+      },
+      {
+        "url": "https://thehill.com/rss/syndicator/19111",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404,
+        "category": "business"
+      }
+    ],
+    "politico": [
+      {
+        "url": "https://www.politico.com/rss/politicopicks.xml",
+        "status": "failed",
+        "error": "Request failed with status code 403",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 403,
+        "category": "politics"
+      },
+      {
+        "url": "https://www.politico.com/rss/politicopicks.xml",
+        "status": "failed",
+        "error": "Request failed with status code 403",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 403,
+        "category": "news"
+      },
+      {
+        "url": "https://www.politico.com/rss/politicopicks.xml",
+        "status": "failed",
+        "error": "Request failed with status code 403",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 403,
+        "category": "business"
+      }
+    ],
+    "the-atlantic": [
+      {
+        "url": "https://www.theatlantic.com/feed/all/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=utf-8",
+        "contentLength": 413010,
+        "isXml": true,
+        "category": "news"
+      },
+      {
+        "url": "https://www.theatlantic.com/feed/technology/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=utf-8",
+        "contentLength": 362187,
+        "isXml": true,
+        "category": "technology"
+      },
+      {
+        "url": "https://www.theatlantic.com/feed/business/",
+        "status": "success",
+        "contentType": "application/rss+xml; charset=utf-8",
+        "contentLength": 344050,
+        "isXml": true,
+        "category": "business"
+      }
+    ],
+    "vox": [
+      {
+        "url": "https://www.vox.com/rss/index.xml",
+        "status": "success",
+        "contentType": "application/xml; charset=UTF-8",
+        "contentLength": 153887,
+        "isXml": true,
+        "category": "news"
+      },
+      {
+        "url": "https://www.vox.com/technology/rss/index.xml",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404,
+        "category": "technology"
+      },
+      {
+        "url": "https://www.vox.com/business/rss/index.xml",
+        "status": "failed",
+        "error": "Request failed with status code 404",
+        "errorCode": "ERR_BAD_REQUEST",
+        "errorStatus": 404,
+        "category": "business"
+      }
+    ]
+  }
+}

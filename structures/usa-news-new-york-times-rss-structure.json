@@ -1,0 +1,37 @@
+{
+  "country": "usa",
+  "category": "news",
+  "feedName": "new-york-times",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate",
+    "categoryTag": "category"
+  },
+  "lastUpdated": "2025-08-09T09:57:19.959Z",
+  "sampleArticles": [
+    {
+      "title": "Trump Says He Will Meet With Putin in Alaska Next Week",
+      "link": "https://www.nytimes.com/2025/08/08/us/politics/trump-russia-ukraine-deal.html",
+      "description": "Mr. Trump also suggested that a peace deal between Russia and Ukraine would include “some swapping of territories,” signaling that the U.S. may join Russia in trying to compel Ukraine to cede land.",
+      "pubDate": "Sat, 09 Aug 2025 00:44:45 +0000",
+      "category": "United States Politics and Government"
+    },
+    {
+      "title": "Zelensky Rejects Trump’s Suggestion That Ukraine Swap Territory With Russia",
+      "link": "https://www.nytimes.com/2025/08/09/world/europe/zelensky-trump-ukraine-russia.html",
+      "description": "The Ukrainian president’s blunt comments risk angering Mr. Trump, who has made a peace deal between Ukraine and Russia one of his signature foreign policy goals.",
+      "pubDate": "Sat, 09 Aug 2025 06:58:32 +0000",
+      "category": "Russian Invasion of Ukraine (2022)"
+    },
+    {
+      "title": "What Putin Hopes to Gain From a Summit With Trump",
+      "link": "https://www.nytimes.com/2025/08/08/world/europe/putin-trump-summit-ukraine.html",
+      "description": "The American leader has agreed to a meeting with the Russian president in Alaska next Friday to discuss ending the war in Ukraine.",
+      "pubDate": "Sat, 09 Aug 2025 00:49:29 +0000",
+      "category": "Russian Invasion of Ukraine (2022)"
+    }
+  ]
+}

@@ -9,25 +9,25 @@
     "descriptionTag": "description",
     "pubDateTag": "pubDate"
   },
-  "lastUpdated": "2025-08-07T13:09:25.789Z",
+  "lastUpdated": "2025-08-09T10:37:39.397Z",
   "sampleArticles": [
     {
-      "title": "New &#8216;persona vectors&#8217; from Anthropic let you decode and direct an LLM&#8217;s personality",
-      "link": "https://venturebeat.com/ai/new-persona-vectors-from-anthropic-let-you-decode-and-direct-an-llms-personality/",
+      "title": "Anthropic revenue tied to two customers as AI pricing war threatens margins",
+      "link": "https://venturebeat.com/ai/anthropic-revenue-tied-to-two-customers-as-ai-pricing-war-threatens-margins/",
       "description": "",
-      "pubDate": "Wed, 06 Aug 2025 22:11:20 +0000"
+      "pubDate": "Fri, 08 Aug 2025 23:35:35 +0000"
     },
     {
-      "title": "The initial reactions to OpenAI’s landmark open source gpt-oss models are highly varied and mixed",
-      "link": "https://venturebeat.com/ai/the-initial-reactions-to-openais-landmark-open-source-gpt-oss-models-are-highly-varied-and-mixed/",
+      "title": "OpenAI returns old models to ChatGPT as Sam Altman admits ‘bumpy’ GPT-5 rollout",
+      "link": "https://venturebeat.com/ai/openai-returns-old-models-to-chatgpt-as-sam-altman-admits-bumpy-gpt-5-rollout/",
       "description": "",
-      "pubDate": "Wed, 06 Aug 2025 20:24:07 +0000"
+      "pubDate": "Fri, 08 Aug 2025 21:17:22 +0000"
     },
     {
-      "title": "How a ‘vibe working’ approach at Genspark tripled ARR growth and supported a barrage of new products and features in just weeks",
-      "link": "https://venturebeat.com/ai/how-a-vibe-working-approach-at-genspark-tripled-arr-growth-and-supported-a-barrage-of-new-products-and-features-in-just-weeks/",
+      "title": "OpenAI&#8217;s GPT-5 rollout is not going smoothly",
+      "link": "https://venturebeat.com/ai/openais-gpt-5-rollout-is-not-going-smoothly/",
       "description": "",
-      "pubDate": "Wed, 06 Aug 2025 19:41:34 +0000"
+      "pubDate": "Fri, 08 Aug 2025 17:40:57 +0000"
     }
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "business",
+  "feedName": "nbc-news",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T09:54:27.522Z",
+  "sampleArticles": [
+    {
+      "title": "Not today, AI: Despite corporate hype, few signs that the tech is taking jobs — yet",
+      "link": "https://www.nbcnews.com/business/business-news/how-ai-changes-the-job-market-what-to-know-rcna223246",
+      "description": "The job market has begun looking shakier.",
+      "pubDate": "Fri, 08 Aug 2025 20:00:40 GMT"
+    },
+    {
+      "title": "Crypto backers say they were behind sex toys thrown on WNBA courts",
+      "link": "https://www.nbcnews.com/news/us-news/cryptocurrency-backers-claim-responsibility-sex-toys-thrown-wnba-games-rcna223905",
+      "description": "A group of crypto investors is claiming responsibility for a series of incidents where green sex toys were tossed onto WNBA courts, adding a strange wrinkle to an already-charged furor that casts a shadow over the league",
+      "pubDate": "Sat, 09 Aug 2025 00:19:52 GMT"
+    },
+    {
+      "title": "Trump announces meeting with Putin to be held in Alaska",
+      "link": "https://www.nbcnews.com/now/video/trump-announces-meeting-with-putin-to-be-held-in-alaska-244622917783",
+      "description": "Posting on Truth Social, President Trump stated that he will meet with Russian President Vladimir Putin in Alaska on August 15 to discuss a new ceasefire agreement for Ukraine.",
+      "pubDate": "Fri, 08 Aug 2025 22:24:42 GMT"
+    }
+  ]
+}

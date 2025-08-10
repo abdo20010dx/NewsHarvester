@@ -1,0 +1,14 @@
+{
+  "country": "usa",
+  "category": "news",
+  "feedName": "time",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "h1",
+    "dateSelector": "time"
+  },
+  "lastUpdated": "2025-08-09T10:36:40.306Z",
+  "sampleContent": "The Brief July 1, 2025Our cover story, plus updates on Elon Musk and the Trump Administration suing L.A.Play icon00:00Skip backward 15 secondsLength:LongSpeed:1.0xSkip forward 15 secondsTIME AI LogoPowered byScale logo“I’m ticked,” says John Prevost, the retired Midwestern high school principal who is now, abruptly and without warning, globally famous and in demand. “I didn’t want to be, but I’m so angry.” He’s sitting at the table of Denise and Rob Utter, who have invited a bunch of people from their local Catholic parish, about 45 minutes south of Chicago, to talk about their friend and John’s kid brother Bob, whom they have known for decades, over pizza. Sometimes they call him Father Bob. Occasionally they remember to call him by his new name, Pope Leo XIV, but it’s unfamiliar to their tongue. One of the guests accidentally calls him Pope Pius. AdvertisementAdvertisementIt’s probably not all fun and games to be the spiritual leader of 1.4 billion people from very different cultures"
+}

@@ -1,9 +1,9 @@
 import { Injectable } from '@nestjs/common';
-import { 
-  NewsHarvester, 
-  SmartRSSParser, 
-  SmartHTMLParser, 
-  RSSFeedConfig, 
+import {
+  NewsHarvester,
+  SmartRSSParser,
+  SmartHTMLParser,
+  RSSFeedConfig,
   Article,
   ExtractedPostData
 } from './util/global-methods';
@@ -51,12 +51,12 @@ export class AppService {
     try {
       console.log(`Processing ${configs.length} RSS feeds`);
       const results = await NewsHarvester.harvestMultipleFeeds(configs);
-      
+
       // Log summary
       results.forEach((articles, key) => {
         console.log(`${key}: ${articles.length} articles`);
       });
-      
+
       return results;
     } catch (error) {
       console.error('Error processing multiple feeds:', error);
@@ -102,20 +102,20 @@ export class AppService {
       {
         country: 'usa',
         category: 'technology',
-        feedName: 'techcrunch',
-        url: 'https://techcrunch.com/feed/'
+        feedName: 'new-york-times',
+        url: 'https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml'
       },
       {
         country: 'usa',
         category: 'news',
-        feedName: 'reuters',
-        url: 'https://feeds.reuters.com/reuters/topNews'
+        feedName: 'washington-post',
+        url: 'https://feeds.washingtonpost.com/rss/national'
       },
       {
         country: 'usa',
         category: 'business',
-        feedName: 'bloomberg',
-        url: 'https://feeds.bloomberg.com/politics/news.rss'
+        feedName: 'wall-street-journal',
+        url: 'https://feeds.wsj.com/rss/WSJcomMarkets'
       }
     ];
   }

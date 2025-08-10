@@ -1,0 +1,37 @@
+{
+  "country": "usa",
+  "category": "business",
+  "feedName": "fox-news",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate",
+    "categoryTag": "category"
+  },
+  "lastUpdated": "2025-08-09T09:20:25.699Z",
+  "sampleArticles": [
+    {
+      "title": "John Deere is investing $20B in the US, and here are the details",
+      "link": "https://www.foxbusiness.com/retail/john-deere-investing-20-billion-us-here-details",
+      "description": "John Deere plans a $20 billion investment in the U.S. over the next 10 years, emphasizing advanced manufacturing, innovative technologies and product development.",
+      "pubDate": "Sat, 09 Aug 2025 01:50:34 GMT",
+      "category": "efa60c2e-d064-5a06-ac22-9ca598d0bd43"
+    },
+    {
+      "title": "Netflix eyes MLB Home Run Derby after ESPN&apos;s early exit from long-term media rights package: report",
+      "link": "https://www.foxbusiness.com/sports/netflix-eyes-mlb-home-run-derby-amid-espns-early-exit-from-long-term-media-rights-package-report",
+      "description": "With ESPN&apos;s expected early exit, Netflix has explored a deal to gain the rights to the MLB Home Run Derby. The streamer has pushed to boost its live sports and ad-driven content.",
+      "pubDate": "Fri, 08 Aug 2025 23:55:08 GMT",
+      "category": "35f7d130-ba63-5de2-aaeb-5e6b47e915bf"
+    },
+    {
+      "title": "Education Department demands proof schools are not conducting race-based admissions",
+      "link": "https://www.foxbusiness.com/media/education-department-demands-proof-schools-not-conducting-race-based-admissions",
+      "description": "The Department of Education released a memo detailing a new college admissions auditing process to find civil rights violations following the Supreme Court&apos;s Harvard ruling.",
+      "pubDate": "Fri, 08 Aug 2025 22:00:17 GMT",
+      "category": "aeb1b3b6-56b4-5641-a4c4-3c77c114a373"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "world",
+  "feedName": "washington-post",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T10:46:58.805Z",
+  "sampleArticles": [
+    {
+      "title": "Zelensky rejects Trump proposal to cede territory to Russia",
+      "link": "https://www.washingtonpost.com/world/2025/08/09/ukraine-zelensky-trump-russia-meeting/",
+      "description": "President Donald Trump, who is due to meet President Vladimir Putin in Alaska on Friday, suggested Ukraine and Russia swap some territory to achieve peace.",
+      "pubDate": "Sat, 09 Aug 2025 10:01:04 +0000"
+    },
+    {
+      "title": "Faced with rising seas and falling aid, Fijian villages move uphill",
+      "link": "https://www.washingtonpost.com/world/2025/08/08/fiji-climate-change-village-relocation/",
+      "description": "As the effects of climate change are felt across the Pacific, Fiji has become an authority on the logistically and culturally fraught process of community relocation.",
+      "pubDate": "Sat, 09 Aug 2025 09:00:00 +0000"
+    },
+    {
+      "title": "Trump, Putin meeting set for next week in Alaska",
+      "link": "https://www.washingtonpost.com/politics/2025/08/08/trump-putin-ukraine-meeting/",
+      "description": "Trump made no mention of whether Ukrainian President Volodymyr Zelensky would be attending.",
+      "pubDate": "Sat, 09 Aug 2025 06:46:53 +0000"
+    }
+  ]
+}

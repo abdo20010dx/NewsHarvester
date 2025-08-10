@@ -1,0 +1,37 @@
+{
+  "country": "usa",
+  "category": "news",
+  "feedName": "fox-news",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate",
+    "categoryTag": "category"
+  },
+  "lastUpdated": "2025-08-09T09:11:58.678Z",
+  "sampleArticles": [
+    {
+      "title": "The fight over charter schools in some of America&apos;s rural states",
+      "link": "https://www.foxnews.com/media/fight-over-charter-schools-some-americas-rural-states",
+      "description": "Rural Republican states like Idaho, Tennessee and Wyoming overcame GOP resistance to pass universal school choice legislation despite concerns about local schools.",
+      "pubDate": "Sat, 09 Aug 2025 05:00:35 -0400",
+      "category": "761c3c2a-0d47-5c31-9af1-d9bfcdd9d023"
+    },
+    {
+      "title": "‘PBR Friday Night Live’ bucks into Fox Nation with high-octane debut",
+      "link": "https://www.foxnews.com/media/pbr-friday-night-live-bucks-fox-nation-high-octane-debut",
+      "description": "Fox Nation and Professional Bull Riders premiered their first event of the &amp;quot;PBR Friday Night Live&amp;quot; series.",
+      "pubDate": "Sat, 09 Aug 2025 04:41:46 -0400",
+      "category": "a3bea01c-71da-59a5-93fd-27322c7c6c1f"
+    },
+    {
+      "title": "Zelenskyy says peace deal will not include giving territory to Moscow ahead of Trump-Putin summit",
+      "link": "https://www.foxnews.com/world/zelenskyy-says-peace-deal-not-include-giving-territory-moscow-ahead-trump-putin-summit",
+      "description": "Ukrainian President Volodymyr Zelenskyy said Ukraine will not &amp;quot;gift&amp;quot; land to Russia ahead of a Trump-Putin summit next week aimed at seeking a peace deal between the countries.",
+      "pubDate": "Sat, 09 Aug 2025 04:08:38 -0400",
+      "category": "95ea5e11-a432-59ca-a545-0dd0f9e66bed"
+    }
+  ]
+}

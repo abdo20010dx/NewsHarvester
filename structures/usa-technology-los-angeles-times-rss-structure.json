@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "technology",
+  "feedName": "los-angeles-times",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T09:40:46.707Z",
+  "sampleArticles": [
+    {
+      "title": "Trump says Intel CEO is &#x27;highly conflicted,&#x27; calls for his resignation",
+      "link": "https://www.latimes.com/business/story/2025-08-07/trump-says-intel-ceo-is-highly-conflicted-calls-for-resignation",
+      "description": "",
+      "pubDate": "Thu, 7 Aug 2025 17:34:22 GMT"
+    },
+    {
+      "title": "Amazon cuts 110 jobs in reorganization of Wondery audio division",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2025-08-04/wondery-to-lay-off-110-people-in-reorganization",
+      "description": "",
+      "pubDate": "Mon, 4 Aug 2025 20:45:00 GMT"
+    },
+    {
+      "title": "Intel used to be the most valuable U.S. chipmaker. How it fell far behind Nvidia",
+      "link": "https://www.latimes.com/business/story/2025-08-01/intel-used-to-be-the-most-valuable-u-s-chipmaker-how-it-fell-behind-nvidia",
+      "description": "",
+      "pubDate": "Fri, 1 Aug 2025 10:00:00 GMT"
+    }
+  ]
+}

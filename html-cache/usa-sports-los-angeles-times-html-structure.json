@@ -1,0 +1,18 @@
+{
+  "country": "usa",
+  "category": "sports",
+  "feedName": "los-angeles-times",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "h1",
+    "authorSelector": ".byline",
+    "dateSelector": "time",
+    "categorySelector": "[class*=\"category\"]",
+    "tagsSelector": ".tags",
+    "socialShareSelector": "[class*=\"social\"]"
+  },
+  "lastUpdated": "2025-08-09T09:45:51.554Z",
+  "sampleContent": "By Ryan KartjeStaff Writer Follow Aug. 8, 2025 4 AM PT 2 Share via Close extra sharing options Email Facebook X LinkedIn Threads Reddit WhatsApp Copy Link URL Copied! Print When John Beck first watched Jayden Maiava throw a football up close this summer, he could see pretty quickly why USC might hang its hopes on Maiava’s rocket right arm.“He spins the ball really well,” Beck said. “The talent is there. The ability is there.”Few are as qualified as Beck to make that assessment. A former NFL quarterback and private quarterbacks coach for 3DQB, he has helped fine tune some of the best passers in the sport, from Tom Brady and Drew Brees to Matthew Stafford and Justin Herbert. And this summer, over “a handful” of sessions at 3DQB’s training facility in Huntington Beach, Beck turned his attention to the mechanics of the Trojans’ starting quarterback. USC Sports Tobias Raymond is now a key cog — and de facto grillmaster — on uncertain USC offensive line While always a leader by his actions, "
+}

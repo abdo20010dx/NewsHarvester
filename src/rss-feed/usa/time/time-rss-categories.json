@@ -1,0 +1,18 @@
+{
+  "feedName": "time",
+  "displayName": "Time",
+  "urls": [
+    {
+      "category": "news",
+      "url": "https://feeds.feedburner.com/time/topstories"
+    },
+    {
+      "category": "world",
+      "url": "https://feeds.feedburner.com/time/world"
+    },
+    {
+      "category": "business",
+      "url": "https://feeds.feedburner.com/time/business"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "country": "usa",
+  "category": "world",
+  "feedName": "washington-post",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "title",
+    "authorSelector": "[rel=\"author\"]",
+    "videoSelector": "[class*=\"video\"]"
+  },
+  "lastUpdated": "2025-08-08T23:51:44.448Z",
+  "sampleContent": "Column by Ishaan TharoorFor years, a community lived a tenuous, yet proud existence in their ancestral homeland. Its people toiled, worshiped and raised families on territory recognized by the international community as belonging to a government and country to which they had no loyalty. They found themselves locked in periodic battles with that country. And then, the hammer fell: A spiraling conflict led to a blockade, growing hunger and, finally, the wholesale evacuation of the population away from their homes. An ethnic cleansing happened and the world did nothing to stop it.This isn’t the story of the Gaza Strip — at least, not yet. It’s what befell Nagorno-Karabakh, the enclave within Azerbaijan whose majority ethnic Armenian population was forced to flee en masse in September 2023 in the face of an Azerbaijani offensive. But as exiles motored their way to Yerevan, Armenia’s capital, there was little chance that any foreign power would help enable their return. Within weeks, Hamas’"
+}

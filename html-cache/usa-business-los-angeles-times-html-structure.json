@@ -1,0 +1,18 @@
+{
+  "country": "usa",
+  "category": "business",
+  "feedName": "los-angeles-times",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "h1",
+    "authorSelector": ".byline",
+    "dateSelector": "time",
+    "categorySelector": "[class*=\"category\"]",
+    "tagsSelector": ".tags",
+    "socialShareSelector": "[class*=\"social\"]"
+  },
+  "lastUpdated": "2025-08-09T09:40:44.718Z",
+  "sampleContent": "A bedroom on the Amadea, which can host 16 guests in eight luxurious staterooms. (U.S. Marshals Service and National Maritime Services) By Andrew J. CampaStaff Writer Follow Aug. 7, 2025 5:47 PM PT 12 Share via Close extra sharing options Email Facebook X LinkedIn Threads Reddit WhatsApp Copy Link URL Copied! Print The $300-million-plus Amadea is currently sitting in a San Diego harbor.The superyacht is being auctioned; the bid deposit is $10 million. The Russian oligarch billionaire lifestyle can be yours for the potentially low, low price of tens of millions of dollars, courtesy of the U.S. government.The National Maritime Services, working on behalf of the U.S. Marshals Service, is auctioning off a superyacht, the $300-million-plus Amadea, which currently sits in a San Diego harbor, with a bid deposit starting at $10 million.Florida-based Fraser Yachts, the auction’s promotional agents, described the prize “as one of the most comprehensively equipped yachts in her class.” Advertisem"
+}

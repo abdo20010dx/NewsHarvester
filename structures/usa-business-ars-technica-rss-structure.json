@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "business",
+  "feedName": "ars-technica",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T08:48:15.459Z",
+  "sampleArticles": [
+    {
+      "title": "Google settles shareholder lawsuit, will spend $500M on being less evil",
+      "link": "https://arstechnica.com/gadgets/2025/06/google-settles-shareholder-lawsuit-will-spend-500m-on-being-less-evil/",
+      "description": "",
+      "pubDate": "Mon, 02 Jun 2025 20:35:58 +0000"
+    },
+    {
+      "title": "Genetic testing company 23andMe declares bankruptcy",
+      "link": "https://arstechnica.com/science/2025/03/genetic-testing-company-23andme-declares-bankruptcy/",
+      "description": "",
+      "pubDate": "Mon, 24 Mar 2025 14:55:22 +0000"
+    },
+    {
+      "title": "You’ll be paying extra for ad-free Prime Video come January",
+      "link": "https://arstechnica.com/culture/2023/12/youll-be-paying-extra-for-ad-free-prime-video-come-january/",
+      "description": "",
+      "pubDate": "Wed, 27 Dec 2023 16:26:08 +0000"
+    }
+  ]
+}

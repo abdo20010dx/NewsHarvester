@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "business",
+  "feedName": "washington-post",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T10:54:51.641Z",
+  "sampleArticles": [
+    {
+      "title": "Trump expands use of tariffs to reach national security goals",
+      "link": "https://www.washingtonpost.com/business/2025/08/09/trump-trade-policy-national-security/",
+      "description": "The Trump administration is using trade negotiations to achieve national security goals, including containing China’s strategic influence, documents show.",
+      "pubDate": "Sat, 09 Aug 2025 10:00:35 +0000"
+    },
+    {
+      "title": "Walmart knew about explosion risk in water bottles for 7 years before recall",
+      "link": "https://www.washingtonpost.com/business/2025/08/09/walmart-safety-recall-bottles/",
+      "description": "The retailer knew since 2018 that the bottle lids could be “forcefully ejected.” But the path to a safety recall is surprisingly complicated.",
+      "pubDate": "Sat, 09 Aug 2025 10:00:00 +0000"
+    },
+    {
+      "title": "Trump replaces IRS Commissioner Billy Long after 2 months",
+      "link": "https://www.washingtonpost.com/business/2025/08/08/billy-long-irs-commissioner-bessent/",
+      "description": "Treasury Secretary Scott Bessent will serve as acting head of the IRS, according to people familiar with the matter, and Billy Long will now serve as ambassador to Iceland.",
+      "pubDate": "Fri, 08 Aug 2025 23:00:57 +0000"
+    }
+  ]
+}

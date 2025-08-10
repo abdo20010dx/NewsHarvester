@@ -1,0 +1,15 @@
+{
+  "country": "india",
+  "category": "news",
+  "feedName": "times-of-india",
+  "structure": {
+    "contentSelectors": [
+      "div:nth-child(6)"
+    ],
+    "titleSelector": "h1",
+    "authorSelector": ".byline",
+    "socialShareSelector": "[class*=\"share\"]"
+  },
+  "lastUpdated": "2025-08-08T08:53:47.682Z",
+  "sampleContent": "Uttarakhand CloudburstFollow Us On Social MediaShobana’s timeless beauty and grace captured in stunning monochrome framesEntertainmentKollywood's biggestnewsmakersof the week: 'Parking' National Award win, Dhanush-Mrunal Thakur relationship rumours, to 'Coolie' hypeUS jobless dataBattlefield 6 Beta OpensLatest NewsPati Patni Aur Panga: Swara Bhaskar slams trolls for calling husband Fahad Ahmad ‘chhapri’; reveals he’s being called “a street vendor”26 sanskrit baby girl names starting with S: From goddess-inspired classics to rare gems'Sign the declaration or apologise': EC terms Rahul Gandhi’s 'vote chori' claim 'absurd'; asks LoP to prove chargeMaharashtra govt orders VJTI audit of newly opened Palava flyoverPune needs 3 more municipal corporations for development, including one each for Hinjewadi, Chakan, and areas around Manjari: Ajit PawarNestle India’s maiden 1:1 bonus issue today: FMCG firm eyes enhanced stock liquidity, improved affordability for retail investors— What shareholde"
+}

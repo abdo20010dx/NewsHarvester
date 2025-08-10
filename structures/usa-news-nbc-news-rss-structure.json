@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "news",
+  "feedName": "nbc-news",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T09:48:44.198Z",
+  "sampleArticles": [
+    {
+      "title": "Trump announces meeting with Putin to be held in Alaska",
+      "link": "https://www.nbcnews.com/now/video/trump-announces-meeting-with-putin-to-be-held-in-alaska-244622917783",
+      "description": "Posting on Truth Social, President Trump stated that he will meet with Russian President Vladimir Putin in Alaska on August 15 to discuss a new ceasefire agreement for Ukraine.",
+      "pubDate": "Fri, 08 Aug 2025 22:24:42 GMT"
+    },
+    {
+      "title": "Officer injured in Emory University shooting has died",
+      "link": "https://www.nbcnews.com/now/video/officer-injured-in-emory-university-shooting-has-died-244633669820",
+      "description": "The officer who was injured in the shooting on Emory University&#39;s campus in Atlanta has died from a gunshot wound, according to officials.",
+      "pubDate": "Sat, 09 Aug 2025 01:03:12 GMT"
+    },
+    {
+      "title": "Israel Says it Will Take Control of Gaza City in Major Escalation",
+      "link": "https://www.today.com/video/israel-s-security-cabinet-votes-to-seize-control-of-gaza-city-244571717643",
+      "description": "Israel’s security cabinet voted to approve a plan to seize control of Gaza City after Prime Minister Benjamin Netanyahu said he intends to put the entire strip under military control. The vote went through despite opposition from both military leaders. NBC’s Raf Sanchez reports for TODAY.",
+      "pubDate": "Fri, 08 Aug 2025 11:14:12 GMT"
+    }
+  ]
+}

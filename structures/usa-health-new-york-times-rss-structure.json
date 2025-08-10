@@ -1,0 +1,37 @@
+{
+  "country": "usa",
+  "category": "health",
+  "feedName": "new-york-times",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate",
+    "categoryTag": "category"
+  },
+  "lastUpdated": "2025-08-09T10:07:19.050Z",
+  "sampleArticles": [
+    {
+      "title": "On Vaccines, RFK Jr. Has Broken Sharply With the Mainstream",
+      "link": "https://www.nytimes.com/2025/08/07/health/kennedy-vaccines-mrna-trump.html",
+      "description": "While many officials and scientists embrace other parts of the secretary’s agenda, his stance on vaccines is alienating allies who fear a public health crisis.",
+      "pubDate": "Thu, 07 Aug 2025 15:55:53 +0000",
+      "category": "Kennedy, Robert F Jr"
+    },
+    {
+      "title": "Pill Causes Major Weight Loss in Eli Lilly Trial’s Results",
+      "link": "https://www.nytimes.com/2025/08/07/health/obesity-pill-eli-lilly.html",
+      "description": "The company said it planned to seek Food and Drug Administration approval for the drug, orforglipron, before the end of the year.",
+      "pubDate": "Thu, 07 Aug 2025 11:37:14 +0000",
+      "category": "Eli Lilly and Company"
+    },
+    {
+      "title": "RFK Jr. Cancels Nearly $500 Million in mRNA Vaccine Contracts",
+      "link": "https://www.nytimes.com/2025/08/05/health/rfk-jr-vaccine-funding.html",
+      "description": "That kind of shot was first used during the Covid-19 pandemic, but the health secretary has been sharply critical of the technology.",
+      "pubDate": "Wed, 06 Aug 2025 12:52:17 +0000",
+      "category": "Coronavirus (2019-nCoV)"
+    }
+  ]
+}

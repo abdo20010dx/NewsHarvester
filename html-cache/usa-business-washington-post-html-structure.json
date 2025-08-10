@@ -1,0 +1,14 @@
+{
+  "country": "usa",
+  "category": "business",
+  "feedName": "washington-post",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "title",
+    "authorSelector": "[rel=\"author\"]"
+  },
+  "lastUpdated": "2025-08-09T11:03:00.813Z",
+  "sampleContent": "By Andrew Ackerman and Jacob BogagePresident Donald Trump announced on social media Thursday that he would nominate his White House economic adviser Stephen Miran to the Federal Reserve Board, in his first bid this term to shape the institution that he has aggressively pushed to lower rates.Miran is the chairman of the Council of Economic Advisers, and Trump said he would serve through Jan. 31, 2026, the end of the current vacancy.“It is my Great Honor to announce that I have chosen Dr. Stephen Miran, current Chairman of the Council of Economic Advisors, to serve in the just vacated seat on the Federal Reserve Board until January 31, 2026,” Trump posted. “… He has been with me from the beginning of my Second Term, and his expertise in the World of Economics is unparalleled — He will do an outstanding job. Congratulations Stephen!” Trump wrote on Truth Social.AdvertisementAdvertisementAdvertisementAdvertisementAdvertisementTrump had told reporters this week that he would “probably go wi"
+}

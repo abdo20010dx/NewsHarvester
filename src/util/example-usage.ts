@@ -1,16 +1,16 @@
-import { 
-  SmartRSSParser, 
-  SmartHTMLParser, 
-  NewsHarvester, 
-  RSSFeedConfig, 
-  Article 
+import {
+  SmartRSSParser,
+  SmartHTMLParser,
+  NewsHarvester,
+  RSSFeedConfig,
+  Article
 } from './global-methods';
 
 /**
  * Example usage of the smart global methods
  */
 export class ExampleUsage {
-  
+
   /**
    * Example: Process a single RSS feed
    */
@@ -18,15 +18,15 @@ export class ExampleUsage {
     const config: RSSFeedConfig = {
       country: 'usa',
       category: 'technology',
-      feedName: 'techcrunch',
-      url: 'https://techcrunch.com/feed/'
+      feedName: 'new-york-times',
+      url: 'https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml'
     };
 
     try {
       console.log('Processing RSS feed...');
       const articles = await SmartRSSParser.processRSSFeed(config);
       console.log(`Found ${articles.length} articles`);
-      
+
       // Display first few articles
       articles.slice(0, 3).forEach((article, index) => {
         console.log(`\nArticle ${index + 1}:`);
@@ -46,15 +46,15 @@ export class ExampleUsage {
     const config: RSSFeedConfig = {
       country: 'usa',
       category: 'news',
-      feedName: 'reuters',
-      url: 'https://feeds.reuters.com/reuters/topNews'
+      feedName: 'washington-post',
+      url: 'https://feeds.washingtonpost.com/rss/national'
     };
 
     try {
       console.log('Processing RSS feed with full content extraction...');
       const articles = await NewsHarvester.harvestNews(config);
       console.log(`Found ${articles.length} articles with full content`);
-      
+
       // Display first article with full content
       if (articles.length > 0) {
         const article = articles[0];
@@ -79,27 +79,27 @@ export class ExampleUsage {
       {
         country: 'usa',
         category: 'technology',
-        feedName: 'techcrunch',
-        url: 'https://techcrunch.com/feed/'
+        feedName: 'new-york-times',
+        url: 'https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml'
       },
       {
         country: 'usa',
         category: 'news',
-        feedName: 'reuters',
-        url: 'https://feeds.reuters.com/reuters/topNews'
+        feedName: 'washington-post',
+        url: 'https://feeds.washingtonpost.com/rss/national'
       },
       {
         country: 'usa',
         category: 'business',
-        feedName: 'bloomberg',
-        url: 'https://feeds.bloomberg.com/politics/news.rss'
+        feedName: 'wall-street-journal',
+        url: 'https://feeds.wsj.com/rss/WSJcomMarkets'
       }
     ];
 
     try {
       console.log('Processing multiple RSS feeds...');
       const results = await NewsHarvester.harvestMultipleFeeds(configs);
-      
+
       results.forEach((articles, key) => {
         console.log(`\n${key}: ${articles.length} articles`);
         if (articles.length > 0) {
@@ -122,7 +122,7 @@ export class ExampleUsage {
       url: 'https://example.com'
     };
 
-    const url = 'https://techcrunch.com/2024/01/01/example-article/';
+    const url = 'https://www.nytimes.com/2024/01/01/technology/example-article.html';
 
     try {
       console.log('Extracting content from URL...');
@@ -142,14 +142,14 @@ export class ExampleUsage {
       {
         country: 'usa',
         category: 'technology',
-        feedName: 'techcrunch',
-        url: 'https://techcrunch.com/feed/'
+        feedName: 'new-york-times',
+        url: 'https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml'
       },
       {
         country: 'usa',
         category: 'news',
-        feedName: 'reuters',
-        url: 'https://feeds.reuters.com/reuters/topNews'
+        feedName: 'washington-post',
+        url: 'https://feeds.washingtonpost.com/rss/national'
       }
     ];
 

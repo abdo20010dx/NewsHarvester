@@ -1,0 +1,18 @@
+{
+  "feedName": "chicago-tribune",
+  "displayName": "Chicago Tribune",
+  "urls": [
+    {
+      "category": "news",
+      "url": "https://www.chicagotribune.com/feed/"
+    },
+    {
+      "category": "business",
+      "url": "https://www.chicagotribune.com/business/feed/"
+    },
+    {
+      "category": "sports",
+      "url": "https://www.chicagotribune.com/sports/feed/"
+    }
+  ]
+}

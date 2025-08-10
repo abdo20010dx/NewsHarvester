@@ -1,0 +1,16 @@
+{
+  "country": "usa",
+  "category": "business",
+  "feedName": "wired",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "title",
+    "authorSelector": ".byline",
+    "dateSelector": "[class*=\"date\"]",
+    "socialShareSelector": "[class*=\"social\"]"
+  },
+  "lastUpdated": "2025-08-08T23:53:20.230Z",
+  "sampleContent": "Save StorySave this storySave StorySave this storyOpenAI has begun rolling out GPT-5, the latest iteration of its flagship language model, to all ChatGPT users.The company’s CEO Sam Altman called GPT-5 “a significant step along the path to AGI” during a press briefing on Wednesday. While he stopped short of claiming the model reaches artificial general intelligence, Altman noted the latest release is “clearly a model that is generally intelligent.” He added that GPT-5 still lacks key traits that would make it reach AGI, a notably loose term that is defined in OpenAI’s charter as “a highly autonomous system that outperforms humans at most economically valuable work.” For example, the model still lacks the ability to learn continuously after deployment.OpenAI claims GPT-5 is smarter, faster, more useful, and more accurate, with a lower hallucination rate than previous models. In characteristically lofty terms, Altman likened the leap from GPT-4 to GPT-5 to the iPhone’s shift from pixelat"
+}

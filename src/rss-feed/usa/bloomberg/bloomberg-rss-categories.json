@@ -1,0 +1,18 @@
+{
+  "feedName": "bloomberg",
+  "displayName": "Bloomberg",
+  "urls": [
+    {
+      "category": "business",
+      "url": "https://feeds.bloomberg.com/markets/news.rss"
+    },
+    {
+      "category": "technology",
+      "url": "https://feeds.bloomberg.com/technology/news.rss"
+    },
+    {
+      "category": "politics",
+      "url": "https://feeds.bloomberg.com/politics/news.rss"
+    }
+  ]
+}

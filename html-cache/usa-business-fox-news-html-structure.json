@@ -1,0 +1,14 @@
+{
+  "country": "usa",
+  "category": "business",
+  "feedName": "fox-news",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": ".title",
+    "videoSelector": "[class*=\"video\"]"
+  },
+  "lastUpdated": "2025-08-09T09:22:43.607Z",
+  "sampleContent": "close video Harvard is 'teaching' and 'fomenting' antisemitism, says Alan Dershowitz Civil liberties lawyer Alan Dershowitz discusses President Donald Trump's demands to Harvard University amid a legal battle on 'The Evening Edit.' The clash between Alan Dershowitz, the lawyer widely recognized for representing Jeffrey Epstein and President Donald Trump, and a Martha's Vineyard pierogi stand escalated again after the stand refused to serve him a second time. Dershowitz approached Good Pierogi at the West Tisbury Farmers Market again on Wednesday, requesting they sell to him, though tensions flared when observers said he misgendered the chef, Krem Miskevich, referring to them as \"he.\" Miskevich corrected him, reminding Dershowitz that their pronouns are they/them, according to several reports. Dershowitz responded that he was happy to use any pronouns the chef preferred, insisting that the real point of contention lay in his politics, according to multiple reports.FOX Business reached o"
+}

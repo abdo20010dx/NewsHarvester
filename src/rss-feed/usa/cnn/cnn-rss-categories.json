@@ -1,0 +1,22 @@
+{
+  "feedName": "cnn",
+  "displayName": "CNN",
+  "urls": [
+    {
+      "category": "news",
+      "url": "http://rss.cnn.com/rss/edition.rss"
+    },
+    {
+      "category": "world",
+      "url": "http://rss.cnn.com/rss/edition_world.rss"
+    },
+    {
+      "category": "business",
+      "url": "http://rss.cnn.com/rss/money_latest.rss"
+    },
+    {
+      "category": "technology",
+      "url": "http://rss.cnn.com/rss/edition_technology.rss"
+    }
+  ]
+}

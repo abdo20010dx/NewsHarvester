@@ -1,0 +1,16 @@
+{
+  "country": "usa",
+  "category": "technology",
+  "feedName": "npr",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "h1",
+    "authorSelector": ".byline",
+    "dateSelector": ".date",
+    "socialShareSelector": "[class*=\"share\"]"
+  },
+  "lastUpdated": "2025-08-09T10:19:35.180Z",
+  "sampleContent": "National Nihilistic online networks groom minors to commit harm. Her son was one of them August 6, 20255:00 AM ET Odette Yousef Dana is mom to a son who, when he was 14, experienced a rapid decline in his mental well-being. A few months later, she came to understand that he had become deeply influenced by predatory online networks that encourage vulnerable people, especially minors, to harm themselves and others. NPR is not using Dana's full name or revealing her identity because it remains unclear whether those who targeted her son continue their activities. Joanna Kulesza for NPR hide caption toggle caption Joanna Kulesza for NPR The beginning of ninth grade was already shaping up to be a bumpy transition for then-14-year-old Elliott. His longtime friend group from preschool days had fractured. His parents were separating. And, he was starting high school. With his new smartphone, Elliott increasingly sought community online, in spaces where other users shared his musical interests. "
+}

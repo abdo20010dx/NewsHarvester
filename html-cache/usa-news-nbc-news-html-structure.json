@@ -1,0 +1,15 @@
+{
+  "country": "usa",
+  "category": "news",
+  "feedName": "nbc-news",
+  "structure": {
+    "contentSelectors": [
+      "div:nth-child(2)"
+    ],
+    "titleSelector": "h1",
+    "videoSelector": ".video",
+    "socialShareSelector": "[class*=\"share\"]"
+  },
+  "lastUpdated": "2025-08-08T23:49:09.376Z",
+  "sampleContent": "Score a signed version of the Jonas Brothers' new albumIE 11 is not supported. For an optimal experience visit our site on another browser.Skip to ContentIsrael Says it Will Take Control of Gaza City in Major EscalationAug. 8, 202501:59Air Force Denies Transgender Service Members Early Retirement00:36HBO Max to Begin Password Sharing Crackdown in September00:29Portable Charger Bursts Into Flames on Flight Over the Atlantic00:30Bed Bath & Beyond Returns — With a New Name!03:04What Newly-Released Crime Photos Reveal About Idaho Murders02:59Helicopter Collides With Power Line, Crashes Into Mississippi River01:32Abbott: We Are Searching, 'Preparing to Arrest' Absent Texas Dems02:24American Businesses Brace for Impact of Trump’s New Tariffs02:29Now PlayingIsrael Says it Will Take Control of Gaza City in Major Escalation01:59UP NEXTNew Wildfire Erupts in California; Arizona Faces Extreme Temps03:32Volunteer Firefighters Recount Saving Lives in Texas Flood07:50TODAY Lends a Hand to Texas Comm"
+}

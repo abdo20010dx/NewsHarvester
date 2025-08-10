@@ -1,0 +1,22 @@
+{
+  "feedName": "fox-news",
+  "displayName": "Fox News",
+  "urls": [
+    {
+      "category": "news",
+      "url": "https://feeds.foxnews.com/foxnews/latest"
+    },
+    {
+      "category": "world",
+      "url": "https://feeds.foxnews.com/foxnews/world"
+    },
+    {
+      "category": "business",
+      "url": "https://feeds.foxnews.com/foxnews/business"
+    },
+    {
+      "category": "technology",
+      "url": "https://feeds.foxnews.com/foxnews/tech"
+    }
+  ]
+}

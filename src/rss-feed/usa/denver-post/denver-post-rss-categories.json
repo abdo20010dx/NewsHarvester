@@ -1,0 +1,18 @@
+{
+  "feedName": "denver-post",
+  "displayName": "Denver Post",
+  "urls": [
+    {
+      "category": "news",
+      "url": "https://www.denverpost.com/news/feed/"
+    },
+    {
+      "category": "business",
+      "url": "https://www.denverpost.com/business/feed/"
+    },
+    {
+      "category": "sports",
+      "url": "https://www.denverpost.com/sports/feed/"
+    }
+  ]
+}

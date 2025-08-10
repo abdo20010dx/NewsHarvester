@@ -1,0 +1,10 @@
+{
+  "feedName": "engadget",
+  "displayName": "Engadget",
+  "urls": [
+    {
+      "category": "technology",
+      "url": "https://www.engadget.com/rss.xml"
+    }
+  ]
+}

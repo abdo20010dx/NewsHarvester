@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "news",
+  "feedName": "time",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T10:31:49.797Z",
+  "sampleArticles": [
+    {
+      "title": "&#8216;Free America&#8217;: Anti-Trump Administration Protests Planned Across U.S. on July 4",
+      "link": "https://time.com/7299015/anti-trump-administration-protests-united-states-july-4-independence-day/",
+      "description": "",
+      "pubDate": "Tue, 01 Jul 2025 12:34:54 +0000"
+    },
+    {
+      "title": "In the Loop: Is AI Making the Next Pandemic More Likely?",
+      "link": "https://time.com/7298731/in-the-loop-pandemic-ai-study/",
+      "description": "",
+      "pubDate": "Tue, 01 Jul 2025 12:05:00 +0000"
+    },
+    {
+      "title": "Today’s AI Could Make Pandemics 5 Times More Likely, Experts Predict",
+      "link": "https://time.com/7298645/ai-pandemic-5-times-more-likely/",
+      "description": "",
+      "pubDate": "Tue, 01 Jul 2025 12:00:00 +0000"
+    }
+  ]
+}

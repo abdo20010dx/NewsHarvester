@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "startups",
+  "feedName": "techcrunch",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T10:21:25.767Z",
+  "sampleArticles": [
+    {
+      "title": "Amazon backs programmable optics startup Lumotive",
+      "link": "https://techcrunch.com/2025/07/22/amazon-backs-programmable-optics-startup-lumotive/",
+      "description": "",
+      "pubDate": "Tue, 22 Jul 2025 12:08:09 +0000"
+    },
+    {
+      "title": "AI voice company Hyper raises $6.3M to help automate 911 calls",
+      "link": "https://techcrunch.com/2025/07/21/ai-voice-company-hyper-raises-6-3m-to-help-automate-911-calls/",
+      "description": "",
+      "pubDate": "Mon, 21 Jul 2025 16:00:00 +0000"
+    },
+    {
+      "title": "The perfect pitch: This NEA partner says every founder should answer these 5 questions",
+      "link": "https://techcrunch.com/2025/07/19/the-perfect-pitch-this-nea-partner-says-every-founder-should-answer-these-5-questions/",
+      "description": "",
+      "pubDate": "Sat, 19 Jul 2025 16:00:00 +0000"
+    }
+  ]
+}

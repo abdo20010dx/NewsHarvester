@@ -1,0 +1,21 @@
+{
+  "country": "usa",
+  "category": "business",
+  "feedName": "cnn",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T08:58:14.049Z",
+  "sampleArticles": [
+    {
+      "title": "Retirement contribution limits will rise in 2019",
+      "link": "http://money.cnn.com/2018/11/01/retirement/irs-contributions/index.html?section=money_latest",
+      "description": "Good news retirement savers: The Internal Revenue Service announced cost of living increases to the contribution limits for retirement-related plans in 2019.",
+      "pubDate": "Thu, 01 Nov 2018 16:50:22 EDT"
+    }
+  ]
+}

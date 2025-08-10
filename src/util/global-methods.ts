@@ -284,7 +284,7 @@ export class SmartRSSParser {
    */
   private static saveRSSStructure(config: RSSFeedConfig, structure: RSSStructure, articles: Article[]): void {
     this.ensureDirectories();
-    
+
     const metadata: FeedMetadata = {
       country: config.country,
       category: config.category,
@@ -296,7 +296,7 @@ export class SmartRSSParser {
 
     const filename = `${config.country}-${config.category}-${config.feedName}-rss-structure.json`;
     const filepath = path.join(this.STRUCTURES_DIR, filename);
-    
+
     fs.writeFileSync(filepath, JSON.stringify(metadata, null, 2));
   }
 
@@ -305,17 +305,17 @@ export class SmartRSSParser {
    */
   private static loadRSSStructure(config: RSSFeedConfig): RSSStructure | null {
     this.ensureDirectories();
-    
+
     const filename = `${config.country}-${config.category}-${config.feedName}-rss-structure.json`;
     const filepath = path.join(this.STRUCTURES_DIR, filename);
-    
+
     if (fs.existsSync(filepath)) {
       try {
         const metadata: FeedMetadata = JSON.parse(fs.readFileSync(filepath, 'utf8'));
         // Check if structure is not too old (7 days)
         const lastUpdated = new Date(metadata.lastUpdated);
         const daysDiff = (Date.now() - lastUpdated.getTime()) / (1000 * 60 * 60 * 24);
-        
+
         if (daysDiff < 7) {
           return metadata.structure;
         }
@@ -323,7 +323,7 @@ export class SmartRSSParser {
         console.warn(`Failed to load cached structure for ${filename}:`, error);
       }
     }
-    
+
     return null;
   }
 
@@ -334,7 +334,7 @@ export class SmartRSSParser {
     try {
       // Try to load cached structure first
       let structure = this.loadRSSStructure(config);
-      
+
       if (!structure) {
         // Fetch and detect structure
         const xmlContent = await this.fetchRSSContent(config.url);
@@ -403,10 +403,10 @@ export class SmartHTMLParser {
 
     try {
       const $ = cheerio.load(htmlContent);
-      
+
       // Remove unwanted elements for cleaner analysis
       $('script, style, nav, header, footer, aside, .ad, .ads, .advertisement, .social-share, .comments, .related-posts').remove();
-      
+
       // ===== CONTENT SELECTORS =====
       const contentSelectors = [
         'article',
@@ -696,10 +696,10 @@ export class SmartHTMLParser {
   private static extractPostDataFromHTML(htmlContent: string, structure: HTMLStructure): ExtractedPostData {
     try {
       const $ = cheerio.load(htmlContent);
-      
+
       // Remove unwanted elements
       $('script, style, nav, header, footer, aside, .ad, .ads, .advertisement, .social-share, .comments, .related-posts').remove();
-      
+
       const postData: ExtractedPostData = {
         title: '',
         content: '',
@@ -711,19 +711,19 @@ export class SmartHTMLParser {
       if (structure.titleSelector) {
         const titleElement = $(structure.titleSelector).first();
         postData.title = titleElement.text().trim();
-        
+
         // Fallback to meta tags if no title found
         if (!postData.title) {
-          postData.title = $('meta[property="og:title"]').attr('content') || 
-                          $('meta[name="twitter:title"]').attr('content') || 
-                          $('title').text().trim();
+          postData.title = $('meta[property="og:title"]').attr('content') ||
+            $('meta[name="twitter:title"]').attr('content') ||
+            $('title').text().trim();
         }
       }
 
       // ===== EXTRACT CONTENT =====
       // Enhanced content extraction with multiple strategies
       let contentExtracted = false;
-      
+
       // Strategy 1: Use detected content selectors
       for (const selector of structure.contentSelectors) {
         const elements = $(selector);
@@ -731,7 +731,7 @@ export class SmartHTMLParser {
           const content = elements.text()
             .replace(/\s+/g, ' ')
             .trim();
-          
+
           if (content.length > 300) {
             postData.content = content;
             contentExtracted = true;
@@ -739,12 +739,12 @@ export class SmartHTMLParser {
           }
         }
       }
-      
+
       // Strategy 2: Enhanced paragraph extraction
       if (!contentExtracted || postData.content.length < 300) {
         const paragraphs = $('p, .paragraph, .text, .content-text');
         const texts: string[] = [];
-        
+
         paragraphs.each((i, elem) => {
           const text = $(elem).text().trim();
           // More lenient length check for better content capture
@@ -752,14 +752,14 @@ export class SmartHTMLParser {
             texts.push(text);
           }
         });
-        
+
         const paragraphContent = texts.join(' ').replace(/\s+/g, ' ').trim();
         if (paragraphContent.length > postData.content.length) {
           postData.content = paragraphContent;
           contentExtracted = true;
         }
       }
-      
+
       // Strategy 3: Extract from article body or main content areas
       if (!contentExtracted || postData.content.length < 300) {
         const contentAreas = [
@@ -774,7 +774,7 @@ export class SmartHTMLParser {
           '.article-body',
           '.post-body'
         ];
-        
+
         for (const areaSelector of contentAreas) {
           const area = $(areaSelector);
           if (area.length > 0) {
@@ -787,29 +787,29 @@ export class SmartHTMLParser {
           }
         }
       }
-      
+
       // Strategy 4: Extract from divs with substantial text content
       if (!contentExtracted || postData.content.length < 300) {
         let maxLength = 0;
         let bestContent = '';
-        
+
         $('div').each((i, elem) => {
           const text = $(elem).text().replace(/\s+/g, ' ').trim();
           // Check for substantial content without navigation/ad elements
-          if (text.length > maxLength && 
-              text.length > 200 && 
-              !$(elem).hasClass('nav') && 
-              !$(elem).hasClass('header') && 
-              !$(elem).hasClass('footer') && 
-              !$(elem).hasClass('sidebar') &&
-              !$(elem).hasClass('ad') &&
-              !$(elem).hasClass('ads') &&
-              !$(elem).hasClass('advertisement')) {
+          if (text.length > maxLength &&
+            text.length > 200 &&
+            !$(elem).hasClass('nav') &&
+            !$(elem).hasClass('header') &&
+            !$(elem).hasClass('footer') &&
+            !$(elem).hasClass('sidebar') &&
+            !$(elem).hasClass('ad') &&
+            !$(elem).hasClass('ads') &&
+            !$(elem).hasClass('advertisement')) {
             maxLength = text.length;
             bestContent = text;
           }
         });
-        
+
         if (bestContent.length > postData.content.length) {
           postData.content = bestContent;
         }
@@ -819,13 +819,13 @@ export class SmartHTMLParser {
       if (structure.descriptionSelector) {
         postData.description = $(structure.descriptionSelector).first().text().trim();
       }
-      
+
       // Fallback to meta tags
       if (!postData.description) {
-        postData.description = $('meta[property="og:description"]').attr('content') || 
-                              $('meta[name="description"]').attr('content') || 
-                              $('meta[name="twitter:description"]').attr('content') || 
-                              postData.content.substring(0, 200) + '...';
+        postData.description = $('meta[property="og:description"]').attr('content') ||
+          $('meta[name="description"]').attr('content') ||
+          $('meta[name="twitter:description"]').attr('content') ||
+          postData.content.substring(0, 200) + '...';
       }
 
       // ===== EXTRACT AUTHOR =====
@@ -844,11 +844,11 @@ export class SmartHTMLParser {
         const imgElement = $(structure.imageSelector).first();
         postData.image = imgElement.attr('src') || imgElement.attr('data-src');
       }
-      
+
       // Fallback to meta tags
       if (!postData.image) {
-        postData.image = $('meta[property="og:image"]').attr('content') || 
-                        $('meta[name="twitter:image"]').attr('content');
+        postData.image = $('meta[property="og:image"]').attr('content') ||
+          $('meta[name="twitter:image"]').attr('content');
       }
 
       // ===== EXTRACT VIDEO URL =====
@@ -869,7 +869,7 @@ export class SmartHTMLParser {
 
       // ===== EXTRACT TAGS =====
       // Enhanced tag extraction with multiple strategies
-      
+
       // Strategy 1: Use detected tags selector
       if (structure.tagsSelector) {
         const tagsElement = $(structure.tagsSelector);
@@ -880,7 +880,7 @@ export class SmartHTMLParser {
           }
         });
       }
-      
+
       // Strategy 2: Extract from common tag patterns
       const tagSelectors = [
         '.tags a',
@@ -899,7 +899,7 @@ export class SmartHTMLParser {
         '.tag-link',
         '.tags-link'
       ];
-      
+
       for (const selector of tagSelectors) {
         $(selector).each((i, elem) => {
           const tag = $(elem).text().trim();
@@ -908,14 +908,14 @@ export class SmartHTMLParser {
           }
         });
       }
-      
+
       // Strategy 3: Extract from meta tags
       const metaTags = [
         $('meta[name="keywords"]').attr('content'),
         $('meta[property="article:tag"]').attr('content'),
         $('meta[name="news_keywords"]').attr('content')
       ].filter(Boolean);
-      
+
       for (const metaTag of metaTags) {
         if (metaTag) {
           const tags = metaTag.split(',').map(tag => tag.trim()).filter(tag => tag.length > 0);
@@ -926,7 +926,7 @@ export class SmartHTMLParser {
           }
         }
       }
-      
+
       // Strategy 4: Extract from structured data (JSON-LD)
       $('script[type="application/ld+json"]').each((i, elem) => {
         try {
@@ -949,7 +949,7 @@ export class SmartHTMLParser {
           // Ignore JSON parsing errors
         }
       });
-      
+
       // Strategy 5: Extract from category and topic elements
       const categorySelectors = [
         '.category',
@@ -961,7 +961,7 @@ export class SmartHTMLParser {
         '.breadcrumb a',
         '.breadcrumbs a'
       ];
-      
+
       for (const selector of categorySelectors) {
         $(selector).each((i, elem) => {
           const category = $(elem).text().trim();
@@ -970,12 +970,12 @@ export class SmartHTMLParser {
           }
         });
       }
-      
+
       // Strategy 6: Enhanced content-based tag generation
       if (postData.content && postData.tags.length < 10) {
         // Extract entities and key terms from content
         const contentLower = postData.content.toLowerCase();
-        
+
         // Company and product names
         const companyPatterns = [
           /the browser company/gi,
@@ -990,7 +990,7 @@ export class SmartHTMLParser {
           /meta/gi,
           /facebook/gi
         ];
-        
+
         for (const pattern of companyPatterns) {
           const matches = contentLower.match(pattern);
           if (matches) {
@@ -1000,7 +1000,7 @@ export class SmartHTMLParser {
             }
           }
         }
-        
+
         // Technology and feature terms
         const techTerms = [
           'artificial intelligence', 'ai', 'machine learning', 'ml', 'deep learning',
@@ -1017,17 +1017,17 @@ export class SmartHTMLParser {
           'ai-powered', 'ai features', 'monthly subscription', 'paid tier',
           'usage limits', 'unlimited access', 'skills features'
         ];
-        
-        const foundTechTerms = techTerms.filter(term => 
+
+        const foundTechTerms = techTerms.filter(term =>
           contentLower.includes(term.toLowerCase())
         );
-        
+
         for (const term of foundTechTerms.slice(0, 5)) {
           if (!postData.tags.includes(term)) {
             postData.tags.push(term);
           }
         }
-        
+
         // Extract key phrases and concepts
         const keyPhrases = [
           'subscription plan',
@@ -1042,17 +1042,17 @@ export class SmartHTMLParser {
           'pro subscription',
           'unlimited access'
         ];
-        
-        const foundPhrases = keyPhrases.filter(phrase => 
+
+        const foundPhrases = keyPhrases.filter(phrase =>
           contentLower.includes(phrase.toLowerCase())
         );
-        
+
         for (const phrase of foundPhrases.slice(0, 3)) {
           if (!postData.tags.includes(phrase)) {
             postData.tags.push(phrase);
           }
         }
-        
+
         // Extract monetary values and pricing
         const pricePattern = /\$(\d+(?:\.\d{2})?)\s*(?:per\s+)?(?:month|monthly|year|yearly)/gi;
         const priceMatches = contentLower.match(pricePattern);
@@ -1063,7 +1063,7 @@ export class SmartHTMLParser {
             }
           }
         }
-        
+
         // Extract industry-specific terms
         const industryTerms = [
           'saas', 'software as a service', 'b2b', 'b2c', 'enterprise',
@@ -1071,22 +1071,22 @@ export class SmartHTMLParser {
           'development', 'programming', 'coding', 'web development',
           'frontend', 'backend', 'full-stack', 'api', 'integration'
         ];
-        
-        const foundIndustryTerms = industryTerms.filter(term => 
+
+        const foundIndustryTerms = industryTerms.filter(term =>
           contentLower.includes(term.toLowerCase())
         );
-        
+
         for (const term of foundIndustryTerms.slice(0, 3)) {
           if (!postData.tags.includes(term)) {
             postData.tags.push(term);
           }
         }
       }
-      
+
       // Strategy 7: Extract from article title analysis
       if (postData.title && postData.tags.length < 15) {
         const titleLower = postData.title.toLowerCase();
-        
+
         // Extract key entities from title
         const titleEntities = [
           'browser company',
@@ -1097,25 +1097,25 @@ export class SmartHTMLParser {
           'monthly',
           'pro'
         ];
-        
+
         for (const entity of titleEntities) {
           if (titleLower.includes(entity) && !postData.tags.includes(entity)) {
             postData.tags.push(entity);
           }
         }
       }
-      
+
       // Strategy 8: Extract from URL path and structure
       const url = $('link[rel="canonical"]').attr('href') || '';
       if (url) {
         const urlPath = url.split('/').filter(segment => segment.length > 0);
-        const relevantSegments = urlPath.filter(segment => 
-          segment.length > 2 && 
-          !segment.includes('.') && 
+        const relevantSegments = urlPath.filter(segment =>
+          segment.length > 2 &&
+          !segment.includes('.') &&
           !segment.includes('www') &&
           !segment.includes('http')
         );
-        
+
         for (const segment of relevantSegments.slice(0, 3)) {
           const cleanSegment = segment.replace(/[-_]/g, ' ').trim();
           if (cleanSegment.length > 2 && !postData.tags.includes(cleanSegment)) {
@@ -1123,90 +1123,90 @@ export class SmartHTMLParser {
           }
         }
       }
-      
+
       // Strategy 9: Extract from author and publication info
       if (postData.author && !postData.tags.includes(postData.author)) {
         postData.tags.push(postData.author);
       }
-      
+
       // Strategy 10: Extract from publication name
-      const publicationName = $('meta[property="og:site_name"]').attr('content') || 
-                            $('meta[name="application-name"]').attr('content') ||
-                            $('title').text().split('|')[0]?.trim() ||
-                            $('title').text().split('-')[0]?.trim();
-      
+      const publicationName = $('meta[property="og:site_name"]').attr('content') ||
+        $('meta[name="application-name"]').attr('content') ||
+        $('title').text().split('|')[0]?.trim() ||
+        $('title').text().split('-')[0]?.trim();
+
       if (publicationName && !postData.tags.includes(publicationName)) {
         postData.tags.push(publicationName);
       }
-      
+
       // Clean up tags - remove duplicates and normalize
       postData.tags = [...new Set(postData.tags.map(tag => tag.trim()).filter(tag => tag.length > 0))];
-      
+
       // Enhanced tag filtering and prioritization
       if (postData.tags.length > 0) {
         // Filter out irrelevant tags (article titles, long sentences, etc.)
         const filteredTags = postData.tags.filter(tag => {
           const tagLower = tag.toLowerCase();
-          
+
           // Remove tags that are too long (likely article titles)
           if (tag.length > 50) return false;
-          
+
           // Remove tags that are just author names (common pattern with first and last name)
           if (/^[A-Z][a-z]+ [A-Z][a-z]+$/.test(tag) && tag.length > 10) return false;
-          
+
           // Remove tags that are just author names (more comprehensive pattern)
           if (/^[A-Z][a-z]+ [A-Z][a-z]+ [A-Z][a-z]+$/.test(tag)) return false;
-          
+
           // Remove tags that contain common author name patterns
           if (tagLower.includes('dominic') || tagLower.includes('madori') || tagLower.includes('davis')) {
             if (tag.length > 15) return false;
           }
-          
+
           // Remove tags that are common author names (first name + last name pattern)
           const commonAuthorNames = ['anthony ha', 'dominic-madori davis', 'rebecca bellan', 'aisha malik', 'amanda silberling'];
           if (commonAuthorNames.includes(tagLower)) return false;
-          
+
           // Remove tags that are just other article titles
           if (tagLower.includes('launches') || tagLower.includes('announces') || tagLower.includes('releases')) {
             if (tag.length > 30) return false;
           }
-          
+
           // Remove tags that are just publication names (unless it's the main one)
           if (tagLower === 'techcrunch' && postData.tags.filter(t => t.toLowerCase() === 'techcrunch').length > 1) return false;
-          
+
           // Remove tags that are clearly other article titles (containing action words)
-          if (tagLower.includes('raises') || tagLower.includes('launches') || tagLower.includes('announces') || 
-              tagLower.includes('releases') || tagLower.includes('gets') || tagLower.includes('points to')) {
+          if (tagLower.includes('raises') || tagLower.includes('launches') || tagLower.includes('announces') ||
+            tagLower.includes('releases') || tagLower.includes('gets') || tagLower.includes('points to')) {
             if (tag.length > 25) return false;
           }
-          
+
           // Remove tags that are just author names (common pattern with first and last name)
           if (/^[A-Z][a-z]+ [A-Z][a-z]+$/.test(tag) && tag.length > 10) return false;
-          
+
           return true;
         });
-        
+
         // Prioritize relevant tags
         const priorityTags = filteredTags.filter(tag => {
           const tagLower = tag.toLowerCase();
           const titleLower = postData.title.toLowerCase();
-          
+
           // High priority: tags that appear in title
           if (titleLower.includes(tagLower) && tagLower.length > 2) return true;
-          
+
           // High priority: tech-related terms
           const techTerms = ['ai', 'browser', 'subscription', 'tech', 'technology', 'software', 'app', 'artificial intelligence', 'machine learning', 'web', 'internet', 'digital', 'innovation'];
           if (techTerms.some(term => tagLower.includes(term))) return true;
-          
+
           // Medium priority: company/product names
           const companyTerms = ['browser company', 'dia', 'openai', 'microsoft', 'google', 'apple', 'amazon', 'meta'];
           if (companyTerms.some(term => tagLower.includes(term))) return true;
-          
+
           return false;
         });
-        
+
         const otherTags = filteredTags.filter(tag => !priorityTags.includes(tag));
-        
+
         // Combine and limit to 15 tags
         postData.tags = [...priorityTags, ...otherTags].slice(0, 15);
       }
@@ -1219,11 +1219,11 @@ export class SmartHTMLParser {
       // ===== EXTRACT METADATA =====
       // Word count
       postData.wordCount = postData.content.split(/\s+/).length;
-      
+
       // Language
-      postData.language = $('html').attr('lang') || 
-                         $('meta[http-equiv="content-language"]').attr('content');
-      
+      postData.language = $('html').attr('lang') ||
+        $('meta[http-equiv="content-language"]').attr('content');
+
       // Canonical URL
       postData.canonicalUrl = $('link[rel="canonical"]').attr('href');
 
@@ -1231,12 +1231,12 @@ export class SmartHTMLParser {
       if (structure.socialShareSelector) {
         const socialElement = $(structure.socialShareSelector);
         postData.socialShares = {};
-        
+
         // Extract share counts if available
         const facebookCount = socialElement.find('[data-facebook-count], .facebook-count').text();
         const twitterCount = socialElement.find('[data-twitter-count], .twitter-count').text();
         const linkedinCount = socialElement.find('[data-linkedin-count], .linkedin-count').text();
-        
+
         if (facebookCount) postData.socialShares.facebook = parseInt(facebookCount);
         if (twitterCount) postData.socialShares.twitter = parseInt(twitterCount);
         if (linkedinCount) postData.socialShares.linkedin = parseInt(linkedinCount);
@@ -1255,10 +1255,10 @@ export class SmartHTMLParser {
       };
 
       return postData;
-      
+
     } catch (error) {
       console.warn('Error extracting post data with cheerio:', error);
-      
+
       // Fallback to basic content extraction
       return {
         title: '',
@@ -1287,7 +1287,7 @@ export class SmartHTMLParser {
    */
   private static saveHTMLStructure(config: RSSFeedConfig, structure: HTMLStructure, content: string): void {
     this.ensureDirectories();
-    
+
     const metadata: HTMLMetadata = {
       country: config.country,
       category: config.category,
@@ -1299,7 +1299,7 @@ export class SmartHTMLParser {
 
     const filename = `${config.country}-${config.category}-${config.feedName}-html-structure.json`;
     const filepath = path.join(this.HTML_CACHE_DIR, filename);
-    
+
     fs.writeFileSync(filepath, JSON.stringify(metadata, null, 2));
   }
 
@@ -1308,17 +1308,17 @@ export class SmartHTMLParser {
    */
   private static loadHTMLStructure(config: RSSFeedConfig): HTMLStructure | null {
     this.ensureDirectories();
-    
+
     const filename = `${config.country}-${config.category}-${config.feedName}-html-structure.json`;
     const filepath = path.join(this.HTML_CACHE_DIR, filename);
-    
+
     if (fs.existsSync(filepath)) {
       try {
         const metadata: HTMLMetadata = JSON.parse(fs.readFileSync(filepath, 'utf8'));
         // Check if structure is not too old (30 days for HTML)
         const lastUpdated = new Date(metadata.lastUpdated);
         const daysDiff = (Date.now() - lastUpdated.getTime()) / (1000 * 60 * 60 * 24);
-        
+
         if (daysDiff < 30) {
           return metadata.structure;
         }
@@ -1326,7 +1326,7 @@ export class SmartHTMLParser {
         console.warn(`Failed to load cached HTML structure for ${filename}:`, error);
       }
     }
-    
+
     return null;
   }
 
@@ -1337,7 +1337,7 @@ export class SmartHTMLParser {
     try {
       // Try to load cached structure first
       let structure = this.loadHTMLStructure(config);
-      
+
       if (!structure) {
         // Fetch and detect structure
         const htmlContent = await this.fetchHTMLContent(url);
@@ -1360,30 +1360,77 @@ export class SmartHTMLParser {
   }
 
   /**
-   * Extract comprehensive post data from HTML content
+   * Extract comprehensive post data from HTML content with Puppeteer fallback
    */
   public static async extractPostData(config: RSSFeedConfig, url: string): Promise<ExtractedPostData> {
     try {
-      // Try to load cached structure first
+      // First, try with enhanced Puppeteer-based parser
+      try {
+        const { EnhancedHTMLParser } = await import('./enhanced-html-parser.js');
+        const enhancedParser = new EnhancedHTMLParser();
+
+        const feedConfig = {
+          name: config.feedName,
+          displayName: config.feedName,
+          categories: [{ name: config.category, url: config.url }]
+        };
+
+        const enhancedResult = await enhancedParser.extractPostData(feedConfig, url, {
+          usePuppeteer: true,
+          puppeteerOptions: {
+            waitForNetworkIdle: true,
+            timeout: 30000,
+            scrollToBottom: true,
+            scrollDelay: 1000,
+          },
+          fallbackToAxios: true,
+          retryAttempts: 3,
+        });
+
+        // Convert enhanced result to ExtractedPostData format
+        const postData: ExtractedPostData = {
+          title: enhancedResult.title || 'No title available',
+          content: enhancedResult.content || '',
+          description: enhancedResult.description || '',
+          author: enhancedResult.author,
+          publishDate: enhancedResult.pubDate,
+          image: enhancedResult.image || undefined,
+          tags: enhancedResult.tags || [],
+          wordCount: enhancedResult.content?.split(' ').length || 0,
+          metadata: {
+            ogTitle: enhancedResult.metadata?.ogTitle,
+            ogDescription: enhancedResult.metadata?.ogDescription,
+            ogImage: enhancedResult.metadata?.ogImage,
+            ogType: enhancedResult.metadata?.ogType,
+            twitterCard: enhancedResult.metadata?.twitterCard,
+            twitterTitle: enhancedResult.metadata?.twitterTitle,
+            twitterDescription: enhancedResult.metadata?.twitterDescription,
+            twitterImage: enhancedResult.metadata?.twitterImage,
+          }
+        };
+
+        await enhancedParser.cleanup();
+        return postData;
+      } catch (puppeteerError) {
+        console.warn(`Puppeteer extraction failed for ${url}, falling back to basic parser:`, puppeteerError);
+      }
+
+      // Fallback to original method
       let structure = this.loadHTMLStructure(config);
-      
+
       if (!structure) {
-        // Fetch and detect structure
         const htmlContent = await this.fetchHTMLContent(url);
         structure = this.detectHTMLStructure(htmlContent);
       }
 
-      // Extract comprehensive post data using the structure
       const htmlContent = await this.fetchHTMLContent(url);
       const postData = this.extractPostDataFromHTML(htmlContent, structure);
 
-      // Save structure for future use
       this.saveHTMLStructure(config, structure, postData.content);
 
       return postData;
     } catch (error) {
       console.error(`Error extracting post data from ${url}:`, error);
-      // Return default post data instead of throwing to allow graceful degradation
       return {
         title: 'Error extracting content',
         content: '',
@@ -1405,7 +1452,7 @@ export class NewsHarvester {
     try {
       // Step 1: Process RSS feed
       const articles = await SmartRSSParser.processRSSFeed(config);
-      
+
       // Step 2: For each article, fetch and extract full content
       const enrichedArticles = await Promise.all(
         articles.map(async (article) => {
@@ -1434,7 +1481,7 @@ export class NewsHarvester {
    */
   public static async harvestMultipleFeeds(configs: RSSFeedConfig[]): Promise<Map<string, Article[]>> {
     const results = new Map<string, Article[]>();
-    
+
     for (const config of configs) {
       try {
         const articles = await this.harvestNews(config);
@@ -1445,7 +1492,7 @@ export class NewsHarvester {
         results.set(`${config.country}-${config.category}-${config.feedName}`, []);
       }
     }
-    
+
     return results;
   }
 }

@@ -1,0 +1,37 @@
+{
+  "country": "usa",
+  "category": "business",
+  "feedName": "fortune",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate",
+    "categoryTag": "category"
+  },
+  "lastUpdated": "2025-08-09T09:10:30.027Z",
+  "sampleArticles": [
+    {
+      "title": "Gen Z are sharing their unhinged hacks to surviving their toxic jobs, including CCing fake lawyers and being maliciously compliant",
+      "link": "https://fortune.com/2025/08/09/gen-z-are-sharing-their-unhinged-hacks-to-surviving-their-toxic-jobs-including-ccing-fake-lawyers-and-being-maliciously-compliant/",
+      "description": "",
+      "pubDate": "Sat, 09 Aug 2025 09:00:00 +0000",
+      "category": "Business"
+    },
+    {
+      "title": "Multimillionaire Rashaun Williams landed a seat next to Mark Cuban on &#8216;Shark Tank&#8217; by sneaking into events he wasn&#8217;t invited to and saying &#8216;here me out&#8217;",
+      "link": "https://fortune.com/2025/08/09/multimillionaire-rashaun-williams-shark-tank-mark-cuban-kevin-oleary-gen-z-manifesting-delulu/",
+      "description": "",
+      "pubDate": "Sat, 09 Aug 2025 08:03:00 +0000",
+      "category": "Business"
+    },
+    {
+      "title": "The 5 things you need to ‘really create magic’ with AI: the LLM, the context, the prompt, the workflow, and the evaluation",
+      "link": "https://fortune.com/2025/08/08/5-things-to-create-magic-with-ai/",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 09:52:35 +0000",
+      "category": "Business"
+    }
+  ]
+}

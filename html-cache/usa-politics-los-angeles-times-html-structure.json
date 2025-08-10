@@ -1,0 +1,18 @@
+{
+  "country": "usa",
+  "category": "politics",
+  "feedName": "los-angeles-times",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "h1",
+    "authorSelector": ".byline",
+    "dateSelector": "time",
+    "categorySelector": "[class*=\"category\"]",
+    "tagsSelector": ".tags",
+    "socialShareSelector": "[class*=\"social\"]"
+  },
+  "lastUpdated": "2025-08-09T09:38:07.088Z",
+  "sampleContent": "Students walk on the UCLA campus in Westwood. (Genaro Molina / Los Angeles Times) By Jaweed Kaleem and Michael Wilner Aug. 8, 2025 Updated 6:44 PM PT 293 Share via Close extra sharing options Email Facebook X LinkedIn Threads Reddit WhatsApp Copy Link URL Copied! Print “We’ll sue,” Gov. Newsom said Friday after the Trump administration demands a $1-billion fine from UCLA to settle antisemitism claims.UC President James B. Milliken said such a payout would ‘inflict great harm on our students and all Californians.’The proposal also covers protest rules, diversity scholarships and admissions data. Hours after the Trump administration demanded that the University of California pay a $1-billion fine to settle federal accusations of antisemitism in exchange for restoring frozen grant funding to UCLA, Gov. Gavin Newsom called the proposal “extortion” and said the state will go to court to protect the nation’s premier university system.“We’ll sue,” Newsom said during a news conference with Tex"
+}

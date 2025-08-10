@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "politics",
+  "feedName": "los-angeles-times",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T09:35:26.281Z",
+  "sampleArticles": [
+    {
+      "title": "Newsom welcomes Texas Democrats who fled to foil Trump&#x27;s redistricting plan",
+      "link": "https://www.latimes.com/california/story/2025-08-08/newsom-update-on-redistricting-and-texas",
+      "description": "",
+      "pubDate": "Sat, 9 Aug 2025 00:44:30 GMT"
+    },
+    {
+      "title": "Trump seeks $1-billion fine against UCLA. Newsom says &#x27;we&#x27;ll sue,&#x27; calling it extortion",
+      "link": "https://www.latimes.com/california/story/2025-08-08/trump-seeking-1-billion-fine-from-ucla-over-antisemitism-allegations",
+      "description": "",
+      "pubDate": "Fri, 8 Aug 2025 17:54:04 GMT"
+    },
+    {
+      "title": "Lt. Gov. Eleni Kounalakis drops out of governor&#x27;s race, pivots to run for treasurer",
+      "link": "https://www.latimes.com/politics/story/2025-08-08/lt-gov-eleni-kounalakis-drops-out-of-governors-race-pivots-to-run-for-treasurer",
+      "description": "",
+      "pubDate": "Fri, 8 Aug 2025 14:38:13 GMT"
+    }
+  ]
+}

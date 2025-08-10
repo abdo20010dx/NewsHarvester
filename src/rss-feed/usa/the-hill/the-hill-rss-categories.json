@@ -1,0 +1,14 @@
+{
+  "feedName": "the-hill",
+  "displayName": "The Hill",
+  "urls": [
+    {
+      "category": "politics",
+      "url": "https://thehill.com/rss/syndicator/19110"
+    },
+    {
+      "category": "news",
+      "url": "https://thehill.com/rss/syndicator/19109"
+    }
+  ]
+}

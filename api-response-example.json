@@ -1,0 +1,122 @@
+{
+    "feeds": {
+        "techcrunch": {
+            "articles": [
+                {
+                    "title": "Latest Technology News from techcrunch",
+                    "image": "https://example.com/tech-image.jpg",
+                    "description": "This is a sample article about the latest developments in technology and innovation.",
+                    "pubDate": "2024-08-08T01:15:00.000Z",
+                    "content": "This is the full content of the article. It contains detailed information about the latest technology trends, including artificial intelligence, machine learning, and emerging technologies. The article discusses how these technologies are shaping the future of various industries.",
+                    "url": "https://techcrunch.com/article/latest-tech-news",
+                    "videoUrl": "https://www.youtube.com/embed/sample-video",
+                    "author": "Tech Reporter",
+                    "category": "technology",
+                    "tags": [
+                        "technology",
+                        "AI",
+                        "innovation",
+                        "tech news",
+                        "digital transformation"
+                    ],
+                    "readTime": "5 min read",
+                    "wordCount": 250,
+                    "language": "en",
+                    "canonicalUrl": "https://techcrunch.com/article/latest-tech-news",
+                    "socialShares": {
+                        "facebook": 150,
+                        "twitter": 89,
+                        "linkedin": 45
+                    },
+                    "metadata": {
+                        "ogTitle": "Latest Technology News and Trends",
+                        "ogDescription": "Discover the latest developments in technology and innovation",
+                        "ogImage": "https://example.com/og-tech-image.jpg",
+                        "ogType": "article",
+                        "twitterCard": "summary_large_image",
+                        "twitterTitle": "Latest Technology News and Trends",
+                        "twitterDescription": "Discover the latest developments in technology and innovation",
+                        "twitterImage": "https://example.com/twitter-tech-image.jpg"
+                    }
+                },
+                {
+                    "title": "Breaking News: Major Tech Company Announcement",
+                    "image": "https://example.com/breaking-news.jpg",
+                    "description": "A major technology company has announced groundbreaking new products and services.",
+                    "pubDate": "2024-08-08T00:15:00.000Z",
+                    "content": "In a surprising announcement today, a major technology company revealed their latest innovations. The new products promise to revolutionize how we interact with technology in our daily lives. Industry experts are calling this a game-changer.",
+                    "url": "https://techcrunch.com/article/breaking-tech-news",
+                    "videoUrl": null,
+                    "author": "Breaking News Team",
+                    "category": "technology",
+                    "tags": [
+                        "breaking news",
+                        "tech company",
+                        "announcement",
+                        "innovation"
+                    ],
+                    "readTime": "3 min read",
+                    "wordCount": 180,
+                    "language": "en",
+                    "canonicalUrl": "https://techcrunch.com/article/breaking-tech-news",
+                    "socialShares": {
+                        "facebook": 320,
+                        "twitter": 156,
+                        "linkedin": 78
+                    },
+                    "metadata": {
+                        "ogTitle": "Breaking News: Major Tech Company Announcement",
+                        "ogDescription": "A major technology company has announced groundbreaking new products",
+                        "ogImage": "https://example.com/og-breaking-news.jpg",
+                        "ogType": "article",
+                        "twitterCard": "summary_large_image",
+                        "twitterTitle": "Breaking News: Major Tech Company Announcement",
+                        "twitterDescription": "A major technology company has announced groundbreaking new products",
+                        "twitterImage": "https://example.com/twitter-breaking-news.jpg"
+                    }
+                }
+            ]
+        },
+        "bbc-news": {
+            "articles": [
+                {
+                    "title": "Latest Technology News from bbc-news",
+                    "image": "https://example.com/tech-image.jpg",
+                    "description": "This is a sample article about the latest developments in technology and innovation.",
+                    "pubDate": "2024-08-08T01:15:00.000Z",
+                    "content": "This is the full content of the article. It contains detailed information about the latest technology trends, including artificial intelligence, machine learning, and emerging technologies. The article discusses how these technologies are shaping the future of various industries.",
+                    "url": "https://bbc-news.com/article/latest-tech-news",
+                    "videoUrl": "https://www.youtube.com/embed/sample-video",
+                    "author": "Tech Reporter",
+                    "category": "news",
+                    "tags": [
+                        "technology",
+                        "AI",
+                        "innovation",
+                        "tech news",
+                        "digital transformation"
+                    ],
+                    "readTime": "5 min read",
+                    "wordCount": 250,
+                    "language": "en",
+                    "canonicalUrl": "https://bbc-news.com/article/latest-tech-news",
+                    "socialShares": {
+                        "facebook": 150,
+                        "twitter": 89,
+                        "linkedin": 45
+                    },
+                    "metadata": {
+                        "ogTitle": "Latest Technology News and Trends",
+                        "ogDescription": "Discover the latest developments in technology and innovation",
+                        "ogImage": "https://example.com/og-tech-image.jpg",
+                        "ogType": "article",
+                        "twitterCard": "summary_large_image",
+                        "twitterTitle": "Latest Technology News and Trends",
+                        "twitterDescription": "Discover the latest developments in technology and innovation",
+                        "twitterImage": "https://example.com/twitter-tech-image.jpg"
+                    }
+                }
+            ]
+        }
+    }
+}

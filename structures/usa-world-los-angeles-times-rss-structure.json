@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "world",
+  "feedName": "los-angeles-times",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T09:32:16.288Z",
+  "sampleArticles": [
+    {
+      "title": "Newsom welcomes Texas Democrats who fled to foil Trump&#x27;s redistricting plan",
+      "link": "https://www.latimes.com/california/story/2025-08-08/newsom-update-on-redistricting-and-texas",
+      "description": "",
+      "pubDate": "Sat, 9 Aug 2025 00:44:30 GMT"
+    },
+    {
+      "title": "&#x27;There will be no invasion.&#x27; Sheinbaum confident Washington won&#x27;t strike cartels in Mexico",
+      "link": "https://www.latimes.com/world-nation/story/2025-08-08/there-wont-be-an-invasion-sheinbaum-confident-washington-wont-strike-cartels-in-mexico",
+      "description": "",
+      "pubDate": "Fri, 8 Aug 2025 21:07:14 GMT"
+    },
+    {
+      "title": "Trump seeks $1-billion fine against UCLA. Newsom says &#x27;we&#x27;ll sue,&#x27; calling it extortion",
+      "link": "https://www.latimes.com/california/story/2025-08-08/trump-seeking-1-billion-fine-from-ucla-over-antisemitism-allegations",
+      "description": "",
+      "pubDate": "Fri, 8 Aug 2025 17:54:04 GMT"
+    }
+  ]
+}

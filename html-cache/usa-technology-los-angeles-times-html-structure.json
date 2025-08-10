@@ -1,0 +1,18 @@
+{
+  "country": "usa",
+  "category": "technology",
+  "feedName": "los-angeles-times",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "h1",
+    "authorSelector": ".byline",
+    "dateSelector": "time",
+    "categorySelector": "[class*=\"category\"]",
+    "tagsSelector": ".tags",
+    "socialShareSelector": "[class*=\"social\"]"
+  },
+  "lastUpdated": "2025-08-09T09:43:30.601Z",
+  "sampleContent": "By Sandra McDonaldStaff Writer Follow July 18, 2025 Updated 7:25 PM PT 13 Share via Close extra sharing options Email Facebook X LinkedIn Threads Reddit WhatsApp Copy Link URL Copied! Print Tess Mata’s parents were once enthusiastic about social media. The 10-year-old from Uvalde, Texas, wanted to be TikTok famous. She used to dance, sing and imitate popular trends on her videos, with mom Veronica and dad Jerry keeping a watchful eye on her online habits. But then Tess was gunned down at Robb Elementary School in 2022, one of 19 children and two teachers killed by a former student.Since then, as details of the shooter’s personal life have become public, the Matas and a handful of other Uvalde families have come to believe that his exposure to gun content online and in video games led to the tragedy. Jerry and Veronica Mata stand in front of the Spring Street Courthouse on July 17 in Los Angeles. After their daughter Tess was killed in the school shooting in Uvalde, Texas, the couple ar"
+}

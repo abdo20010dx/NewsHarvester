@@ -1,0 +1,15 @@
+{
+  "country": "usa",
+  "category": "politics",
+  "feedName": "washington-post",
+  "structure": {
+    "contentSelectors": [
+      "main"
+    ],
+    "titleSelector": ".headline",
+    "authorSelector": ".byline",
+    "dateSelector": "[class*=\"time\"]"
+  },
+  "lastUpdated": "2025-08-08T23:51:59.307Z",
+  "sampleContent": "PoliticsOpinionsStyleInvestigationsClimateWell+BeingBusinessTechWorldD.C., Md. & Va.SportsCrosswords & GamesTrump, Putin meeting set for next week in AlaskaThe president made no mention of whether Ukrainian President Volodymyr Zelensky would be attending.By Jonathan Edwards, Siobhán O'Grady, John Hudson and Catherine BeltonUpdated 17 minutes agoTrump to replace IRS commissioner Billy Long after just 2 months in jobJustice Department subpoenas Letitia James about Trump fraud probeSmithsonian restores Trump to impeachment display, with some changesPresident Donald Trump with the leaders of Azerbaijan and Armenia. (Demetrius Freeman/The Post)Texas Speaker of the House Dustin Burrows. (Getty Images)Texas attorney general sues to try to remove 13 absent Democrats from officeThe move escalates a tense showdown over redistricting ahead of the midterm elections.By Patrick Marley, Yvonne Wingett Sanchez and Molly Hennessy-FiskeResidents among the damage left in the wake of Hurricane Helene in 2"
+}

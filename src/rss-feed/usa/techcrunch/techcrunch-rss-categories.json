@@ -1,0 +1,18 @@
+{
+  "feedName": "techcrunch",
+  "displayName": "TechCrunch",
+  "urls": [
+    {
+      "category": "technology",
+      "url": "https://techcrunch.com/feed/"
+    },
+    {
+      "category": "startups",
+      "url": "https://techcrunch.com/tag/startups/feed/"
+    },
+    {
+      "category": "ai",
+      "url": "https://techcrunch.com/tag/artificial-intelligence/feed/"
+    }
+  ]
+}

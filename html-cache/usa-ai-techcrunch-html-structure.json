@@ -1,0 +1,17 @@
+{
+  "country": "usa",
+  "category": "ai",
+  "feedName": "techcrunch",
+  "structure": {
+    "contentSelectors": [
+      "main"
+    ],
+    "titleSelector": "h1",
+    "authorSelector": "[class*=\"author\"]",
+    "dateSelector": "time",
+    "categorySelector": "[class*=\"category\"]",
+    "socialShareSelector": "[class*=\"share\"]"
+  },
+  "lastUpdated": "2025-08-09T10:24:52.734Z",
+  "sampleContent": "There’s a power crunch looming as AI and cloud providers ramp up data center construction. But a new report suggests that a solution lies beneath their foundations. Advanced geothermal power could supply nearly two-thirds of new data center demand by 2030, according to an analysis by the Rhodium Group. The additions would quadruple the amount of geothermal power capacity in the U.S. — from 4 gigawatts to about 16 gigawatts — while costing the same or less than what data center operators pay today. In the western U.S., where geothermal resources are more plentiful, the technology could provide 100% of new data center demand. Phoenix, for example, could add 3.8 gigawatts of data center capacity without building a single new conventional power plant. Geothermal resources have enormous potential to provide consistent power. Historically, geothermal power plants have been limited to places where Earth’s heat seeps close to the surface. But advanced geothermal techniques could unlock 90 giga"
+}

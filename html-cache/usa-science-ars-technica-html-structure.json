@@ -1,0 +1,15 @@
+{
+  "country": "usa",
+  "category": "science",
+  "feedName": "ars-technica",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "title",
+    "authorSelector": "[class*=\"author\"]",
+    "categorySelector": "[class*=\"category\"]"
+  },
+  "lastUpdated": "2025-08-08T23:45:50.075Z",
+  "sampleContent": "Text settings Story text Size Small Standard Large Width * Standard Wide Links Standard Orange * Subscribers only Learn more Minimize to nav Last week, the Environmental Protection Agency made lots of headlines by rejecting the document that establishes its ability to regulate the greenhouse gases that are warming our climate. While the legal assault on regulations grabbed most of the attention, it was paired with two other actions that targeted other aspects of climate change: the science underlying our current understanding of the dramatic warming the Earth is experiencing, and the renewable energy that represents our best chance of limiting this warming. Collectively, these actions illuminate the administration's strategy for dealing with a problem that it would prefer to believe doesn't exist, despite our extensive documentation of its reality. They also show how the administration is tailoring its approach to different audiences, including the audience of one who is demanding inac"
+}

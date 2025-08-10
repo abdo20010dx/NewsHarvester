@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "ai",
+  "feedName": "venturebeat",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T10:39:08.268Z",
+  "sampleArticles": [
+    {
+      "title": "Anthropic revenue tied to two customers as AI pricing war threatens margins",
+      "link": "https://venturebeat.com/ai/anthropic-revenue-tied-to-two-customers-as-ai-pricing-war-threatens-margins/",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 23:35:35 +0000"
+    },
+    {
+      "title": "OpenAI returns old models to ChatGPT as Sam Altman admits ‘bumpy’ GPT-5 rollout",
+      "link": "https://venturebeat.com/ai/openai-returns-old-models-to-chatgpt-as-sam-altman-admits-bumpy-gpt-5-rollout/",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 21:17:22 +0000"
+    },
+    {
+      "title": "OpenAI&#8217;s GPT-5 rollout is not going smoothly",
+      "link": "https://venturebeat.com/ai/openais-gpt-5-rollout-is-not-going-smoothly/",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 17:40:57 +0000"
+    }
+  ]
+}

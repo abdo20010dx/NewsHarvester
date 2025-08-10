@@ -1,0 +1,14 @@
+{
+  "country": "usa",
+  "category": "world",
+  "feedName": "cnn",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T08:58:12.884Z",
+  "sampleArticles": []
+}

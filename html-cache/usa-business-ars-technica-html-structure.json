@@ -1,0 +1,16 @@
+{
+  "country": "usa",
+  "category": "business",
+  "feedName": "ars-technica",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "title",
+    "authorSelector": "[class*=\"author\"]",
+    "videoSelector": "iframe[src*=\"vimeo\"]",
+    "categorySelector": "[class*=\"category\"]"
+  },
+  "lastUpdated": "2025-08-08T23:46:16.634Z",
+  "sampleContent": "Text settings Story text Size Small Standard Large Width * Standard Wide Links Standard Orange * Subscribers only Learn more Minimize to nav If you're in IT, you probably remember the first time you walked into a real data center—not just a server closet, but an actual raised-floor data center, where the door wooshes open in a blast of cold air and noise and you're confronted with rows and rows of racks, monolithic and gray, stuffed full of servers with cooling fans screaming and blinkenlights blinking like mad. The data center is where the cool stuff is—the pizza boxes, the blade servers, the NASes and the SANs. Some of its residents are more exotic—the Big Iron in all its massive forms, from Z-series to Superdome and all points in between. For decades, data centers have been the beating hearts of many businesses—the fortified secret rooms where huge amounts of capital sit, busily transforming electricity into revenue. And they're sometimes a place for IT to hide, too—it's kind of a s"
+}

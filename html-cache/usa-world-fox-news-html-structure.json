@@ -1,0 +1,15 @@
+{
+  "country": "usa",
+  "category": "world",
+  "feedName": "fox-news",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": ".title",
+    "authorSelector": "[class*=\"author\"]",
+    "videoSelector": "[class*=\"video\"]"
+  },
+  "lastUpdated": "2025-08-09T09:20:21.502Z",
+  "sampleContent": "close Video Expert touts investment as Trump threatens semiconductor tariffs: 'Long-run driver of economic growth' Heritage Foundation research fellow E.J. Antoni joins 'Fox & Friends First' to discuss the importance of investment as President Donald Trump's tariffs take effect. NEWYou can now listen to Fox News articles! President Donald Trump is preparing to announce new secondary tariffs Friday on nations who conduct trade with Russia amid its deadly war in Ukraine. The White House has remained tight-lipped on what those tariffs will look like after the president first said in July they would amount to \"100%\" tariffs before causing confusion earlier this week when he told reporters he \"never said a percentage.\"While the specifics of what tax rates nations that trade with Russia could face remain unclear, Trump’s change in posture toward Russian President Vladimir Putin has become increasingly evident. President Donald Trump, right, meets Russian President Vladimir Putin on the first"
+}

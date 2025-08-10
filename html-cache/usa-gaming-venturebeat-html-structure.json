@@ -1,0 +1,18 @@
+{
+  "country": "usa",
+  "category": "gaming",
+  "feedName": "venturebeat",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "title",
+    "authorSelector": "[class*=\"author\"]",
+    "dateSelector": "[class*=\"date\"]",
+    "categorySelector": "[class*=\"category\"]",
+    "readTimeSelector": "[class*=\"read-time\"]",
+    "socialShareSelector": "[class*=\"share\"]"
+  },
+  "lastUpdated": "2025-08-09T10:42:16.511Z",
+  "sampleContent": "Take-Two Interactive chief executive Strauss Zelnick. I spoke with Strauss Zelnick, CEO and chairman of Take-Two Interactive Software, today about the company’s latest quarterly earnings report for the quarter ended June 30, 2025. Take-Two beat earnings estimates as well as its own guidance for the first fiscal quarter, with net bookings of $1.42 billion about 17% above the same quarter a year ago. This story is for GB MAX paid membership plans. Unlock premium insights, exclusive events, and VIP community perks. Upgrade Membership"
+}

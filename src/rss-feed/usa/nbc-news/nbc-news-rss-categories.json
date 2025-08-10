@@ -1,0 +1,18 @@
+{
+  "feedName": "nbc-news",
+  "displayName": "NBC News",
+  "urls": [
+    {
+      "category": "news",
+      "url": "https://feeds.nbcnews.com/nbcnews/public/news"
+    },
+    {
+      "category": "world",
+      "url": "https://feeds.nbcnews.com/nbcnews/public/world"
+    },
+    {
+      "category": "business",
+      "url": "https://feeds.nbcnews.com/nbcnews/public/business"
+    }
+  ]
+}

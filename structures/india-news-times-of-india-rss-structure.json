@@ -1,0 +1,33 @@
+{
+  "country": "india",
+  "category": "news",
+  "feedName": "times-of-india",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-08T08:53:45.835Z",
+  "sampleArticles": [
+    {
+      "title": "'Took oath inside parliament': Rahul Gandhi responds to EC’s 'sign affidavit' dare",
+      "link": "https://timesofindia.indiatimes.com/india/took-oath-inside-parliament-rahul-gandhi-responds-to-ecs-sign-affidavit-dare-demands-full-e-voter-data/articleshow/123183426.cms",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 13:44:35 +0530"
+    },
+    {
+      "title": "'We got involved directly': US reiterates India-Pak ceasefire claim",
+      "link": "https://timesofindia.indiatimes.com/india/we-got-involved-directly-us-reiterates-india-pakistan-ceasefire-claim-marco-rubio-calls-trump-president-of-peace/articleshow/123182616.cms",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 12:30:15 +0530"
+    },
+    {
+      "title": "'Why just Air India?': SC rejects plea seeking safety audit after AI171 crash",
+      "link": "https://timesofindia.indiatimes.com/india/why-just-air-india-sc-rejects-plea-seeking-safety-audit-after-ai171-crash-asks-why-not-other-airlines/articleshow/123183820.cms",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 13:30:22 +0530"
+    }
+  ]
+}

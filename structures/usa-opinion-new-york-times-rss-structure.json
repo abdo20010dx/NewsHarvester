@@ -1,0 +1,37 @@
+{
+  "country": "usa",
+  "category": "opinion",
+  "feedName": "new-york-times",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate",
+    "categoryTag": "category"
+  },
+  "lastUpdated": "2025-08-09T10:10:37.573Z",
+  "sampleArticles": [
+    {
+      "title": "In Search of a Death With Dignity",
+      "link": "https://www.nytimes.com/2025/08/08/opinion/assisted-suicide.html",
+      "description": "Readers respond to a guest essay about assisted suicide. Also: A setback on vaccines; politics and the pulpit.",
+      "pubDate": "Fri, 08 Aug 2025 19:04:06 +0000",
+      "category": "Euthanasia and Assisted Suicide"
+    },
+    {
+      "title": "The MAGA Congressman Accused of Threatening His Ex With Revenge Porn",
+      "link": "https://www.nytimes.com/2025/08/08/opinion/cory-mills-trump-maga.html",
+      "description": "When you’re MAGA, they let you do it.",
+      "pubDate": "Fri, 08 Aug 2025 12:24:18 +0000",
+      "category": "Mills, Cory (1980- )"
+    },
+    {
+      "title": "Trump’s Cultural Revolution Is Just Getting Started",
+      "link": "https://www.nytimes.com/2025/08/08/opinion/smithsonian-trump-censorship.html",
+      "description": "Art can be effective at illuminating and healing only if it is unconstrained by authority.",
+      "pubDate": "Fri, 08 Aug 2025 17:48:26 +0000",
+      "category": "United States Politics and Government"
+    }
+  ]
+}

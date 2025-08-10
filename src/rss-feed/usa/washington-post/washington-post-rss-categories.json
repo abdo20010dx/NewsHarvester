@@ -1,0 +1,30 @@
+{
+  "feedName": "washington-post",
+  "displayName": "Washington Post",
+  "urls": [
+    {
+      "category": "news",
+      "url": "https://feeds.washingtonpost.com/rss/national"
+    },
+    {
+      "category": "world",
+      "url": "https://feeds.washingtonpost.com/rss/world"
+    },
+    {
+      "category": "politics",
+      "url": "https://feeds.washingtonpost.com/rss/politics"
+    },
+    {
+      "category": "business",
+      "url": "https://feeds.washingtonpost.com/rss/business"
+    },
+    {
+      "category": "sports",
+      "url": "https://feeds.washingtonpost.com/rss/sports"
+    },
+    {
+      "category": "opinion",
+      "url": "https://feeds.washingtonpost.com/rss/opinions"
+    }
+  ]
+}

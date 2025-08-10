@@ -1,0 +1,22 @@
+{
+  "feedName": "npr",
+  "displayName": "NPR",
+  "urls": [
+    {
+      "category": "news",
+      "url": "https://feeds.npr.org/1001/rss.xml"
+    },
+    {
+      "category": "world",
+      "url": "https://feeds.npr.org/1004/rss.xml"
+    },
+    {
+      "category": "business",
+      "url": "https://feeds.npr.org/1006/rss.xml"
+    },
+    {
+      "category": "technology",
+      "url": "https://feeds.npr.org/1019/rss.xml"
+    }
+  ]
+}

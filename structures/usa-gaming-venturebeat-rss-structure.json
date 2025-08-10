@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "gaming",
+  "feedName": "venturebeat",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T10:40:39.426Z",
+  "sampleArticles": [
+    {
+      "title": "Diablo general manager Rod Fergusson leaves Blizzard Entertainment",
+      "link": "https://gamesbeat.com/diablo-general-manager-rod-fergusson-leaves-blizzard-entertainment/",
+      "description": "",
+      "pubDate": "Sat, 09 Aug 2025 02:45:00 +0000"
+    },
+    {
+      "title": "Mafia: The Old Country debuts today as 10-hour game at $50",
+      "link": "https://gamesbeat.com/mafia-the-old-country-ships-today-as-10-hour-game-at-50/",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 15:55:00 +0000"
+    },
+    {
+      "title": "Sentinel is Roblox&#8217;s open-source AI solution to protect children",
+      "link": "https://gamesbeat.com/sentinel-is-robloxs-open-source-ai-solution-to-protect-children/",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 14:00:00 +0000"
+    }
+  ]
+}

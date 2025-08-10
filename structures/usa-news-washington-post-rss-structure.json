@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "news",
+  "feedName": "washington-post",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T10:43:01.985Z",
+  "sampleArticles": [
+    {
+      "title": "This dog used to sniff out cold cases for police. Now she’s saving bees.",
+      "link": "https://www.washingtonpost.com/lifestyle/2025/08/09/maple-dog-bee-conservation/",
+      "description": "Maple sniffs bee colonies for bacteria. Her team hopes she can become a blueprint for other dogs to detect diseases amid a staggering year for bee death.",
+      "pubDate": "Sat, 09 Aug 2025 10:00:46 +0000"
+    },
+    {
+      "title": "Fewer trash pickups, more potholes: This big city is bracing for a shaky economy",
+      "link": "https://www.washingtonpost.com/nation/2025/08/09/syracuse-budget-cuts-cities/",
+      "description": "Syracuse, New York, is the latest city to see its budget slashed as leaders nationwide are rattled by Trump’s tariff policies and slowing housing markets.",
+      "pubDate": "Sat, 09 Aug 2025 10:00:31 +0000"
+    },
+    {
+      "title": "Police officer killed in shooting near CDC, officials say",
+      "link": "https://www.washingtonpost.com/nation/2025/08/08/cdc-emory-shooting-officer-killed/",
+      "description": "Windows were shot on multiple floors of the Centers for Disease Control and Prevention buildings in Atlanta, authorities said.",
+      "pubDate": "Sat, 09 Aug 2025 04:07:58 +0000"
+    }
+  ]
+}

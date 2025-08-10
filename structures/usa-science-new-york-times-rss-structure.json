@@ -1,0 +1,37 @@
+{
+  "country": "usa",
+  "category": "science",
+  "feedName": "new-york-times",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate",
+    "categoryTag": "category"
+  },
+  "lastUpdated": "2025-08-09T10:05:34.183Z",
+  "sampleArticles": [
+    {
+      "title": "Seven Ticks Hitched Very Long Rides to Connecticut",
+      "link": "https://www.nytimes.com/2025/08/08/science/ticks-invasive-species-connecticut.html",
+      "description": "The nonnative species from Europe, Latin America and Eastern Africa reached the United States by latching on to travelers, a study by researchers in the state shows, offering clues about how ticks spread in a warming world.",
+      "pubDate": "Fri, 08 Aug 2025 19:05:19 +0000",
+      "category": "Ticks (Insects)"
+    },
+    {
+      "title": "The Fight to Save Hawaii’s Coconut Palms",
+      "link": "https://www.nytimes.com/2025/08/08/science/hawaii-coconut-palm-beetle.html",
+      "description": "An invasive beetle is killing coconut trees across the archipelago, and spreading fast. Researchers are racing to contain it.",
+      "pubDate": "Fri, 08 Aug 2025 09:02:12 +0000",
+      "category": "Coconuts"
+    },
+    {
+      "title": "Possible Planet Spotted Around Alpha Centauri A by NASA’s James Webb Telescope",
+      "link": "https://www.nytimes.com/2025/08/08/science/alpha-centauri-planet-webb-telescope.html",
+      "description": "Astronomers found strong evidence that a gassy Jupiter-size world is orbiting one of three stars in the stellar system closest to our own.",
+      "pubDate": "Fri, 08 Aug 2025 19:50:55 +0000",
+      "category": "Alpha Centauri"
+    }
+  ]
+}

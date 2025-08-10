@@ -1,0 +1,10 @@
+{
+  "feedName": "fortune",
+  "displayName": "Fortune",
+  "urls": [
+    {
+      "category": "business",
+      "url": "https://fortune.com/feed/"
+    }
+  ]
+}

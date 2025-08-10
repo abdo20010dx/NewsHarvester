@@ -1,0 +1,18 @@
+{
+  "feedName": "venturebeat",
+  "displayName": "VentureBeat",
+  "urls": [
+    {
+      "category": "technology",
+      "url": "https://venturebeat.com/feed/"
+    },
+    {
+      "category": "ai",
+      "url": "https://venturebeat.com/category/ai/feed/"
+    },
+    {
+      "category": "gaming",
+      "url": "https://venturebeat.com/category/games/feed/"
+    }
+  ]
+}

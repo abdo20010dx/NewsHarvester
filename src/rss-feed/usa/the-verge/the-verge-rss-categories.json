@@ -1,0 +1,10 @@
+{
+  "feedName": "the-verge",
+  "displayName": "The Verge",
+  "urls": [
+    {
+      "category": "technology",
+      "url": "https://www.theverge.com/rss/index.xml"
+    }
+  ]
+}

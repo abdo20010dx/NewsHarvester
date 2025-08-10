@@ -1,0 +1,15 @@
+{
+  "country": "usa",
+  "category": "science",
+  "feedName": "wired",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "title",
+    "authorSelector": ".byline",
+    "dateSelector": "[class*=\"date\"]"
+  },
+  "lastUpdated": "2025-08-08T23:53:12.246Z",
+  "sampleContent": "Save StorySave this storySave StorySave this storyThe original version of this story appeared in Quanta Magazine.At the turn of the 20th century, the renowned mathematician David Hilbert had a grand ambition to bring a more rigorous, mathematical way of thinking into the world of physics. At the time, physicists were still plagued by debates about basic definitions—what is heat? how are molecules structured?—and Hilbert hoped that the formal logic of mathematics could provide guidance.On the morning of August 8, 1900, he delivered a list of 23 key math problems to the International Congress of Mathematicians. Number six: Produce airtight proofs of the laws of physics.The scope of Hilbert’s sixth problem was enormous. He asked “to treat in the same manner [as geometry], by means of axioms, those physical sciences in which mathematics plays an important part.”His challenge to axiomatize physics was “really a program,” said Dave Levermore, a mathematician at the University of Maryland. “T"
+}

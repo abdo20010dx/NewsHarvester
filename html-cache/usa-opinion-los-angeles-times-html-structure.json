@@ -1,0 +1,16 @@
+{
+  "country": "usa",
+  "category": "opinion",
+  "feedName": "los-angeles-times",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "h1",
+    "authorSelector": ".byline",
+    "dateSelector": "time",
+    "tagsSelector": ".tags"
+  },
+  "lastUpdated": "2025-08-09T09:48:18.728Z",
+  "sampleContent": "By Matt K. LewisContributing writer Aug. 7, 2025 3 AM PT 7 Share via Close extra sharing options Email Facebook X LinkedIn Threads Reddit WhatsApp Copy Link URL Copied! Print President Trump wants new congressional maps in Texas — now. Not in the next decade. Not after the next census. Not when it’s traditionally done. He wants it done smack dab in the middle of the decade.Why the odd timing? Because he wants it done in time to help his presidency.In Trump’s mind, Texas is a vending machine: insert redistricting, receive five shiny new Republican seats. “We are entitled to five more seats,” he declared on CNBC, his voice dripping with the royal “we” of someone who thinks democracy is nothing but a loyalty program.This is merely the latest example of Trump’s fondness for procedural hardball. He recently sacked the Bureau of Labor Statistics commissioner for reporting job numbers he didn’t like. And his congressional minions just passed a bipartisan bill that required Democratic votes to"
+}

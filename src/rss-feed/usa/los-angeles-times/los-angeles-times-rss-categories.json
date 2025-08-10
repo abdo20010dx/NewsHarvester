@@ -1,0 +1,34 @@
+{
+  "feedName": "los-angeles-times",
+  "displayName": "Los Angeles Times",
+  "urls": [
+    {
+      "category": "news",
+      "url": "https://www.latimes.com/local/rss2.0.xml"
+    },
+    {
+      "category": "world",
+      "url": "https://www.latimes.com/world/rss2.0.xml"
+    },
+    {
+      "category": "politics",
+      "url": "https://www.latimes.com/politics/rss2.0.xml"
+    },
+    {
+      "category": "business",
+      "url": "https://www.latimes.com/business/rss2.0.xml"
+    },
+    {
+      "category": "technology",
+      "url": "https://www.latimes.com/business/technology/rss2.0.xml"
+    },
+    {
+      "category": "sports",
+      "url": "https://www.latimes.com/sports/rss2.0.xml"
+    },
+    {
+      "category": "opinion",
+      "url": "https://www.latimes.com/opinion/rss2.0.xml"
+    }
+  ]
+}

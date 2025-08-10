@@ -1,0 +1,10 @@
+{
+  "feedName": "vox",
+  "displayName": "Vox",
+  "urls": [
+    {
+      "category": "news",
+      "url": "https://www.vox.com/rss/index.xml"
+    }
+  ]
+}

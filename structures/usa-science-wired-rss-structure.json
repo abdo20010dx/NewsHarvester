@@ -1,0 +1,37 @@
+{
+  "country": "usa",
+  "category": "science",
+  "feedName": "wired",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate",
+    "categoryTag": "category"
+  },
+  "lastUpdated": "2025-08-09T11:12:13.045Z",
+  "sampleArticles": [
+    {
+      "title": "Private Companies Are Now Gathering Weather Data for NOAA",
+      "link": "https://www.wired.com/story/private-companies-step-up-to-gather-weather-data-for-noaa-as-staffing-cuts-hobble-agency-forecasting/",
+      "description": "WindBorne Systems is one of several companies launching balloons, drones, buoys, and other devices to provide critical data to the beleaguered agency’s National Weather Service, but they can’t fill all the gaps.",
+      "pubDate": "Sat, 09 Aug 2025 11:00:00 +0000",
+      "category": "Science"
+    },
+    {
+      "title": "Why the US Is Racing to Build a Nuclear Reactor on the Moon",
+      "link": "https://www.wired.com/story/why-the-us-is-racing-to-build-a-nuclear-reactor-on-the-moon/",
+      "description": "NASA has set a 2030 deadline to build a 100-kilowatt nuclear reactor on the moon. It’s an ambitious but potentially achievable goal that could transform space exploration, experts tell WIRED.",
+      "pubDate": "Thu, 07 Aug 2025 16:31:50 +0000",
+      "category": "Science"
+    },
+    {
+      "title": "Eli Lilly’s Obesity Pill Shows Promising Weight Loss in New Results",
+      "link": "https://www.wired.com/story/eli-lillys-obesity-pill-shows-promising-weight-loss-in-new-results/",
+      "description": "In an 18-month clinical trial of the experimental GLP-1 pill orforglipron, about 60 percent of people lost at least 10 percent of their body weight.",
+      "pubDate": "Thu, 07 Aug 2025 10:30:00 +0000",
+      "category": "Science"
+    }
+  ]
+}

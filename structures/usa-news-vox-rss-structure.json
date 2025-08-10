@@ -1,0 +1,14 @@
+{
+  "country": "usa",
+  "category": "news",
+  "feedName": "vox",
+  "structure": {
+    "itemTag": "entry",
+    "titleTag": "name",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "published"
+  },
+  "lastUpdated": "2025-08-09T10:42:43.982Z",
+  "sampleArticles": []
+}

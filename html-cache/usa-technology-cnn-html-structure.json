@@ -1,0 +1,17 @@
+{
+  "country": "usa",
+  "category": "technology",
+  "feedName": "cnn",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "h1",
+    "authorSelector": ".byline",
+    "dateSelector": "[class*=\"time\"]",
+    "videoSelector": "[class*=\"video\"]",
+    "readTimeSelector": "[class*=\"read-time\"]"
+  },
+  "lastUpdated": "2025-08-09T09:04:47.401Z",
+  "sampleContent": "Video Ad Feedback Experience PlayStation gaming in virtual reality 03:16 - Source: CNN Experience PlayStation gaming in virtual reality 03:16 Story highlights Virtual reality headsets range from inexpensive Cardboard to pricey PlayStation Here are your options if you want to dip your toe in or really swim with the VR big fish Thinking about treating your family to a little virtual reality this holiday? Have no idea where to start? Don’t worry. From Google’s inexpensive Cardboard VR viewer to Sony’s new PlayStation VR, this guide will help you figure out what makes sense for your family’s interests, needs, and budget. Here are your options if you want to dip your toe in the water, wade knee-deep, or really swim with the VR big fish. Keep in mind, virtual reality is a quickly changing technology, so always check out the companies’ websites, professional reviews on sites like CNET, and user reviews before you take the leap. Virtual Reality Viewers: Best for Families with Young Kids Virtua"
+}

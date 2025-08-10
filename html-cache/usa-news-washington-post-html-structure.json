@@ -1,0 +1,14 @@
+{
+  "country": "usa",
+  "category": "news",
+  "feedName": "washington-post",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "title",
+    "authorSelector": "[rel=\"author\"]"
+  },
+  "lastUpdated": "2025-08-08T23:51:30.737Z",
+  "sampleContent": "In this articleBy Lena H. Sun, Lauren Weber and Rachel RoubeinHealth and Human Services Secretary Robert F. Kennedy Jr. promised before his confirmation that he would not take away Americans’ vaccines. But in the four months since he took office, Kennedy, who has a lengthy history of disparaging vaccines, has undermined that access while agreeing to recommend some vaccines, such as the seasonal flu shot.For people 65 and older or who are immunocompromised, their access to vaccines seems most secure because virtually all vaccine recommendations consider those groups to be at the highest risk for severe illness and death.AdvertisementAdvertisementBut the future of access is more uncertain for healthy adults and children.Kennedy’s handpicked members on the federal panel that makes vaccine recommendations took actions recently that have raised alarms among medical and public health experts about access to and continued coverage of vaccines.AdvertisementThis is a rundown of what Kennedy and"
+}

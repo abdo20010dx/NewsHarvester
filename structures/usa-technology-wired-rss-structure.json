@@ -10,28 +10,28 @@
     "pubDateTag": "pubDate",
     "categoryTag": "category"
   },
-  "lastUpdated": "2025-08-07T13:08:57.639Z",
+  "lastUpdated": "2025-08-09T11:08:25.738Z",
   "sampleArticles": [
     {
-      "title": "Best Tested Walking Pads (2025): Urevo, WalkingPad, Sperax",
-      "link": "https://www.wired.com/story/best-walking-pads/",
-      "description": "These compact walking pads fit under your desk and make staying active so much easier.",
-      "pubDate": "Thu, 07 Aug 2025 12:30:00 +0000",
-      "category": "Gear"
+      "title": "Private Companies Are Now Gathering Weather Data for NOAA",
+      "link": "https://www.wired.com/story/private-companies-step-up-to-gather-weather-data-for-noaa-as-staffing-cuts-hobble-agency-forecasting/",
+      "description": "WindBorne Systems is one of several companies launching balloons, drones, buoys, and other devices to provide critical data to the beleaguered agency’s National Weather Service, but they can’t fill all the gaps.",
+      "pubDate": "Sat, 09 Aug 2025 11:00:00 +0000",
+      "category": "Science"
     },
     {
-      "title": "10 Best Meal Delivery Services, Tested By an Ex-Restaurant Critic",
-      "link": "https://www.wired.com/gallery/best-meal-kit-services-1/",
-      "description": "Here are the best meal kits in 2025, from Martha Stewart’s meal kit to the best meal delivery on a budget.",
-      "pubDate": "Thu, 07 Aug 2025 12:03:00 +0000",
-      "category": "Gear"
+      "title": "The 24 Best Shows on Amazon Prime Right Now (August 2025)",
+      "link": "https://www.wired.com/story/best-shows-amazon-prime/",
+      "description": "Ballard, Reacher, and The Second Best Hospital in the Galaxy are just a few of the shows you should be watching on Amazon Prime Video this week.",
+      "pubDate": "Sat, 09 Aug 2025 11:00:00 +0000",
+      "category": "Culture"
     },
     {
-      "title": "Ceretone Core One Pro Hearing Aids Review: A Blunt Instrument",
-      "link": "https://www.wired.com/review/ceretone-core-one-pro-hearing-aids/",
-      "description": "The budget hearing aid company revamps its product with a new look but few new features.",
-      "pubDate": "Thu, 07 Aug 2025 11:30:00 +0000",
-      "category": "Gear"
+      "title": "The US Court Records System Has Been Hacked",
+      "link": "https://www.wired.com/story/us-court-records-system-hacked/",
+      "description": "Plus: Instagram sparks a privacy backlash over its new map feature, hackers steal data from Google's customer support system, and the true scope of the Columbia University hack comes into focus.",
+      "pubDate": "Sat, 09 Aug 2025 10:30:00 +0000",
+      "category": "Security"
     }
   ]
 }

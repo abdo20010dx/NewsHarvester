@@ -1,0 +1,37 @@
+{
+  "country": "usa",
+  "category": "technology",
+  "feedName": "fox-news",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate",
+    "categoryTag": "category"
+  },
+  "lastUpdated": "2025-08-09T09:22:53.204Z",
+  "sampleArticles": [
+    {
+      "title": "Fox News AI Newsletter: OpenAI GPT-5 draws Musk eyeroll",
+      "link": "https://www.foxnews.com/tech/ai-newsletter-openai-gpt-5-draws-musk-eyeroll",
+      "description": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
+      "pubDate": "Fri, 08 Aug 2025 14:58:56 -0400",
+      "category": "d73079ba-16b9-5f1e-af5d-efc6bbccea7c"
+    },
+    {
+      "title": "How to tell if your Samsung Galaxy tablet has been hacked",
+      "link": "https://www.foxnews.com/tech/how-tell-your-samsung-galaxy-tablet-has-been-hacked",
+      "description": "Signs your Samsung Galaxy tablet may be hacked include battery drain, strange apps, pop-ups, crashes and suspicious account activity requiring immediate action.",
+      "pubDate": "Fri, 08 Aug 2025 10:00:57 -0400",
+      "category": "09b3132d-7295-5c07-9f75-43f6e71f7b22"
+    },
+    {
+      "title": "AI companions replace real friends for many teens",
+      "link": "https://www.foxnews.com/tech/ai-companions-replace-real-friends-many-teens",
+      "description": "Teens increasingly turn to AI companions for emotional support and advice, but experts warn of developmental risks and inadequate safety measure.",
+      "pubDate": "Fri, 08 Aug 2025 06:00:10 -0400",
+      "category": "b7c5d553-e55b-56f9-809a-df6bef706d72"
+    }
+  ]
+}

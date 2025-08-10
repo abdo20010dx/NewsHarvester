@@ -1,0 +1,16 @@
+{
+  "country": "usa",
+  "category": "world",
+  "feedName": "npr",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "h1",
+    "authorSelector": ".byline",
+    "dateSelector": ".date",
+    "socialShareSelector": "[class*=\"share\"]"
+  },
+  "lastUpdated": "2025-08-09T10:17:39.364Z",
+  "sampleContent": "NPR LISTEN & FOLLOW NPR App Apple Podcasts Spotify Amazon Music iHeart Radio YouTube Music Amazon Alexa RSS link Israel plans to take control of Gaza City. And, Trump wants a new U.S. census August 8, 20257:05 AM ET By Brittney Melton Gaza Occupation Decision, Redistricting Update, Trump Orders New Census 15:33 Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day. Today's top stories Israel's Security Cabinet voted early today to authorize the military to expand the war in Gaza and take control of Gaza City. This area is one of the last remaining territories not yet fully under military occupation. According to the United Nations, 90% of Gaza is already under military control or off-limits to Palestinians. The aim of the plan is to disarm Hamas, get hostages back and establish Israeli security control of Gaza before ending the conflict, according to Israeli "
+}

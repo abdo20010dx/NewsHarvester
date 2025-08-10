@@ -1,0 +1,14 @@
+{
+  "country": "usa",
+  "category": "ai",
+  "feedName": "venturebeat",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "title",
+    "categorySelector": "[class*=\"category\"]"
+  },
+  "lastUpdated": "2025-08-08T23:51:11.714Z",
+  "sampleContent": "Want smarter insights in your inbox? Sign up for our weekly newsletters to get only what matters to enterprise AI, data, and security leaders. Subscribe Now Traditionally, product releases can be cumbersome, requiring multiple sign-offs, endless tinkering, bureaucracies and friction points. Genspark has developed a much different approach. The AI workspace company’s lean team practices AI-native working — or ‘vibe working,’ if you will — so that they can move at what they call “gen speed.” This allows them to release new products and features in rapid-fire succession (nearly every week or so), steadily driving up annual recurring revenue (ARR). As the company boasts, it could be “the fastest-growing startup ever in terms of ARR.” “When people are working the AI-native way, basically everybody is the manager,” Kaihua (Kay) Zhu, co-founder and CTO, told VentureBeat. “They are equipped with a team of AI agents, which are kind of their reportees, and they are capable of, single-handedly, d"
+}

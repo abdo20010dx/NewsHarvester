@@ -1,0 +1,10 @@
+{
+  "feedName": "business-insider",
+  "displayName": "Business Insider",
+  "urls": [
+    {
+      "category": "business",
+      "url": "https://www.businessinsider.com/rss"
+    }
+  ]
+}

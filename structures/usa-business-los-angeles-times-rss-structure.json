@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "business",
+  "feedName": "los-angeles-times",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T09:38:09.464Z",
+  "sampleArticles": [
+    {
+      "title": "Walmart to pay $5.6 million to settle lawsuit alleging California shoppers were overcharged",
+      "link": "https://www.latimes.com/california/story/2025-08-08/walmart-to-pay-5-6-million-to-settle-lawsuit-alleging-they-overcharged-customers",
+      "description": "",
+      "pubDate": "Sat, 9 Aug 2025 01:15:51 GMT"
+    },
+    {
+      "title": "Commentary: Disney&#x27;s settlement with &#x27;Mandalorian&#x27; actor Gina Carano isn&#x27;t capitulation. Firing her was",
+      "link": "https://www.latimes.com/entertainment-arts/story/2025-08-08/disney-lucasfilm-settlement-gina-carano-mandalorian-firing-cancel-culture",
+      "description": "",
+      "pubDate": "Sat, 9 Aug 2025 01:02:37 GMT"
+    },
+    {
+      "title": "&#x27;The Mandalorian&#x27; actor Gina Carano and Disney settle lawsuit over alleged wrongful termination",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2025-08-08/the-mandalorian-actor-gina-carano-and-lucasfilm-settle-lawsuit-over-alleged-wrongful-termination",
+      "description": "",
+      "pubDate": "Fri, 8 Aug 2025 18:47:24 GMT"
+    }
+  ]
+}

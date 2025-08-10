@@ -1,0 +1,18 @@
+{
+  "feedName": "the-atlantic",
+  "displayName": "The Atlantic",
+  "urls": [
+    {
+      "category": "news",
+      "url": "https://www.theatlantic.com/feed/all/"
+    },
+    {
+      "category": "technology",
+      "url": "https://www.theatlantic.com/feed/technology/"
+    },
+    {
+      "category": "business",
+      "url": "https://www.theatlantic.com/feed/business/"
+    }
+  ]
+}

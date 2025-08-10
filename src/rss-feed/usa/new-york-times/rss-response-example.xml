@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Opinion</title>
+    <link>https://www.nytimes.com/section/opinion</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Opinion.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2025 The New York Times Company</copyright>
+    <lastBuildDate>Fri, 08 Aug 2025 23:58:13 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Aug 2025 23:03:06 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Opinion</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/opinion</link>
+    </image>
+    <item>
+      <title>In Search of a Death With Dignity</title>
+      <link>https://www.nytimes.com/2025/08/08/opinion/assisted-suicide.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/08/opinion/assisted-suicide.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/08/opinion/assisted-suicide.html" rel="standout"></atom:link>
+      <description>Readers respond to a guest essay about assisted suicide. Also: A setback on vaccines; politics and the pulpit.</description>
+      <pubDate>Fri, 08 Aug 2025 19:04:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Euthanasia and Assisted Suicide</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Death and Dying</category>
+      <category domain="">mRNA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">RNA (Ribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion-State Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Religion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
+    </item>
+    <item>
+      <title>The MAGA Congressman Accused of Threatening His Ex With Revenge Porn</title>
+      <link>https://www.nytimes.com/2025/08/08/opinion/cory-mills-trump-maga.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/08/opinion/cory-mills-trump-maga.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/08/opinion/cory-mills-trump-maga.html" rel="standout"></atom:link>
+      <description>When you’re MAGA, they let you do it.</description>
+      <dc:creator>Michelle Goldberg</dc:creator>
+      <pubDate>Fri, 08 Aug 2025 12:24:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mills, Cory (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberharassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Violence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <media:content height="1762" medium="image" url="https://static01.nyt.com/images/2025/08/08/multimedia/08goldberg-kvtp/08goldberg-kvtp-mediumSquareAt3X.jpg" width="1761"></media:content>
+      <media:credit>Kiana Hayeri for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Trump’s Cultural Revolution Is Just Getting Started</title>
+      <link>https://www.nytimes.com/2025/08/08/opinion/smithsonian-trump-censorship.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/08/opinion/smithsonian-trump-censorship.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/08/opinion/smithsonian-trump-censorship.html" rel="standout"></atom:link>
+      <description>Art can be effective at illuminating and healing only if it is unconstrained by authority.</description>
+      <dc:creator>David Firestone</dc:creator>
+      <pubDate>Fri, 08 Aug 2025 17:48:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Slavery (Historical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Smithsonian Institution</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/08/08/multimedia/08firestone-cbhk/08firestone-cbhk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jared Soares for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>I Helped Bury Stories About Trump. I Regret It.</title>
+      <link>https://www.nytimes.com/2025/08/08/opinion/national-enquirer-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/08/opinion/national-enquirer-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/08/opinion/national-enquirer-trump.html" rel="standout"></atom:link>
+      <description>What if those two unpublished National Enquirer stories had run?</description>
+      <dc:creator>Cameron Stracher</dc:creator>
+      <pubDate>Fri, 08 Aug 2025 18:16:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Media Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Enquirer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pecker, David J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sajudin, Dino</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McDougal, Karen (1971- )</category>
+    </item>
+    <item>
+      <title>Seed Oils Are Fine, Really</title>
+      <link>https://www.nytimes.com/2025/08/08/opinion/seed-oils-nutrition-ingredients-science.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/08/opinion/seed-oils-nutrition-ingredients-science.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/08/opinion/seed-oils-nutrition-ingredients-science.html" rel="standout"></atom:link>
+      <description>Nutrition science demonizing individual foods or ingredients is often based on flawed science and misses the bigger picture.</description>
+      <dc:creator>Emily Oster</dc:creator>
+      <pubDate>Fri, 08 Aug 2025 16:36:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oils and Fats</category>
+      <category domain="">seed oils</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Processed and Ultraprocessed Foods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+    </item>
+    <item>
+      <title>Trump Is Letting TikTok (and China) Win</title>
+      <link>https://www.nytimes.com/2025/08/08/opinion/trump-tiktok-ban-china-congress.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/08/opinion/trump-tiktok-ban-china-congress.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/08/opinion/trump-tiktok-ban-china-congress.html" rel="standout"></atom:link>
+      <description>Trump’s disregard for federal law is a gift to the world’s most powerful authoritarian government.</description>
+      <dc:creator>The Editorial Board</dc:creator>
+      <pubDate>Fri, 08 Aug 2025 09:00:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/06/opinion/06tiktok-editorial-image/06tiktok-editorial-image-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Illustration by Rebecca Chew/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Democrats Are Finally, Slowly, Changing Their Minds on Israel</title>
+      <link>https://www.nytimes.com/2025/08/08/opinion/democrats-gaza-klobuchar-booker.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/08/opinion/democrats-gaza-klobuchar-booker.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/08/opinion/democrats-gaza-klobuchar-booker.html" rel="standout"></atom:link>
+      <description>Amy Klobuchar has taken a crucial step toward the view of the party’s base.</description>
+      <dc:creator>Lydia Polgreen</dc:creator>
+      <pubDate>Fri, 08 Aug 2025 05:28:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Klobuchar, Amy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Booker, Cory A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Famine</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/07/opinion/00polgreen/00polgreen-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Illustration by The New York Times; source photograph by Mark Schiefelbein/Associated Press</media:credit>
+    </item>
+    <item>
+      <title>Trump’s Tariff Victory Is Not What It Seems</title>
+      <link>https://www.nytimes.com/2025/08/08/opinion/trump-tariffs-trade-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/08/opinion/trump-tariffs-trade-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/08/opinion/trump-tariffs-trade-economy.html" rel="standout"></atom:link>
+      <description>Consumers and businesses will lose out, thanks to other Trump economic policies.</description>
+      <dc:creator>Eswar Prasad</dc:creator>
+      <pubDate>Fri, 08 Aug 2025 05:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Trade Organization</category>
+    </item>
+    <item>
+      <title>Why More People in the World Are Feeling Hopeful (Except Us)</title>
+      <link>https://www.nytimes.com/2025/08/07/opinion/happiness-community-wealth.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/07/opinion/happiness-community-wealth.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/07/opinion/happiness-community-wealth.html" rel="standout"></atom:link>
+      <description>I would say the most important social trend over the past decade has been the disconnect between our nation’s economic health and its social health.</description>
+      <dc:creator>David Brooks</dc:creator>
+      <pubDate>Fri, 08 Aug 2025 00:56:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Happiness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Progressivism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Developing Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liberalism (US Politics)</category>
+    </item>
+    <item>
+      <title>Springsteen Isn’t Who I Thought He Was</title>
+      <link>https://www.nytimes.com/2025/08/07/opinion/bruce-springsteen-music-poetry.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/07/opinion/bruce-springsteen-music-poetry.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/07/opinion/bruce-springsteen-music-poetry.html" rel="standout"></atom:link>
+      <description>I stopped listening to Bruce Springsteen’s music. I heard something more.</description>
+      <dc:creator>John McWhorter</dc:creator>
+      <pubDate>Fri, 08 Aug 2025 01:13:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poetry and Poets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Springsteen, Bruce</category>
+    </item>
+    <item>
+      <title>When Men Talk About Their Feelings</title>
+      <link>https://www.nytimes.com/2025/08/07/opinion/men-women-feelings-mankeeping.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/07/opinion/men-women-feelings-mankeeping.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/07/opinion/men-women-feelings-mankeeping.html" rel="standout"></atom:link>
+      <description>Readers respond to an article about men, women and “mankeeping.” Also: The Supreme Court; separating migrant families.</description>
+      <pubDate>Thu, 07 Aug 2025 18:59:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Men and Boys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emotions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Family Separation Policy (US Immigration)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="">manosphere</category>
+      <category domain="">mankeeping</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/07/28/well/28Well-Mankeeping/28Well-Mankeeping-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ohni Lisle</media:credit>
+    </item>
+    <item>
+      <title>Judges Are Under Threat. This Is No Way to Run a Country.</title>
+      <link>https://www.nytimes.com/2025/08/07/opinion/judges-courts-threats-fear.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/07/opinion/judges-courts-threats-fear.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/07/opinion/judges-courts-threats-fear.html" rel="standout"></atom:link>
+      <description>Federal judges are under threat across the nation.</description>
+      <dc:creator>David French</dc:creator>
+      <pubDate>Thu, 07 Aug 2025 19:43:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boasberg, James E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salas, Esther (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/07/opinion/07french-newsletter-image/07french-newsletter-image-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Illustration by George Douglas; source photographs by Martin Barraud and Laura Hedien/Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Trump’s Trade Representative: Why We Remade the Global Order</title>
+      <link>https://www.nytimes.com/2025/08/07/opinion/trump-trade-tariffs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/07/opinion/trump-trade-tariffs.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/07/opinion/trump-trade-tariffs.html" rel="standout"></atom:link>
+      <description>Tariffs were an urgent necessity. They’re already working.</description>
+      <dc:creator>Jamieson Greer</dc:creator>
+      <pubDate>Thu, 07 Aug 2025 12:15:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protectionism (Trade)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bretton Woods Agreement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of the United States Trade Representative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Trade Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/09/opinion/07greer/07greer-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Photo Illustration by Shannon Lin/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The Next Parenting Trend Starts Before Conception</title>
+      <link>https://www.nytimes.com/2025/08/07/opinion/genetics-children-noor-siddiqui.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/07/opinion/genetics-children-noor-siddiqui.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/07/opinion/genetics-children-noor-siddiqui.html" rel="standout"></atom:link>
+      <description>For as little as $2,500, you can choose your future baby. Should you?</description>
+      <dc:creator>Ross Douthat, Katherine Sullivan, Andrea Betanzos, Sophia Alvarez Boyd and Victoria Chamberlin</dc:creator>
+      <pubDate>Thu, 07 Aug 2025 23:42:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">In Vitro Fertilization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Orchid Biosciences Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Control and Family Planning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Defects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embryos (Human)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Human Fertilization and Embryology Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chromosomes</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/07/opinion/07rosspod-Siddiqui/07rosspod-Siddiqui-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>How I Built My Ruthless Summer Reading List</title>
+      <link>https://www.nytimes.com/2025/08/07/opinion/books-summer-reading-list.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/07/opinion/books-summer-reading-list.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/07/opinion/books-summer-reading-list.html" rel="standout"></atom:link>
+      <description>Whichever books you choose, and however you choose them, may your summer reading be satisfying, and your curating ruthless.</description>
+      <dc:creator>Carlos Lozada</dc:creator>
+      <pubDate>Thu, 07 Aug 2025 18:43:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/10/opinion/10lozada/07lozada-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Martin Parr/Magnum Photos</media:credit>
+    </item>
+    <item>
+      <title>Two Words: Plastics Treaty</title>
+      <link>https://www.nytimes.com/2025/08/07/opinion/plastics-treaty-microplastics-chemicals.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/07/opinion/plastics-treaty-microplastics-chemicals.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/07/opinion/plastics-treaty-microplastics-chemicals.html" rel="standout"></atom:link>
+      <description>Even if the jury on microplastics is still out, there is enough evidence of the harmful effects of chemical additives in plastics for the U.N. to act now.</description>
+      <dc:creator>Oliver Franklin-Wallis</dc:creator>
+      <pubDate>Thu, 07 Aug 2025 09:01:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plastics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chemicals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bisphenol A (BPA)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ozone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Treaties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flame Retardants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">PFAS (Per- and Polyfluoroalkyl Substances)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Respiratory Diseases</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">PBDE (Polybrominated Diphenyl Ether)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>I’ve Seen How Russia Is Torturing Prisoners of War, and It’s Horrifying</title>
+      <link>https://www.nytimes.com/2025/08/07/opinion/russia-ukraine-torture.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/07/opinion/russia-ukraine-torture.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/07/opinion/russia-ukraine-torture.html" rel="standout"></atom:link>
+      <description>Prosecuting torture is a legal obligation, not a diplomatic nicety or something that can be negotiated.</description>
+      <dc:creator>Alice Edwards</dc:creator>
+      <pubDate>Fri, 08 Aug 2025 16:59:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisoners of War</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Torture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2025/08/07/opinion/07edwards/07edwards-mediumSquareAt3X.jpg" width="1000"></media:content>
+      <media:credit>Illustration by Mark Harris. Source photographs by matejmo and mevan/Getty Images, Paula Bronstein</media:credit>
+    </item>
+    <item>
+      <title>Grief and Support When a Therapist Dies</title>
+      <link>https://www.nytimes.com/2025/08/06/opinion/therapists-death-grief.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/06/opinion/therapists-death-grief.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/06/opinion/therapists-death-grief.html" rel="standout"></atom:link>
+      <description>Readers respond to a Science Times article. Also: The Arab League’s call for Hamas to disarm.</description>
+      <pubDate>Wed, 06 Aug 2025 19:00:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychiatry and Psychiatrists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grief (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Death and Dying</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Arab League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/05/multimedia/xxTHERAPIST-DEAD-01-tvhb/xxTHERAPIST-DEAD-01-tvhb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Bryan Anselm for The New York Times</media:credit>
+      <media:description>Jeff Axelbank learned from a colleague that his therapist had died. </media:description>
+    </item>
+    <item>
+      <title>These College Professors Will Not Bow Down to A.I.</title>
+      <link>https://www.nytimes.com/2025/08/06/opinion/humanities-college-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/06/opinion/humanities-college-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/06/opinion/humanities-college-ai.html" rel="standout"></atom:link>
+      <description>Technology is making the old ways of teaching ineffective. A new way is starting to emerge.</description>
+      <dc:creator>Jessica Grose</dc:creator>
+      <pubDate>Wed, 06 Aug 2025 19:44:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cheating</category>
+    </item>
+    <item>
+      <title>The Musical ‘Hamilton’ 10 Years After It Premiered</title>
+      <link>https://www.nytimes.com/2025/08/06/opinion/hamilton-anniversary-musical-politics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/06/opinion/hamilton-anniversary-musical-politics.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/06/opinion/hamilton-anniversary-musical-politics.html" rel="standout"></atom:link>
+      <description>Why do we still think it’s only about Obama?</description>
+      <dc:creator>Daniel Pollack-Pelzner</dc:creator>
+      <pubDate>Wed, 06 Aug 2025 20:07:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Hamilton (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kennedy, John F, Center for the Performing Arts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miranda, Lin-Manuel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/07/multimedia/06PollackPelzner-vqhb/06PollackPelzner-vqhb-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Photo illustration by The New York Times. Source photograph by Sara Krulwich/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>My Gay Son Changed My Understanding of Evangelical Christianity</title>
+      <link>https://www.nytimes.com/2025/08/06/opinion/evangelical-pastor-gay-son.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/06/opinion/evangelical-pastor-gay-son.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/06/opinion/evangelical-pastor-gay-son.html" rel="standout"></atom:link>
+      <description>Bill White thought being gay was a sin. Then his 15-year-old came out.</description>
+      <dc:creator>Bill White, Timothy White and Vishakha Darbha</dc:creator>
+      <pubDate>Wed, 06 Aug 2025 20:07:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ministers (Protestant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evangelical Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/06/opinion/06opinions-daddiaries/06opinions-daddiaries-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Illustration by The New York Times; photograph via Bill and Timothy White</media:credit>
+    </item>
+    <item>
+      <title>Senator Mark Kelly: Don’t Gut NASA</title>
+      <link>https://www.nytimes.com/2025/08/06/opinion/mark-kelly-nasa-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/06/opinion/mark-kelly-nasa-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/06/opinion/mark-kelly-nasa-trump.html" rel="standout"></atom:link>
+      <description>Before he was a senator, Mark Kelly was an astronaut. He’s worried about America’s leadership in space.</description>
+      <dc:creator>Mark Kelly</dc:creator>
+      <pubDate>Wed, 06 Aug 2025 12:53:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artemis Program</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Space Station</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duffy, Sean P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/06/multimedia/06kelly-klqg/06kelly-klqg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tamara Reynolds for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>They Let Their Children Cross the Street, and Now They’re Felons</title>
+      <link>https://www.nytimes.com/2025/08/06/opinion/children-traffic-death-parents.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/06/opinion/children-traffic-death-parents.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/06/opinion/children-traffic-death-parents.html" rel="standout"></atom:link>
+      <description>They went to jail when their boy was killed. Why don’t road planners bear some guilt?</description>
+      <dc:creator>Nicole Gelinas</dc:creator>
+      <pubDate>Thu, 07 Aug 2025 18:15:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Walking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gastonia (NC)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2025/08/10/multimedia/10gelinas-vkhm/06gelinas-vkhm-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
+      <media:credit>Kennedi Carter for The New York Times</media:credit>
+      <media:description>Legend Jenkins was hit and killed by an S.U.V. when he stepped off this median on his way home from the Food Lion supermarket in Gastonia, N.C., in May.</media:description>
+    </item>
+    <item>
+      <title>The Death of the Fourth American Republic</title>
+      <link>https://www.nytimes.com/2025/08/06/opinion/supreme-court-voting-rights-act.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/06/opinion/supreme-court-voting-rights-act.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/06/opinion/supreme-court-voting-rights-act.html" rel="standout"></atom:link>
+      <description>The Supreme Court may extinguish a law that more than any other made the promise of American democracy a reality.</description>
+      <dc:creator>Jamelle Bouie</dc:creator>
+      <pubDate>Thu, 07 Aug 2025 21:11:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights Act (1965)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights Movement (1954-68)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roberts, John G Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>The Promise of Palestinian Statehood Is Ringing Hollow</title>
+      <link>https://www.nytimes.com/2025/08/06/opinion/israel-palestinians-un-statehood.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/06/opinion/israel-palestinians-un-statehood.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/06/opinion/israel-palestinians-un-statehood.html" rel="standout"></atom:link>
+      <description>Recognition will come with strings attached and little chance for holding Israel to account.</description>
+      <dc:creator>Zinaida Miller</dc:creator>
+      <pubDate>Fri, 08 Aug 2025 05:24:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestine Liberation Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/08/multimedia/05miller-vjph/05miller-vjph-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Saher Alghorra for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>I Survived an Atomic Bomb. It’s Time to End the Nuclear Threat.</title>
+      <link>https://www.nytimes.com/2025/08/06/opinion/hiroshima-nagasaki-anniversary-nuclear-weapons.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/06/opinion/hiroshima-nagasaki-anniversary-nuclear-weapons.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/06/opinion/hiroshima-nagasaki-anniversary-nuclear-weapons.html" rel="standout"></atom:link>
+      <description>The nuclear taboo is on the verge of collapse.</description>
+      <dc:creator>Terumi Tanaka</dc:creator>
+      <pubDate>Thu, 07 Aug 2025 18:17:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Treaties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nihon Hidankyo (Nonprofit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hiroshima (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nagasaki (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/08/opinion/06tanaka/06tanaka-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Toshifumi Kitamura</media:credit>
+      <media:description>A clock damaged by the atomic bomb in Nagasaki, Japan.</media:description>
+    </item>
+    <item>
+      <title>Where Can Gaza Go From Here?</title>
+      <link>https://www.nytimes.com/2025/08/05/opinion/gaza-war-israel-netanyahu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/05/opinion/gaza-war-israel-netanyahu.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/05/opinion/gaza-war-israel-netanyahu.html" rel="standout"></atom:link>
+      <description>No thoughtful person can be pro-Palestinian without also being anti-Hamas.</description>
+      <dc:creator>Bret Stephens</dc:creator>
+      <pubDate>Tue, 05 Aug 2025 21:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2025/08/05/multimedia/05stephens-lfcp/05stephens-lfcp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eyad Baba/Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Why Did God Favor France and Joan of Arc?</title>
+      <link>https://www.nytimes.com/2025/08/05/opinion/joan-arc-miracles-god.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/05/opinion/joan-arc-miracles-god.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/05/opinion/joan-arc-miracles-god.html" rel="standout"></atom:link>
+      <description>Five theories about Joan of Arc’s miraculous-seeming career.</description>
+      <dc:creator>Ross Douthat</dc:creator>
+      <pubDate>Tue, 05 Aug 2025 21:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Joan of Arc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/05/opinion/05douthat-newsletter-image/05douthat-newsletter-image-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Illustration by Sam Whitney/The New York Times; source images by CSA Images studiocasper/Getty Images</media:credit>
+    </item>
+    <item>
+      <title>America Will Suffer From Trump’s Assault on Facts</title>
+      <link>https://www.nytimes.com/2025/08/05/opinion/trump-bls-head-fired-truth.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/05/opinion/trump-bls-head-fired-truth.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/05/opinion/trump-bls-head-fired-truth.html" rel="standout"></atom:link>
+      <description>The Trump administration is engaged in an increasingly wide-ranging campaign against data it doesn’t like.</description>
+      <dc:creator>The Editorial Board</dc:creator>
+      <pubDate>Tue, 05 Aug 2025 22:47:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bureau of Labor Statistics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McEntarfer, Erika L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Statistics</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2025/08/06/multimedia/00-blseditorial-ckhj/00-blseditorial-ckhj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tierney L. Cross/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Read All About It: True Tales of Men and Fiction</title>
+      <link>https://www.nytimes.com/2025/08/05/opinion/men-books-fiction.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/05/opinion/men-books-fiction.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/05/opinion/men-books-fiction.html" rel="standout"></atom:link>
+      <description>Readers respond to a column by Maureen Dowd about men and books. Also: President Trump’s tariff games; relationships outside romance.</description>
+      <pubDate>Tue, 05 Aug 2025 16:14:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Men and Boys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Friendship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+    </item>
+    <item>
+      <title>The Trump Administration Tried to Silence Mahmoud Khalil, So I Asked Him to Talk</title>
+      <link>https://www.nytimes.com/2025/08/05/opinion/ezra-klein-podcast-mahmoud-khalil.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/05/opinion/ezra-klein-podcast-mahmoud-khalil.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/05/opinion/ezra-klein-podcast-mahmoud-khalil.html" rel="standout"></atom:link>
+      <description>The Palestinian activist discusses the Columbia protests, ICE detention and free speech in America.</description>
+      <dc:creator>Ezra Klein</dc:creator>
+      <pubDate>Fri, 08 Aug 2025 16:51:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pro-Palestinian Campus Protests (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khalil, Mahmoud (Activist)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Columbia University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/05/opinion/05eks-khalil-image/05eks-khalil-image-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The Supreme Court Has Finally Found a President It Likes</title>
+      <link>https://www.nytimes.com/2025/08/05/opinion/supreme-court-trump-administration.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/05/opinion/supreme-court-trump-administration.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/05/opinion/supreme-court-trump-administration.html" rel="standout"></atom:link>
+      <description>Its six-member conservative majority has become a key enabler of Trump’s agenda.</description>
+      <dc:creator>Thomas B. Edsall</dc:creator>
+      <pubDate>Tue, 05 Aug 2025 20:53:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Power (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/08/05/multimedia/05edsall-gqht/05edsall-gqht-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Aleksey Kondratyev for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Universities Have Woken Up to Find They’re in Bed With an Ogre</title>
+      <link>https://www.nytimes.com/2025/08/05/opinion/trump-havard-brown-universities.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/05/opinion/trump-havard-brown-universities.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/05/opinion/trump-havard-brown-universities.html" rel="standout"></atom:link>
+      <description>Three Opinion writers debate whether universities should make a deal with the administration.</description>
+      <dc:creator>David Leonhardt, Binyamin Appelbaum, Emily Bazelon and Jillian Weinberger</dc:creator>
+      <pubDate>Tue, 05 Aug 2025 22:01:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pro-Palestinian Campus Protests (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affirmative Action</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Columbia University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Brown University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/05/opinion/05Opinions-Universities/05Opinions-Universities-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Illustration by The New York Times; source photograph by Deborah Harrison/Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Coming to Terms With Embodied Pleasures</title>
+      <link>https://www.nytimes.com/2025/08/05/opinion/cigarettes-embodied-experience.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/05/opinion/cigarettes-embodied-experience.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/05/opinion/cigarettes-embodied-experience.html" rel="standout"></atom:link>
+      <description>A pack of smokes is the opposite of an Oura ring.</description>
+      <dc:creator>Christine Emba</dc:creator>
+      <pubDate>Fri, 08 Aug 2025 17:51:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Millennial Generation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Conditions and Trends</category>
+      <media:content height="1546" medium="image" url="https://static01.nyt.com/images/2025/08/05/opinion/05emba-share/05emba-share-mediumSquareAt3X.png" width="1546"></media:content>
+      <media:credit>Amina Gingold for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The Era of A.I. Propaganda Has Arrived, and America Must Act</title>
+      <link>https://www.nytimes.com/2025/08/05/opinion/china-ai-propaganda.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/05/opinion/china-ai-propaganda.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/05/opinion/china-ai-propaganda.html" rel="standout"></atom:link>
+      <description>Documents show that GoLaxy has emerged as a leader in technologically advanced, state-aligned influence campaigns.</description>
+      <dc:creator>Brett J. Goldstein and Brett V. Benson</dc:creator>
+      <pubDate>Wed, 06 Aug 2025 01:02:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data-Mining and Database Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/05/opinion/05goldstein-benson-image/05goldstein-benson-image-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Illustration by Sam Whitney/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Trump Has Soured on Putin. Putin Couldn’t Care Less.</title>
+      <link>https://www.nytimes.com/2025/08/05/opinion/putin-trump-deadline-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/05/opinion/putin-trump-deadline-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/05/opinion/putin-trump-deadline-ukraine.html" rel="standout"></atom:link>
+      <description>Vladimir Putin has lost faith in the very idea of reaching agreements with the United States.</description>
+      <dc:creator>Mikhail Zygar</dc:creator>
+      <pubDate>Tue, 05 Aug 2025 16:24:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2025/08/06/multimedia/kpfv/kpfv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Yuri Kochetkov</media:credit>
+    </item>
+    <item>
+      <title>The America We Knew Is Rapidly Slipping Away</title>
+      <link>https://www.nytimes.com/2025/08/04/opinion/columnists/friedman-trump-labor-firing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/04/opinion/columnists/friedman-trump-labor-firing.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/04/opinion/columnists/friedman-trump-labor-firing.html" rel="standout"></atom:link>
+      <description>When Trump fired the top labor statistics official, the aides responsible for running our economy went along for the ride.</description>
+      <dc:creator>Thomas L. Friedman</dc:creator>
+      <pubDate>Tue, 05 Aug 2025 14:11:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bureau of Labor Statistics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chavez-DeRemer, Lori</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Driscoll, Daniel P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Easterly, Jen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gabbard, Tulsi (1981- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Greer, Jamieson L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hassett, Kevin A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Loomer, Laura</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McEntarfer, Erika L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Point (NY)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/05/multimedia/04friedman-vfhk/04friedman-vfhk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Will Matsuda for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Unwanted Facts: The Labor Dept. Firing</title>
+      <link>https://www.nytimes.com/2025/08/04/opinion/trump-labor-dept-firing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/04/opinion/trump-labor-dept-firing.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/04/opinion/trump-labor-dept-firing.html" rel="standout"></atom:link>
+      <description>Readers respond to President Trump’s firing of the commissioner of the Bureau of Labor Statistics, Erika McEntarfer. Also: Family rifts over politics.</description>
+      <pubDate>Mon, 04 Aug 2025 19:02:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McEntarfer, Erika L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bureau of Labor Statistics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Authoritarianism (Theory and Philosophy)</category>
+      <media:content height="1676" medium="image" url="https://static01.nyt.com/images/2025/08/01/multimedia/01dc-trump-data-jvtc/01dc-trump-data-jvtc-mediumSquareAt3X.jpg" width="1676"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>President Trump said on social media on Friday that he had directed his team to fire Erika McEntarfer, the commissioner of the Bureau of Labor Statistics.</media:description>
+    </item>
+    <item>
+      <title>Our President Is Economically Illiterate</title>
+      <link>https://www.nytimes.com/2025/08/04/opinion/donald-trump-tariff-powell-economics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/04/opinion/donald-trump-tariff-powell-economics.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/04/opinion/donald-trump-tariff-powell-economics.html" rel="standout"></atom:link>
+      <description>The latest round of tariffs offers further evidence that Trump doesn’t understand how economies work.</description>
+      <dc:creator>Steven Rattner</dc:creator>
+      <pubDate>Mon, 04 Aug 2025 17:30:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Cuts and Jobs Act (2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bureau of Labor Statistics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Powell, Jerome H</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/08/07/multimedia/04rattner-bwfh/04rattner-bwfh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kaya &amp;amp; Blank for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>This Attack on a Federal Judge Is Preposterous</title>
+      <link>https://www.nytimes.com/2025/08/04/opinion/trump-bondi-judge-boasberg.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/04/opinion/trump-bondi-judge-boasberg.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/04/opinion/trump-bondi-judge-boasberg.html" rel="standout"></atom:link>
+      <description>Once again, it looks as if Pam Bondi’s Justice Department is attempting to undermine the rule of law.</description>
+      <dc:creator>Nancy Gertner and Stephen I. Vladeck</dc:creator>
+      <pubDate>Wed, 06 Aug 2025 18:53:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bondi, Pamela J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boasberg, James E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roberts, John G Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Judicial Conference of the United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/07/multimedia/04gertner1-bmjc/04gertner1-bmjc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Damon Winter/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Trump’s Gilded Age White House Ballroom Classicism</title>
+      <link>https://www.nytimes.com/2025/08/04/opinion/trump-gilded-age-ballroom.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/04/opinion/trump-gilded-age-ballroom.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/04/opinion/trump-gilded-age-ballroom.html" rel="standout"></atom:link>
+      <description>While the president is right to try to reclaim meaning in American architecture, Gilded Age neoclassicism is not the answer.</description>
+      <dc:creator>Matt Shaw</dc:creator>
+      <pubDate>Mon, 04 Aug 2025 11:40:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Building (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Architecture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/04/multimedia/04shaw1-lzhj/04shaw1-lzhj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Damon Winter/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The Magic of a Weird Tyler Childers Pop-Up Concert</title>
+      <link>https://www.nytimes.com/2025/08/04/opinion/tyler-childers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/04/opinion/tyler-childers.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/04/opinion/tyler-childers.html" rel="standout"></atom:link>
+      <description>This summer, joy might look like dancing beside a fake dinosaur and remembering how good it feels to sing with strangers.</description>
+      <dc:creator>Margaret Renkl</dc:creator>
+      <pubDate>Tue, 05 Aug 2025 01:19:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dinosaurs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Childers, Tyler (1991- )</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/08/04/opinion/04renkl/04renkl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jeff Hahne/Getty Images</media:credit>
+    </item>
+    <item>
+      <title>You Are Contaminated</title>
+      <link>https://www.nytimes.com/2025/08/04/opinion/contamination-exposome.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/04/opinion/contamination-exposome.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/04/opinion/contamination-exposome.html" rel="standout"></atom:link>
+      <description>The toxic byproducts of human civilization are everywhere, even in our bodies.</description>
+      <dc:creator>David Wallace-Wells</dc:creator>
+      <pubDate>Thu, 07 Aug 2025 19:14:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plastics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">PFAS (Per- and Polyfluoroalkyl Substances)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+    </item>
+    <item>
+      <title>‘It’s Completely Unappealing’: Why the Senate Is Broken</title>
+      <link>https://www.nytimes.com/2025/08/04/opinion/senate-dysfunction.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/04/opinion/senate-dysfunction.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/04/opinion/senate-dysfunction.html" rel="standout"></atom:link>
+      <description>Creative obstructionism in the Senate, says Tina Smith of Minnesota, has become “a fine art” that has nearly paralyzed the institution.</description>
+      <dc:creator>Michelle Cottle</dc:creator>
+      <pubDate>Mon, 04 Aug 2025 23:14:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennet, Michael Farrand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flake, Jeffrey L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Tina F</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tester, Jon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murkowski, Lisa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merkley, Jeffrey A (1956- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tillis, Thomas R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/04/multimedia/04cottle1-bmhj/04cottle1-bmhj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mark Peterson for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>A Tale of Two NICUs</title>
+      <link>https://www.nytimes.com/2025/08/04/opinion/gaza-war-babies-nicu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/04/opinion/gaza-war-babies-nicu.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/04/opinion/gaza-war-babies-nicu.html" rel="standout"></atom:link>
+      <description>My son was born at 28 weeks. I know the pain and triumph of neonatal intensive care.</description>
+      <dc:creator>Mushon Zer-Aviv</dc:creator>
+      <pubDate>Mon, 04 Aug 2025 12:31:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Premature Babies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infant Mortality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Malnutrition</category>
+    </item>
+    <item>
+      <title>I Was Banished by My Country’s Dictator. What Happened to Me Is a Warning.</title>
+      <link>https://www.nytimes.com/2025/08/04/opinion/nicaragua-ortega-dictatorship-exile.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/04/opinion/nicaragua-ortega-dictatorship-exile.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/04/opinion/nicaragua-ortega-dictatorship-exile.html" rel="standout"></atom:link>
+      <description>Thousands of dissidents have fled Daniel Ortega’s Nicaragua — and now, even those of us in exile no longer feel safe.</description>
+      <dc:creator>Gioconda Belli</dc:creator>
+      <pubDate>Mon, 04 Aug 2025 05:00:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Authoritarianism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nicaragua</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ortega, Daniel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murillo, Rosario</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Somoza Debayle, Anastasio</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2025/08/04/opinion/04belli/04belli-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Inti Ocon/Agence France-Presse &amp;mdash; Getty Images</media:credit>
+    </item>
+    <item>
+      <title>A Tie-Dye Version of Jerry Garcia’s Legacy?</title>
+      <link>https://www.nytimes.com/2025/08/03/opinion/jerry-garcia-grateful-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2025/08/03/opinion/jerry-garcia-grateful-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2025/08/03/opinion/jerry-garcia-grateful-dead.html" rel="standout"></atom:link>
+      <description>Readers differ on the meaning of Jerry Garcia’s politics. Also: Where students debate; more trees in cities; lawyers vs. President Trump.</description>
+      <pubDate>Sun, 03 Aug 2025 13:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garcia, Jerry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Grateful Dead</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,15 @@
+{
+  "country": "usa",
+  "category": "news",
+  "feedName": "fox-news",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": ".title",
+    "authorSelector": "[class*=\"author\"]",
+    "videoSelector": "[class*=\"video\"]"
+  },
+  "lastUpdated": "2025-08-09T09:17:03.217Z",
+  "sampleContent": "close Video Trump-Putin summit has potential for 'significant concession,' Gen. Keane says Fox News senior strategist analyst Ret. Gen. Jack Keane previews the potential Trump-Putin summit amid increased pressure to end the war in Ukraine on ‘Fox & Friends.’ NEWYou can now listen to Fox News articles! Ukrainian President Volodymyr Zelenskyy said Saturday that Ukraine will not give up any territory to Russia in efforts to reach a peace deal ahead of talks between President Donald Trump and Russian President Vladimir Putin next week. Ukrainian President Volodymyr Zelenskyy said Ukraine will not \"gift\" land to Russia ahead of a Trump-Putin summit next week aimed at seeking a peace deal between the countries. (Antonio Masiello/Getty Image) In a video posted on his social media accounts on Saturday, Zelenskyy addressed the war with Russia and said while he is ready for the conflict to end, Ukraine will not \"gift\" land to Moscow in the process.\"The answer to the Ukrainian territorial questio"
+}

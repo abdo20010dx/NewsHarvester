@@ -1,0 +1,16 @@
+{
+  "country": "australia",
+  "category": "news",
+  "feedName": "abc-news",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "h1",
+    "authorSelector": "[class*=\"byline\"]",
+    "dateSelector": "time",
+    "tagsSelector": "[class*=\"tags\"]"
+  },
+  "lastUpdated": "2025-08-08T09:07:17.597Z",
+  "sampleContent": "Optus sued by privacy regulator in warning to Australian corporates to protect data or face finesBy business reporters Stephanie Chalmers and Rhiana WhitsonTopic:Cyber Security6h ago6 hours agoFri 8 Aug 2025 at 3:06amOptus is facing legal action with a theoretical potential penalty in the trillions, although that amount is unlikely. (AAP: Bianca de Marchi)In short:Australia's privacy watchdog is suing Optus over the 2022 cyber attack that affected the data of around 9.5 million Australians.The Office of the Australian Information Commissioner alleges Optus failed to adequately manage and protect customers' data in the nearly three years prior to the breach.What's next?Optus says it is reviewing the findings and will respond in due course. The Federal Court will determine what, if any, penalty the telco may have to pay.Optus could face another hefty penalty, as the privacy watchdog sues the telco over the 2022 cyber attack that exposed the data of around 9.5 million Australians.The Offi"
+}

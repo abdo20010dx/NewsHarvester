@@ -1,0 +1,37 @@
+{
+  "country": "usa",
+  "category": "world",
+  "feedName": "fox-news",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate",
+    "categoryTag": "category"
+  },
+  "lastUpdated": "2025-08-09T09:17:14.975Z",
+  "sampleArticles": [
+    {
+      "title": "Zelenskyy says peace deal will not include giving territory to Moscow ahead of Trump-Putin summit",
+      "link": "https://www.foxnews.com/world/zelenskyy-says-peace-deal-not-include-giving-territory-moscow-ahead-trump-putin-summit",
+      "description": "Ukrainian President Volodymyr Zelenskyy said Ukraine will not &amp;quot;gift&amp;quot; land to Russia ahead of a Trump-Putin summit next week aimed at seeking a peace deal between the countries.",
+      "pubDate": "Sat, 09 Aug 2025 04:08:38 -0400",
+      "category": "95ea5e11-a432-59ca-a545-0dd0f9e66bed"
+    },
+    {
+      "title": "Trump, Putin will hold first in-person meeting since Ukraine invasion next week in Alaska",
+      "link": "https://www.foxnews.com/world/trump-putin-hold-first-in-person-meeting-since-ukraine-invasion-next-week-alaska",
+      "description": "President Donald Trump and Russian President Vladimir Putin will meet on Friday, August 15 in Alaska. It&amp;apos;s the first meeting between the leaders since Moscow invaded Ukraine in 2022.",
+      "pubDate": "Fri, 08 Aug 2025 18:14:14 -0400",
+      "category": "870620a9-f720-5cfb-9a5d-93e42cb62efe"
+    },
+    {
+      "title": "US, UK &apos;disagree&apos; on Gaza plan but &apos;share&apos; same goal Vance says ahead of Lammy meeting",
+      "link": "https://www.foxnews.com/world/us-uk-disagree-gaza-plan-share-same-goal-vance-says-ahead-lammy-meeting",
+      "description": "JD Vance says U.S. has no plans to recognize Palestinian state during England visit, contrasting with U.K.&amp;apos;s threat to recognize a Palestinian state if Israel rejects ceasefire.",
+      "pubDate": "Fri, 08 Aug 2025 13:46:36 -0400",
+      "category": "687e9f81-0830-5478-a224-23aea36ee715"
+    }
+  ]
+}

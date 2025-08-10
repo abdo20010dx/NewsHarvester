@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "sports",
+  "feedName": "denver-post",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T09:08:38.059Z",
+  "sampleArticles": [
+    {
+      "title": "Rockies&#8217; starter Austin Gomber falters in 6-1 loss to Diamondbacks",
+      "link": "https://www.denverpost.com/2025/08/08/rockies-austin-gomber-falters-loss-diamondbacks/",
+      "description": "",
+      "pubDate": "Sat, 09 Aug 2025 03:07:01 +0000"
+    },
+    {
+      "title": "Shedeur Sanders tosses 2 TD passes in NFL preseason debut as Browns beat Panthers",
+      "link": "https://www.denverpost.com/2025/08/08/shedeur-sanders-browns-debut/",
+      "description": "",
+      "pubDate": "Sat, 09 Aug 2025 02:57:14 +0000"
+    },
+    {
+      "title": "Notes: Byron Leftwich already making impact on CU Buffs quarterbacks",
+      "link": "https://www.denverpost.com/2025/08/08/notes-byron-leftwich-already-making-impact-on-cu-buffs-quarterbacks/",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 23:54:54 +0000"
+    }
+  ]
+}

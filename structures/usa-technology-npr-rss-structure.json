@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "technology",
+  "feedName": "npr",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T10:17:56.762Z",
+  "sampleArticles": [
+    {
+      "title": "Why short breaks to move around are crucial for your creative process",
+      "link": "https://www.npr.org/2025/08/08/nx-s1-5492125/body-electric-kelly-corrigan",
+      "description": "When bestselling author Kelly Corrigan&apos;s creativity runs low or her mood turns, she doesn&apos;t power through. Here are her tips for connecting your body to your creative process and getting unstuck.",
+      "pubDate": "Fri, 08 Aug 2025 16:00:04 -0400"
+    },
+    {
+      "title": "AI-generated music is here to stay. Will streaming services like Spotify label it?",
+      "link": "https://www.npr.org/2025/08/08/nx-s1-5492314/ai-music-streaming-services-spotify",
+      "description": "Unlike other tech giants, many music-streaming services like Spotify are not currently taking steps to label AI-generated content. But experts say more transparency is key.",
+      "pubDate": "Fri, 08 Aug 2025 05:00:00 -0400"
+    },
+    {
+      "title": "How to get out of a love-hate relationship with your phone",
+      "link": "https://www.npr.org/2025/08/08/nx-s1-5492392/phone-addiction",
+      "description": "Finding it hard to concentrate? Are you glued to social media for longer than you’d like? Well, maybe it’s not you… maybe it’s the phones.\n\nBrittany is joined by Magdalene Taylor, writer, cultural critic and senior editor at &lt;em&gt;Playboy&lt;/em&gt;, and Fio Geiran, producer at &lt;em&gt;TED Radio Hour&lt;/em&gt; and a writer of their &lt;em&gt;Body Electric&lt;/em&gt; &lt;a href=&quot;http://npr.org/newsletter/body-electric?utm_source=IBAM&quot;target=&quot;_blank&quot;   &gt;newsletter,&lt;/a&gt; to discuss this phrase: “it’s the phones.” They get into the effects that smartphones have on our brains and our culture, why some people are returning to “dumbphones,” and why it might take more than willpower to manage our relationships with our phones.&lt;br&gt;&lt;br&gt;Click &lt;a href=&quot;http://npr.org/newsletter/body-electric?utm_source=IBAM&quot;target=&quot;_blank&quot;   &gt;here&lt;/a&gt; to check out the Body Electric newsletter.",
+      "pubDate": "Fri, 08 Aug 2025 03:00:00 -0400"
+    }
+  ]
+}

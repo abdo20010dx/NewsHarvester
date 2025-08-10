@@ -1,0 +1,18 @@
+{
+  "feedName": "ars-technica",
+  "displayName": "Ars Technica",
+  "urls": [
+    {
+      "category": "technology",
+      "url": "https://feeds.arstechnica.com/arstechnica/index"
+    },
+    {
+      "category": "science",
+      "url": "https://feeds.arstechnica.com/arstechnica/science"
+    },
+    {
+      "category": "business",
+      "url": "https://feeds.arstechnica.com/arstechnica/business"
+    }
+  ]
+}

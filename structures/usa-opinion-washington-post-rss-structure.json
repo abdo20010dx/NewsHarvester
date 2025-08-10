@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "opinion",
+  "feedName": "washington-post",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T11:03:09.028Z",
+  "sampleArticles": [
+    {
+      "title": "A growing disconnect between Wall Street and Main Street over tariffs",
+      "link": "https://www.washingtonpost.com/opinions/2025/08/09/tariffs-trump-stocks-economy-trade/",
+      "description": "More chaos is a safe bet, as Trump makes handshake deals and negotiations continue.",
+      "pubDate": "Sat, 09 Aug 2025 11:00:05 +0000"
+    },
+    {
+      "title": "A blueprint for Trump’s new and improved White House",
+      "link": "https://www.washingtonpost.com/opinions/2025/08/09/edith-pritchett-cartoon-trump-white-house-ballroom/",
+      "description": "Edith Pritchett cartoon on Trump adding a ballroom to the White House.",
+      "pubDate": "Sat, 09 Aug 2025 10:00:00 +0000"
+    },
+    {
+      "title": "Trump has plenty of ways to make mischief for D.C.",
+      "link": "https://www.washingtonpost.com/opinions/2025/08/08/trump-dc-crime-national-guard-home-rule/",
+      "description": "City leaders’ dithering on crime only creates a bigger opening for presidential bigfooting.",
+      "pubDate": "Fri, 08 Aug 2025 21:00:01 +0000"
+    }
+  ]
+}

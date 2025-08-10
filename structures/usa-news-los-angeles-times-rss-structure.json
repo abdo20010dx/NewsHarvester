@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "news",
+  "feedName": "los-angeles-times",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T09:29:14.873Z",
+  "sampleArticles": [
+    {
+      "title": "L.A. Home Depot raided twice in one day. Critics claim immigration agents are flouting a court order",
+      "link": "https://www.latimes.com/california/story/2025-08-08/federal-agents-target-day-laborers-in-raids-at-van-nuys-home-depot",
+      "description": "",
+      "pubDate": "Sat, 9 Aug 2025 01:29:44 GMT"
+    },
+    {
+      "title": "Rats! More than 100,000 acres of almond orchards across Central California are infested",
+      "link": "https://www.latimes.com/california/story/2025-08-08/rats-more-than-100-000-acres-of-almond-orchards-across-central-california-are-infested",
+      "description": "",
+      "pubDate": "Sat, 9 Aug 2025 01:16:11 GMT"
+    },
+    {
+      "title": "Walmart to pay $5.6 million to settle lawsuit alleging California shoppers were overcharged",
+      "link": "https://www.latimes.com/california/story/2025-08-08/walmart-to-pay-5-6-million-to-settle-lawsuit-alleging-they-overcharged-customers",
+      "description": "",
+      "pubDate": "Sat, 9 Aug 2025 01:15:51 GMT"
+    }
+  ]
+}

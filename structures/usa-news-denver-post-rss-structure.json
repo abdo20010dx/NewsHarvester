@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "news",
+  "feedName": "denver-post",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T09:04:57.398Z",
+  "sampleArticles": [
+    {
+      "title": "Today in History: August 9, U.S. bombs Nagasaki",
+      "link": "https://www.denverpost.com/2025/08/09/today-in-history-august-9-u-s-bombs-nagasaki-2/",
+      "description": "",
+      "pubDate": "Sat, 09 Aug 2025 08:00:23 +0000"
+    },
+    {
+      "title": "Skunk tests positive for rabies in Weld County",
+      "link": "https://www.denverpost.com/2025/08/08/skunk-rabies-weld-county/",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 22:30:14 +0000"
+    },
+    {
+      "title": "When Colorado wildfires threatened this Western Slope town, neighbors showed up for each other",
+      "link": "https://www.denverpost.com/2025/08/08/meeker-fire-lee-elk-colorado/",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 22:20:45 +0000"
+    }
+  ]
+}

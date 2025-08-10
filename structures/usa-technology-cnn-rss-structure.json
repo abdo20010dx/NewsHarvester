@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "technology",
+  "feedName": "cnn",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T08:59:01.637Z",
+  "sampleArticles": [
+    {
+      "title": "How to outsmart fake news in your Facebook feed",
+      "link": "http://www.cnn.com/2016/11/18/tech/how-to-spot-fake-misleading-news-trnd/index.html?eref=rss_tech",
+      "description": "Fake news is actually really easy to spot -- if you know how. Consider this your New Media Literacy Guide.",
+      "pubDate": "Fri, 18 Nov 2016 15:21:18 EST"
+    },
+    {
+      "title": "Revealed: Winners of the &apos;Oscars of watches&apos;",
+      "link": "http://www.cnn.com/2016/11/18/luxury/grand-prix-horlogerie-oscars-of-watches-2016/index.html?eref=rss_tech",
+      "description": "It&apos;s the prize giving ceremony that everyone&apos;s on time for.",
+      "pubDate": "Fri, 18 Nov 2016 15:17:23 EST"
+    },
+    {
+      "title": "Driverless &apos;Roborace&apos; car makes street track debut",
+      "link": "http://www.cnn.com/2016/11/18/motorsport/roborace-marrakech-cop22-formula-e/index.html?eref=rss_tech",
+      "description": "It is a car kitted out with technology its developers boldly predict will transform our cities and change the way we live.",
+      "pubDate": "Fri, 18 Nov 2016 15:21:35 EST"
+    }
+  ]
+}

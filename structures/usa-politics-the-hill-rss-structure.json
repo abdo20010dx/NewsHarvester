@@ -1,0 +1,33 @@
+{
+  "country": "usa",
+  "category": "politics",
+  "feedName": "the-hill",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-09T10:26:31.099Z",
+  "sampleArticles": [
+    {
+      "title": "Trump could be &#039;wild card&#039; in NFL, ESPN media deal: 5 things to know",
+      "link": "https://thehill.com/media/5443490-espn-nfl-trump-scrutiny/",
+      "description": "",
+      "pubDate": "Sat, 09 Aug 2025 10:00:00 +0000"
+    },
+    {
+      "title": "Abortion shield laws face mounting pressure",
+      "link": "https://thehill.com/policy/healthcare/5441281-gop-targets-state-abortion-shield-laws/",
+      "description": "",
+      "pubDate": "Sat, 09 Aug 2025 10:00:00 +0000"
+    },
+    {
+      "title": "Trump gives Israel tacit green light on Gaza takeover",
+      "link": "https://thehill.com/policy/international/5444092-trump-netanyahu-gaza-takeover/",
+      "description": "",
+      "pubDate": "Sat, 09 Aug 2025 10:00:00 +0000"
+    }
+  ]
+}

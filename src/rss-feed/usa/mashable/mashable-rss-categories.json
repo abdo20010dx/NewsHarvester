@@ -1,0 +1,10 @@
+{
+  "feedName": "mashable",
+  "displayName": "Mashable",
+  "urls": [
+    {
+      "category": "technology",
+      "url": "https://mashable.com/feed"
+    }
+  ]
+}

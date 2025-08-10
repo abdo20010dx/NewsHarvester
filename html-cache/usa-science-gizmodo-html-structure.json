@@ -1,0 +1,18 @@
+{
+  "country": "usa",
+  "category": "science",
+  "feedName": "gizmodo",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "title",
+    "authorSelector": ".author",
+    "dateSelector": "time",
+    "categorySelector": "[class*=\"category\"]",
+    "tagsSelector": ".post-tags",
+    "socialShareSelector": ".share-buttons"
+  },
+  "lastUpdated": "2025-08-08T23:48:05.092Z",
+  "sampleContent": "By Ed Cara Published August 8, 2025 | Comments (19) | 𝕏 Copied! People with type 1 diabetes need constant insulin treatment to survive. But new therapies may soon change that. © Badon Hill Studio via Shutterstock A new case study offers a tantalizing glimpse into the potential future of transplantation medicine. A man with type 1 diabetes is now able to make his own insulin thanks to a transplant of gene-edited pancreatic cells—a transplant that hasn’t required the typical drugs used to avoid rejection. Scientists in Sweden and the U.S. conducted the research, published this week in the New England Journal of Medicine. The 42-year-old man with long-standing diabetes was given donated islet cells that were genetically modified via CRISPR to prevent immune rejection. Roughly four months after the procedure, his fully gene-edited cells have continued to produce insulin without provoking an immune response. “Our study, although preliminary, suggests that immune evasion is an alternative c"
+}

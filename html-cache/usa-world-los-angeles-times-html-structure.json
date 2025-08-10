@@ -1,0 +1,18 @@
+{
+  "country": "usa",
+  "category": "world",
+  "feedName": "los-angeles-times",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "h1",
+    "authorSelector": ".byline",
+    "dateSelector": "time",
+    "categorySelector": "[class*=\"category\"]",
+    "tagsSelector": ".tags",
+    "socialShareSelector": "[class*=\"social\"]"
+  },
+  "lastUpdated": "2025-08-09T09:35:24.391Z",
+  "sampleContent": "California Gov. Gavin Newsom and Atty. Gen. Rob Bonta are backing a move by California to counter pro-GOP redistricting under consideration in Texas. (Noah Berger / Associated Press) By Anita ChabriaColumnist Follow Aug. 6, 2025 3 AM PT 73 Share via Close extra sharing options Email Facebook X LinkedIn Threads Reddit WhatsApp Copy Link URL Copied! Print Such is the state of our union that even those determined to preserve it are ready to throw out its basic tenets to do so.The difference between Texas and California is our ballot initiative process, which will ultimately make voters responsible for any gerrymandering here. Gov. Gavin Newsom made a ballsy threat this week to Texas legislators who are trying to gerrymander voting maps in favor of Republicans. “Whatever they are doing will be neutered here in the state of California, and they will pay that price,” Newsom said. “They’ve triggered this response. And we’re not going to roll over, and we’re going to fight fire with fire.”The "
+}

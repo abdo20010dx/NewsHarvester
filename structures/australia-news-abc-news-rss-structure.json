@@ -1,0 +1,33 @@
+{
+  "country": "australia",
+  "category": "news",
+  "feedName": "abc-news",
+  "structure": {
+    "itemTag": "item",
+    "titleTag": "title",
+    "linkTag": "link",
+    "descriptionTag": "description",
+    "pubDateTag": "pubDate"
+  },
+  "lastUpdated": "2025-08-08T09:06:59.724Z",
+  "sampleArticles": [
+    {
+      "title": "Erin Patterson denied poisoning husband using toxic pasta and chicken curry",
+      "link": "https://www.abc.net.au/news/2025-08-08/erin-patterson-poisoned-husband-simon-police-told-court/105363038",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 00:03:34 +0000"
+    },
+    {
+      "title": "Israel has approved a takeover of Gaza City. Here's what that could mean",
+      "link": "https://www.abc.net.au/news/2025-08-08/netanyahu-israel-war-cabinet-gaza-city-takeover-explained/105628256",
+      "description": "",
+      "pubDate": "Fri, 08 Aug 2025 04:54:18 +0000"
+    },
+    {
+      "title": "Israeli cabinet approves Gaza City takeover plan, Netanyahu's office says",
+      "link": "https://www.abc.net.au/news/2025-08-08/netanyahu-says-israel-intends-to-take-all-of-gaza/105626690",
+      "description": "",
+      "pubDate": "Thu, 07 Aug 2025 15:20:44 +0000"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "country": "usa",
+  "category": "business",
+  "feedName": "denver-post",
+  "structure": {
+    "contentSelectors": [
+      "article"
+    ],
+    "titleSelector": "title",
+    "authorSelector": ".byline",
+    "dateSelector": "time",
+    "categorySelector": "[class*=\"category\"]",
+    "socialShareSelector": "[class*=\"share\"]"
+  },
+  "lastUpdated": "2025-08-09T09:08:32.150Z",
+  "sampleContent": "(Courtesy REcolorado) The 11,000-square-foot mansion at Captain’s Rock Ranch was constructed in 1995 of chinked logs and Gallegos stone. (Courtesy REcolorado) By Sara B. HansenPUBLISHED: August 8, 2025 at 3:00 PM MDTA mansion on 667 acres in Evergreen sold for $10 million last month, topping local home sales. Captain’s Rock Ranch, as the property at 3999 Evans Ranch Road is known, includes an 11,376-square-foot mansion with five bedrooms and eight bathrooms. The home was constructed in 1995 of chinked logs and Gallegos stone. The property includes an indoor riding arena with eight stalls, a tack room, and an office, as well as a refurbished 1900s schoolhouse that the owners saved and moved to the property. That building could be used as a guest retreat or a studio. The property, sold by Brent Redstone and Anne M. Vanderwerken, was initially listed by Farm and Ranch in 2024 for $16.4 million before the asking price was reduced that May to $14.8 million. It was relisted for $10 million o"
+}
